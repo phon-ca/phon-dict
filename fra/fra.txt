@@ -48274,7 +48274,7 @@ essuyez	ɛsɥije
 essuyions	ɛsɥijɔ̃
 essuyons	ɛsɥijɔ̃
 est	ɛ
-est	est
+est	ɛst
 est-allemand	ɛstalmɑ̃
 est-allemande	ɛstalmɑ̃d
 est-allemands	ɛstalmɑ̃
