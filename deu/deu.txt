@@ -1,3 +1,5 @@
+#name German
+#lang deu
 A	ʔaː
 AIDS	ʔɛɪʦ
 Aachen	ʔaːxən

@@ -1,3 +1,5 @@
+#name Spanish
+#lang spa
 abad	aˈβað
 abadía	aβaˈðia
 abajo	aˈβaxo

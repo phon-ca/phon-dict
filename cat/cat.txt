@@ -1,3 +1,5 @@
+#name Catalan
+#lang cat
 àbac	ˈaβək
 abadessa	əβəˈðɛsə
 abadia	əβəˈðiə

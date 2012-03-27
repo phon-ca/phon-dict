@@ -1,3 +1,8 @@
+#name English
+#lang eng
+#ctr split:"'" lhs.ipa.phonex:"{}+ {-Strident,Voiceless}" rhs:"s" expr:"${lhs.ipa}s"
+#ctr split:"'" lhs.ipa.phonex:"{}+ {-Strident,Voiced}" rhs:"s" expr:"${lhs.ipa}z"
+#ctr split:"'" lhs.ipa.phonex:"{}+ {Strident}" rhs:"s" expr:"${lhs.ipa}əz"
 a	ə
 a	ˈeɪ
 aaa	ˌtɹɪpəˈleɪ

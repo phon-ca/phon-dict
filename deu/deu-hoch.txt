@@ -1,3 +1,5 @@
+#name German-Hoch
+#lang deu
 A	ʔaː
 Aachen	ʔaːxən
 Aal	ʔaːl

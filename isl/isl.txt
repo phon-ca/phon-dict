@@ -1,3 +1,5 @@
+#name Islandic
+#lang lsl
 abbadísin	apatiːsɪn
 abbast	apast
 Aco-Tæknival	aːkou taihknɪval
