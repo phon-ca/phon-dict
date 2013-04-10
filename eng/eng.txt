@@ -111284,9 +111284,9 @@ upside	ˈʌpˈsaɪd
 upsize	ˈʌpˈsaɪz
 upsizing	ˈʌpˈsaɪzɪŋ
 upson	ˈʌpsən
-upstage	əpˈsteɪʤ
-upstaged	ˈʌpˈsteɪʤd
-upstairs	əpˈstɛɹz
+upstage	ˌʌpˈsteɪʤ
+upstaged	ˌʌpˈsteɪʤd
+upstairs	ˌʌpˈstɛɹz
 upstanding	ˈʌpˌstændɪŋ
 upstart	ˈʌpˌstɑɹt
 upstarts	əpˈstɑɹts
