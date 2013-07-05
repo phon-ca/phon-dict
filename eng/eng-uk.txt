@@ -1,5 +1,5 @@
 #name English (UK)
-#lang eng
+#lang eng-uk
 A	eɪ
 a	eɪ
 A's	eɪz
