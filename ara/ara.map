@@ -1,5 +1,6 @@
-#name Arabic
+#name Arabic (transliteration)
 #lang ara
+:				ː
 "				ʔ
 b				b
 p				p
@@ -30,9 +31,6 @@ n				n
 h				h
 w				w
 y				j
-a:				aː
-u:				uː
-i:				iː
 a				a
 u				u
 i				i
@@ -40,10 +38,7 @@ i				i
 U				ʊ
 I				ɪ
 e				e
-e:				eː
 E				ɛ
-E:				ɛː
 O				o 
-O:				oː
 A				ɑ 
-A:				ɑː
+
