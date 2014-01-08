@@ -262,7 +262,7 @@ abramczyk	ˈɑbɹəmʧɪk
 abramo	ɑˈbɹɑmoʊ
 abramovitz	əˈbɹɑməˌvɪts
 abramowicz	əˈbɹɑməˌvɪʧ
-abramowitz	əˈbɹɑməwˌwɪts
+abramowitz	əˈbɹɑməˌwɪts
 abrams	ˈeɪbɹəmz
 abramson	ˈeɪbɹəmsən
 abrasion	əˈbɹeɪʒən
@@ -427,9 +427,9 @@ accented	ˈæksɛntəd
 accenting	ˈæksɛntɪŋ
 accents	ˈæksɛnts
 accentuate	əkˈsɛnʧuːeɪt
-accentuated	ækˈsɛnʧəwˌweɪtəd
+accentuated	ækˈsɛnʧəˌweɪtəd
 accentuates	əkˈsɛnʧuːeɪts
-accentuating	ækˈsɛnʧəwˌweɪtɪŋ
+accentuating	ækˈsɛnʧəˌweɪtɪŋ
 accept	ækˈsɛpt
 accept	əkˈsɛpt
 acceptability	əkˌsɛptəˈbɪlətiː
@@ -776,9 +776,9 @@ actually	ˈækʃliː
 actually	ˈækʧliː
 actually	ˈækʃəliː
 actuarial	ˌækʧəˈwɛɹiːəl
-actuaries	ˈækʧəwˌwɛɹiːz
-actuary	ˈækʧəwˌwɛɹiː
-actuate	ˈækʧəwˌweɪt
+actuaries	ˈækʧəˌwɛɹiːz
+actuary	ˈækʧəˌwɛɹiː
+actuate	ˈækʧəˌweɪt
 actuator	ˈæktjuːˌeɪtəɹ
 actuator	ˈækʧuːˌeɪtəɹ
 actuators	ˈæktjuːˌeɪtəɹz
@@ -2345,8 +2345,8 @@ alleviation	əˌliːviːˈeɪʃən
 alley	ˈæliː
 alleyne	ˈæˌleɪn
 alleys	ˈæliːz
-alleyway	ˈæliːwˌweɪ
-alleyways	ˈæliːwˌweɪz
+alleyway	ˈæliːˌweɪ
+alleyways	ˈæliːˌweɪz
 allgaier	ˈælɡaɪəɹ
 allgeier	ˈælɡaɪəɹ
 allgemeine	ˈɑlɡəˌmaɪn
@@ -4807,7 +4807,7 @@ arone	əɹˈoʊn
 aronhalt	ˈæɹənhəlt
 aronoff	ˈɛɹənɑf
 aronow	əɹˈoʊnoʊ
-aronowitz	əɹˈɑnəwˌwɪts
+aronowitz	əɹˈɑnəˌwɪts
 arons	ˈɑɹoʊnz
 aronson	ˈɛɹənsən
 aronstein	ˈɛɹənˌstiːn
@@ -5119,7 +5119,7 @@ asiamerica	ˌeɪsiːəˈmɛɹɪkə
 asian	ˈeɪʒən
 asians	ˈeɪʒənz
 asiatic	ˌeɪʒiːˈætɪk
-asiaweek	ˈeɪʒəwˌwiːk
+asiaweek	ˈeɪʒəˌwiːk
 asic	ˈæzɪk
 asics	ˈæzɪks
 aside	əˈsaɪd
@@ -5229,7 +5229,7 @@ assembly	əˈsɛmbliː
 assemblyman	əˈsɛmbliːˌmæn
 assemblyman	əˈsɛmbliːmən
 assemblymen	əˈsɛmbliːmɛn
-assemblywoman	əˈsɛmbliːwˌwʊmən
+assemblywoman	əˈsɛmbliːˌwʊmən
 assent	əˈsɛnt
 assert	əˈsʌɹt
 asserted	əˈsʌɹtəd
@@ -6610,7 +6610,7 @@ bailiff	ˈbeɪləf
 bailiffs	ˈbeɪləfs
 bailin	ˈbeɪˌlɪn
 bailing	ˈbeɪlɪŋ
-bailiwick	ˈbeɪləwˌwɪk
+bailiwick	ˈbeɪləˌwɪk
 baillargeon	bəˈlɑɹʤən
 baillie	ˈbeɪliː
 bailly	ˈbeɪliː
@@ -6706,7 +6706,7 @@ balboni	bɑlˈboʊniː
 balbriggan	bælˈbɹɪɡən
 balbriggans	bælˈbɹɪɡənz
 balcer	ˈbeɪlsəɹ
-balcerowicz	bælˈsɛɹəwˌwɪts
+balcerowicz	bælˈsɛɹəˌwɪts
 balcerzak	bəlˈʧʌɹzək
 balch	ˈbælʧ
 balchunas	ˈbælkuːnəz
@@ -8973,7 +8973,7 @@ beno	ˈbeɪnoʊ
 benoist	ˈbiːnoʊəst
 benoit	bəˈnɔɪt
 benoni	bɛˈnoʊniː
-benowitz	ˈbɛnəwˌwɪts
+benowitz	ˈbɛnəˌwɪts
 benoy	ˈbɛnɔɪ
 bens	ˈbɛnz
 bensalem	ˌbɛnˈseɪləm
@@ -9026,7 +9026,7 @@ benzine	ˈbɛnziːn
 benzing	ˈbɛnzɪŋ
 benzinger	ˈbɛnzɪŋəɹ
 beougher	ˈbaʊfəɹ
-beowulf	ˈbeɪəwˌwʊlf
+beowulf	ˈbeɪəˌwʊlf
 bequeath	bɪˈkwiːθ
 bequeathed	bəˈkwiːθt
 bequest	bɪˈkwɛst
@@ -9163,7 +9163,7 @@ berkman	ˈbʌɹkmən
 berko	ˈbʌɹkoʊ
 berkoff	ˈbʌɹkɑf
 berkovitz	ˈbʌɹkəˌvɪts
-berkowitz	ˈbʌɹkəwˌwɪts
+berkowitz	ˈbʌɹkəˌwɪts
 berkshire	ˈbʌɹkʃəɹ
 berkshire	ˈbʌɹkˌʃaɪɹ
 berkshires	ˈbʌɹkˌʃɪɹz
@@ -11102,7 +11102,7 @@ bogardus	ˈbɑɡɑɹdəs
 bogart	ˈboʊˌɡɑɹt
 bogdan	ˈbɑɡdən
 bogdanoff	ˈbɑɡdənɑf
-bogdanowicz	bəɡˈdænəwˌwɪtz
+bogdanowicz	bəɡˈdænəˌwɪtz
 bogdanski	bəɡˈdænskiː
 bogden	ˈbɑɡdən
 bogdon	ˈbɑɡdən
@@ -11391,7 +11391,7 @@ bonaventura	boʊnɑvɛnˈtʊɹə
 bonaventure	ˈbɑnəˌvɛnʧəɹ
 bonavia	ˌbɑˈneɪviːə
 bonavita	boʊnɑˈviːtə
-bonawitz	ˈbɑnəwˌwɪts
+bonawitz	ˈbɑnəˌwɪts
 bonczek	ˈbɑnʧɛk
 bond	ˈbɑnd
 bondage	ˈbɑndɪʤ
@@ -12477,7 +12477,7 @@ brandtner	ˈbɹæntnəɹ
 brandvold	ˈbɹændˌvoʊld
 brandwein	ˈbɹænˌdwaɪn
 brandy	ˈbɹændiː
-brandywine	ˈbɹændiːwˌwaɪn
+brandywine	ˈbɹændiːˌwaɪn
 braner	ˈbɹeɪnəɹ
 branford	ˈbɹænfəɹd
 brang	ˈbɹæŋ
@@ -12661,7 +12661,7 @@ bready	ˈbɹɛdiː
 break	ˈbɹeɪk
 breakable	ˈbɹeɪkəbəl
 breakage	ˈbɹeɪkɪʤ
-breakaway	ˈbɹeɪkəwˌweɪ
+breakaway	ˈbɹeɪkəˌweɪ
 breakdown	ˈbɹeɪkˌdaʊn
 breakdowns	ˈbɹeɪkˌdaʊnz
 breaker	ˈbɹeɪkəɹ
@@ -13158,7 +13158,7 @@ broached	ˈbɹoʊʧt
 broaches	ˈbɹoʊʧəz
 broaching	ˈbɹoʊʧɪŋ
 broad	ˈbɹɑd
-broadaway	ˈbɹɑdəwˌweɪ
+broadaway	ˈbɹɑdəˌweɪ
 broadband	ˈbɹɑdˌbænd
 broadbase	ˈbɹɑdˌbeɪs
 broadbased	ˈbɹɑdˌbeɪst
@@ -14669,7 +14669,7 @@ buttermilk	ˈbʌtəɹˌmɪlk
 buttermore	ˈbʌtəɹmɔɹ
 butters	ˈbʌtəɹz
 butterscotch	ˈbʌtəɹsˌkɑʧ
-butterworth	ˈbʌtəɹwˌwʌɹθ
+butterworth	ˈbʌtəɹˌwʌɹθ
 buttery	ˈbʌtəɹiː
 butthead	ˈbʌtˌhɛd
 butting	ˈbʌtɪŋ
@@ -15818,7 +15818,7 @@ caravelle	ˈkɛɹəˌvɛl
 caravello	ˌkæɹəˈvɛloʊ
 caraveo	kɑˈɹɑviːoʊ
 carawan	ˈkæɹəwæn
-caraway	ˈkæɹəwˌweɪ
+caraway	ˈkæɹəˌweɪ
 carbajal	kɑɹbɑjˈjæl
 carballo	kɑɹˈbɑloʊ
 carbary	ˈkɑɹbɛɹiː
@@ -16186,7 +16186,7 @@ carras	ˈkæɹəz
 carrasco	kɑˈɹɑskoʊ
 carrasquel	ˌkɛɹəsˈkɛl
 carrasquillo	ˌkɛɹəsˈkɪloʊ
-carraway	ˈkæɹəwˌweɪ
+carraway	ˈkæɹəˌweɪ
 carre	ˈkɑɹ
 carre	ˌkɑˈɹeɪ
 carreira	kɑˈɹɛɹə
@@ -16488,7 +16488,7 @@ cassock	ˈkæsək
 casson	ˈkæsən
 cassone	kɑˈsoʊniː
 cassoni	kəˈsoʊniː
-cassowary	ˈkæsəwˌwɛɹiː
+cassowary	ˈkæsəˌwɛɹiː
 casstevens	kɑsteɪˈveɪənz
 cast	ˈkæst
 casta	ˈkæstə
@@ -16500,8 +16500,8 @@ castaldo	kɑsˈtɑldoʊ
 castaneda	kɑstɑˈnɛdə
 castano	kɑsˈtɑnoʊ
 castanon	ˈkæstənɑn
-castaway	ˈkæstəwˌweɪ
-castaways	ˈkæstəwˌweɪz
+castaway	ˈkæstəˌweɪ
+castaways	ˈkæstəˌweɪz
 caste	ˈkæst
 casteel	ˈkeɪstiːl
 casteen	kəsˈtiːn
@@ -16693,7 +16693,7 @@ catherine	ˈkæθəɹən
 catherine	ˈkæθˌɹɪn
 catherman	ˈkæðəɹmən
 cathers	ˈkæðəɹz
-catherwood	ˈkæðəɹwˌwʊd
+catherwood	ˈkæðəɹˌwʊd
 catheter	ˈkæθətəɹ
 catheters	ˈkæθətəɹz
 cathey	ˈkæðiː
@@ -17849,7 +17849,7 @@ chengxiang	ˌʧɛŋˈʃɑŋ
 chenier	ˈʧiːniːəɹ
 chennault	ˈʧɛnɑlt
 chenoweth	ˈʧɛnəwɛθ
-chenowitz	ˈʧɛnəwˌwɪts
+chenowitz	ˈʧɛnəˌwɪts
 chenxiang	ˌʧɛnˈʃɑŋ
 cheong	ˈʧiːɑŋ
 cher	ˈʃɛɹ
@@ -18138,7 +18138,7 @@ chipman	ˈʧɪpmən
 chipote	ʧəˈpoʊt
 chipped	ˈʧɪpt
 chipper	ˈʧɪpəɹ
-chippewa	ˈʧɪpəwˌwɑ
+chippewa	ˈʧɪpəˌwɑ
 chipping	ˈʧɪpɪŋ
 chipps	ˈʧɪps
 chippy	ˈʧɪpiː
@@ -18432,7 +18432,7 @@ chronological	ˌkɹɑnəˈlɑʤɪkəl
 chronologically	ˌkɹɑnəˈlɑʤɪkliː
 chronologies	kɹəˈnɑləʤiːz
 chronology	kɹəˈnɑləʤiː
-chronowitz	ˈkɹɑnəwˌwɪts
+chronowitz	ˈkɹɑnəˌwɪts
 chrostowski	kɹəsˈtɑfskiː
 chrusciel	ˈkɹʌˌsiːl
 chrysanthemum	kɹəˈsænθəməm
@@ -18785,7 +18785,7 @@ cityfed	ˈsɪtiːˌfɛd
 cityplace	ˈsɪtiːˌpleɪs
 cityside	ˈsɪtiːˌsaɪd
 citytrust	ˈsɪtiːˌtɹʌst
-citywide	ˈsɪtiːwˌwaɪd
+citywide	ˈsɪtiːˌwaɪd
 ciucci	ˈʧuːʧiː
 ciudad	ˌsiːuːˈdæd
 ciulla	ˈʧuːlə
@@ -20080,7 +20080,7 @@ colorless	ˈkʌləɹləs
 colorocs	ˈkʌləɹˌɑks
 coloroll	ˈkʌləɹˌoʊl
 colors	ˈkʌləɹz
-colorwatch	ˈkʌləɹwˌwɑʧ
+colorwatch	ˈkʌləɹˌwɑʧ
 colosi	kəˈloʊsiː
 colosimo	koʊloʊˈsiːmoʊ
 colosio	kəˈloʊsiːoʊ
@@ -20383,7 +20383,7 @@ communists	ˈkɑmjənəss
 communists	ˈkɑmjənəs
 communities	kəˈmjuːnətiːz
 community	kəˈmjuːnətiː
-communitywide	kəˈmjuːnətiːwˌwaɪd
+communitywide	kəˈmjuːnətiːˌwaɪd
 communization	ˌkɑmjənəˈzeɪʃən
 communize	ˈkɑmjəˌnaɪz
 commute	kəˈmjuːt
@@ -20410,7 +20410,7 @@ companions	kəmˈpænjənz
 companionship	kəmˈpænjənˌʃɪp
 companionway	kəmˈpænjəˌnweɪ
 company	ˈkʌmpəniː
-companywide	ˈkʌmpəniːwˌwaɪd
+companywide	ˈkʌmpəniːˌwaɪd
 compaq	ˈkɑmˌpæk
 comparability	ˌkɑmpəɹəˈbɪlətiː
 comparable	ˈkɑmpəɹəbəl
@@ -20629,11 +20629,11 @@ computerland	kəmˈpjuːtəɹˌlænd
 computerlike	kəmˈpjuːtəɹˌlaɪk
 computers	kəmˈpjuːtəɹz
 computervision	kəmˈpjuːtəɹˌvɪʒən
-computerworld	kəmˈpjuːtəɹwˌwʌɹld
+computerworld	kəmˈpjuːtəɹˌwʌɹld
 computes	kəmˈpjuːts
 computing	kəmˈpjuːtɪŋ
 computrac	ˈkɑmpjuːˌtɹæk
-compuware	ˈkɑmpjuːwˌwɛɹ
+compuware	ˈkɑmpjuːˌwɛɹ
 comrade	ˈkɑmˌɹæd
 comrades	ˈkɑmˌɹædz
 comrie	ˈkɑməɹiː
@@ -21065,7 +21065,7 @@ conn	ˈkɑn
 connally	ˈkɑnəliː
 connaught	ˈkɑnɑt
 connaughton	ˈkɑnɑtɑn
-connaway	ˈkɑnəwˌweɪ
+connaway	ˈkɑnəˌweɪ
 connect	kəˈnɛkt
 connected	kəˈnɛktəd
 connecter	kəˈnɛktəɹ
@@ -21829,7 +21829,7 @@ copperman	ˈkɑpəɹmən
 coppernoll	kəˈpʌɹnoʊl
 coppers	ˈkɑpəɹz
 coppersmith	ˈkɑpəɹsˌmɪθ
-copperweld	ˈkɑpəɹwˌwɛld
+copperweld	ˈkɑpəɹˌwɛld
 coppery	ˈkɑpəɹiː
 coppess	ˈkɑpəs
 coppin	ˈkɑˌpɪn
@@ -22551,7 +22551,7 @@ countertop	ˈkaʊntəɹˌtɑp
 countertop	ˈkaʊnəɹˌtɑp
 countertrade	ˈkaʊntəɹˌtɹeɪd
 countervailing	ˈkaʊntəɹˌveɪlɪŋ
-counterweight	ˈkaʊntəɹwˌweɪt
+counterweight	ˈkaʊntəɹˌweɪt
 countess	ˈkaʊntəs
 counties	ˈkaʊntiːz
 counties	ˈkaʊniːz
@@ -22564,7 +22564,7 @@ countryfolk	ˈkʌntɹiːˌfoʊk
 countryman	ˈkʌntɹiːmən
 countrymen	ˈkʌntɹiːmɛn
 countryside	ˈkʌntɹiːˌsaɪd
-countrywide	ˈkʌntɹiːwˌwaɪd
+countrywide	ˈkʌntɹiːˌwaɪd
 counts	ˈkaʊnts
 county	ˈkaʊntiː
 county	ˈkaʊniː
@@ -23957,7 +23957,7 @@ curren	ˈkʌɹən
 currence	ˈkʌɹəns
 currencies	ˈkʌɹənsiːz
 currency	ˈkʌɹənsiː
-currencywatch	ˈkʌɹənsiːwˌwɑʧ
+currencywatch	ˈkʌɹənsiːˌwɑʧ
 currens	ˈkʌɹənz
 current	ˈkʌɹənt
 current	ˈkʌɹnt
@@ -25940,9 +25940,9 @@ delauter	ˈdɛlaʊtəɹ
 delaval	ˈdɛləvæl
 delavan	ˈdɛləvən
 delavega	deɪlɑˈveɪɡə
-delaware	ˈdɛləwˌwɛɹ
-delawarian	ˈdɛləwˌwɛɹiːən
-delawarians	ˈdɛləwˌwɛɹiːənz
+delaware	ˈdɛləˌwɛɹ
+delawarian	ˈdɛləˌwɛɹiːən
+delawarians	ˈdɛləˌwɛɹiːənz
 delawder	ˈdɛlɑdəɹ
 delay	dəˈleɪ
 delayed	dəˈleɪd
@@ -26867,7 +26867,7 @@ derry	ˈdɛɹiː
 derryberry	ˈdɛɹiːˌbɛɹiː
 dersch	ˈdʌɹʃ
 dershem	ˈdʌɹʃəm
-dershowitz	ˈdʌɹʃəwˌwɪts
+dershowitz	ˈdʌɹʃəˌwɪts
 derstine	ˈdʌɹstiːn
 derthick	ˈdʌɹθɪk
 derubeis	ˈdɛɹəbaɪz
@@ -28128,7 +28128,7 @@ dinneen	dəˈniːn
 dinner	ˈdɪnəɹ
 dinners	ˈdɪnəɹz
 dinnertime	ˈdɪnəɹˌtaɪm
-dinnerware	ˈdɪnəɹwˌwɛɹ
+dinnerware	ˈdɪnəɹˌwɛɹ
 dinning	ˈdɪnɪŋ
 dino	ˈdiːnoʊ
 dinosaur	ˈdaɪnəˌsɔɹ
@@ -29594,7 +29594,7 @@ donatists	ˈdɑnətəss
 donatists	ˈdɑnətəs
 donato	dəˈnɑtoʊ
 donavan	ˈdɑnəˌvæn
-donaway	ˈdɑnəwˌweɪ
+donaway	ˈdɑnəˌweɪ
 donde	ˈdɑnd
 dondero	doʊnˈdɛɹoʊ
 dondlinger	ˈdɑndəlɪŋəɹ
@@ -30852,7 +30852,7 @@ dunahoo	duːˈnɑhuː
 dunaj	ˈduːnəʤ
 dunavan	ˈdʌnəˌvæn
 dunavant	duːˈnɑvənt
-dunaway	ˈdʌnəwˌweɪ
+dunaway	ˈdʌnəˌweɪ
 dunay	ˈdʌneɪ
 dunbar	ˈdʌnbɑɹ
 dunblane	ˈdʌnˌbleɪn
@@ -31316,7 +31316,7 @@ earline	ˈʌɹlaɪn
 earll	ˈʌɹl
 earls	ˈʌɹlz
 early	ˈʌɹliː
-earlywine	ˈʌɹliːwˌwaɪn
+earlywine	ˈʌɹliːˌwaɪn
 earmark	ˈɪɹˌmɑɹk
 earmark	ˈiːɹˌmɑɹk
 earmarked	ˈɪɹˌmɑɹkt
@@ -31422,7 +31422,7 @@ easterly	ˈiːstəɹliː
 eastern	ˈiːstəɹn
 easterner	ˈiːstəɹnəɹ
 easterners	ˈiːstəɹnəɹz
-easterwood	ˈiːstəɹwˌwʊd
+easterwood	ˈiːstəɹˌwʊd
 eastes	ˈiːsts
 eastgroup	ˈiːstˌɡɹuːp
 eastham	ˈiːstəm
@@ -31507,7 +31507,7 @@ ebersole	ˈɛbəɹˌsoʊl
 eberstadt	ˈɛbəɹsˌtæt
 ebert	ˈɛbəɹt
 eberts	ˈɛbəɹts
-eberwein	ˈɛbəɹwˌwaɪn
+eberwein	ˈɛbəɹˌwaɪn
 ebey	ˈɛbiː
 ebinger	ˈɛbɪŋəɹ
 eble	ˈɛbəl
@@ -32599,7 +32599,7 @@ elopes	əˈloʊps
 eloquence	ˈɛləkwəns
 eloquent	ˈɛləkwənt
 eloquently	ˈɛləkwəntliː
-elouise	ˈɛləwˌwiːz
+elouise	ˈɛləˌwiːz
 elpers	ˈɛlpəɹz
 elrica	ˈɛlɹɪkə
 elrick	ˈɛlɹɪk
@@ -33939,7 +33939,7 @@ erasing	ɪˈɹeɪsɪŋ
 erasing	iːˈɹeɪsɪŋ
 erasmus	ɪˈɹæzməs
 erastus	ɪˈɹæstəs
-erawan	ˈɛɹəwˌwɑn
+erawan	ˈɛɹəˌwɑn
 erazo	ɛˈɹɑzoʊ
 erb	ˈʌɹb
 erbacher	ˈʌɹbɑkəɹ
@@ -34622,10 +34622,10 @@ eva	ˈeɪvə
 eva	ˈiːvə
 evacuate	ɪˈvækjəˌeɪt
 evacuate	iːˈvækjəˌeɪt
-evacuated	ɪˈvækjəwˌweɪtəd
-evacuated	iːˈvækjəwˌweɪtəd
-evacuating	ɪˈvækjəwˌweɪtɪŋ
-evacuating	iːˈvækjəwˌweɪtɪŋ
+evacuated	ɪˈvækjəˌweɪtəd
+evacuated	iːˈvækjəˌweɪtəd
+evacuating	ɪˈvækjəˌweɪtɪŋ
+evacuating	iːˈvækjəˌweɪtɪŋ
 evacuation	ɪˌvækjəˈweɪʃən
 evacuation	iːˌvækjəˈweɪʃən
 evacuations	ɪˌvækjəˈweɪʃənz
@@ -35986,7 +35986,7 @@ faraway	ˈfɑɹəweɪ
 farb	ˈfɑɹb
 farben	ˈfɑɹbən
 farber	ˈfɑɹbəɹ
-farberware	ˈfɑɹbəɹwˌwɛɹ
+farberware	ˈfɑɹbəɹˌwɛɹ
 farbman	ˈfɑɹbmən
 farce	ˈfɑɹs
 farcical	ˈfɑɹsəkəl
@@ -36381,7 +36381,7 @@ featherly	ˈfɛðəɹliː
 feathers	ˈfɛðəɹz
 featherston	ˈfɛðəɹstən
 featherstone	ˈfɛðəɹsˌtoʊn
-featherweight	ˈfɛðəɹwˌweɪt
+featherweight	ˈfɛðəɹˌweɪt
 feathery	ˈfɛðəɹiː
 feathery	ˈfɛðˌɹiː
 feats	ˈfiːts
@@ -36392,14 +36392,14 @@ features	ˈfiːʧəɹz
 featuring	ˈfiːʧəɹɪŋ
 feazel	ˈfiːzəl
 feazell	ˈfiːzəl
-feb	ˈfɛbjəwˌwɛɹiː
+feb	ˈfɛbjəˌwɛɹiː
 febles	ˈfɛbəlz
 febres	ˈfɛbɹəs
-february	ˈfɛbjəwˌwɛɹiː
-february	ˈfɛbəwˌwɛɹiː
-february	ˈfɛbɹuːwˌwɛɹiː
-february	ˈfɛbuːwˌwɛɹiː
-february	ˈfɛbjuːwˌwɛɹiː
+february	ˈfɛbjəˌwɛɹiː
+february	ˈfɛbəˌwɛɹiː
+february	ˈfɛbɹuːˌwɛɹiː
+february	ˈfɛbuːˌwɛɹiː
+february	ˈfɛbjuːˌwɛɹiː
 fecal	ˈfiːkəl
 feces	ˈfiːˌsiːz
 fecher	ˈfɛkəɹ
@@ -37026,7 +37026,7 @@ fiberglas	ˈfaɪbəɹˌɡlæs
 fiberglass	ˈfaɪbəɹˌɡlæs
 fiberoptic	ˈfaɪbəɹˌɑptɪk
 fibers	ˈfaɪbəɹz
-fiberweb	ˈfaɪbəɹwˌwɛb
+fiberweb	ˈfaɪbəɹˌwɛb
 fibre	ˈfaɪbəɹ
 fibreboard	ˈfaɪbəɹˌbɔɹd
 fibrile	ˈfaɪbˌɹɪl
@@ -37559,8 +37559,8 @@ firestine	faɪɹˈstiːniː
 firestone	ˈfaɪɹˌstoʊn
 firestorm	ˈfaɪɹˌstɔɹm
 firewall	ˈfaɪɹwɑl
-fireweed	ˈfaɪəɹwˌwiːd
-firewood	ˈfaɪəɹwˌwʊd
+fireweed	ˈfaɪəɹˌwiːd
+firewood	ˈfaɪəɹˌwʊd
 firewood	ˈfaɪɹˌwʊd
 firework	ˈfaɪɹˌwʌɹk
 fireworks	ˈfaɪɹˌwʌɹks
@@ -38214,10 +38214,10 @@ floyd	ˈflɔɪd
 flu	ˈfluː
 flubs	ˈflʌbz
 fluck	ˈflʌk
-fluctuate	ˈflʌkʧəwˌweɪt
-fluctuated	ˈflʌkʧəwˌweɪtəd
+fluctuate	ˈflʌkʧəˌweɪt
+fluctuated	ˈflʌkʧəˌweɪtəd
 fluctuates	ˈflʌkʧuːˌeɪts
-fluctuating	ˈflʌkʧəwˌweɪtɪŋ
+fluctuating	ˈflʌkʧəˌweɪtɪŋ
 fluctuation	ˌflʌkʧuːˈeɪʃən
 fluctuations	ˌflʌkʧuːˈeɪʃənz
 flud	ˈflʌd
@@ -40494,7 +40494,7 @@ gallardo	ɡɑˈlɑɹdoʊ
 gallas	ˈɡæləz
 gallatin	ˈɡæləˌtɪn
 gallaudet	ˈɡælədɛt
-gallaway	ˈɡɑləwˌweɪ
+gallaway	ˈɡɑləˌweɪ
 gallbladder	ˈɡɑlˌblædəɹ
 galle	ˈɡeɪl
 galle	ˌɡæˈleɪ
@@ -40957,7 +40957,7 @@ garza	ˈɡɑɹzə
 garzarelli	ˈɡɑɹzəɹˌɛliː
 garzon	ˈɡɑɹzən
 gas	ˈɡæs
-gasaway	ˈɡæsəwˌweɪ
+gasaway	ˈɡæsəˌweɪ
 gasbarro	ɡɑsˈbɑɹoʊ
 gasca	ˈɡɑskə
 gascon	ˈɡæskən
@@ -41592,9 +41592,9 @@ gentry	ˈʤɛntɹiː
 gentz	ˈʤɛnts
 gentzler	ˈʤɛntsləɹ
 genuine	ˈʤɛnjəwən
-genuine	ˈʤɛnjuːwˌwaɪn
+genuine	ˈʤɛnjuːˌwaɪn
 genuinely	ˈʤɛnjəwənliː
-genuinely	ˈʤɛnjuːwˌwaɪnliː
+genuinely	ˈʤɛnjuːˌwaɪnliː
 genuineness	ˈʤɛnjəwənəs
 genung	ˈʤɛnəŋ
 genus	ˈʤiːnəs
@@ -41801,7 +41801,7 @@ gersch	ˈɡʌɹʃ
 gersh	ˈɡʌɹʃ
 gershman	ˈɡʌɹʃmən
 gershon	ˈɡʌɹʃən
-gershowitz	ˈɡʌɹʃəwˌwɪts
+gershowitz	ˈɡʌɹʃəˌwɪts
 gershwin	ˈɡʌɹʃwən
 gerski	ˈɡʌɹskiː
 gerson	ˈʤʌɹsən
@@ -41859,8 +41859,8 @@ gesturing	ˈʤɛsʧəɹɪŋ
 gesualdi	ʤɛsuːˈɑldiː
 get	ˈɡɛt
 get	ˈɡɪt
-getaway	ˈɡɛtəwˌweɪ
-getaways	ˈɡɛtəwˌweɪz
+getaway	ˈɡɛtəˌweɪ
+getaways	ˈɡɛtəˌweɪz
 getchell	ˈɡɛʧəl
 geter	ˈɡɛtəɹ
 gethers	ˈɡɛðəɹz
@@ -42419,8 +42419,8 @@ giusti	ˈʤuːstiː
 giusto	ˈʤuːstoʊ
 givan	ˈɡɪvən
 give	ˈɡɪv
-giveaway	ˈɡɪvəwˌweɪ
-giveaways	ˈɡɪvəwˌweɪz
+giveaway	ˈɡɪvəˌweɪ
+giveaways	ˈɡɪvəˌweɪz
 giveback	ˈɡaɪvˌbæk
 givebacks	ˈɡaɪvˌbæks
 given	ˈɡɪvən
@@ -43674,16 +43674,16 @@ gradualist	ˈɡɹæʤəwəˌlɪst
 gradually	ˈɡɹæʤuːəliː
 gradually	ˈɡɹæʤuːliː
 graduate	ˈɡɹæʤəwət
-graduate	ˈɡɹæʤəwˌweɪt
+graduate	ˈɡɹæʤəˌweɪt
 graduate	ˈɡɹæʤuːwət
 graduate	ˈɡɹæʤuːˌeɪt
 graduated	ˈɡɹæʤuːˌeɪtəd
-graduated	ˈɡɹæʤəwˌweɪtəd
+graduated	ˈɡɹæʤəˌweɪtəd
 graduates	ˈɡɹæʤəwəts
-graduates	ˈɡɹæʤəwˌweɪts
+graduates	ˈɡɹæʤəˌweɪts
 graduates	ˈɡɹæʤuːwəts
 graduates	ˈɡɹæʤuːˌeɪts
-graduating	ˈɡɹæʤəwˌweɪtɪŋ
+graduating	ˈɡɹæʤəˌweɪtɪŋ
 graduating	ˈɡɹæʤuːˌeɪtɪŋ
 graduation	ˌɡɹæʤuːˈeɪʃən
 graduation	ˌɡɹæʤəˈweɪʃən
@@ -44111,8 +44111,8 @@ greelieville	ˈɡɹiːliːˌvɪl
 greely	ˈɡɹiːliː
 green	ˈɡɹiːn
 greenan	ˈɡɹiːnən
-greenawalt	ˈɡɹiːnəwˌwɑlt
-greenaway	ˈɡɹiːnəwˌweɪ
+greenawalt	ˈɡɹiːnəˌwɑlt
+greenaway	ˈɡɹiːnəˌweɪ
 greenback	ˈɡɹiːnˌbæk
 greenbacks	ˈɡɹiːnˌbæks
 greenbaum	ˈɡɹiːnˌbaʊm
@@ -45685,7 +45685,7 @@ haim	ˈheɪm
 haimes	ˈheɪmz
 haimovitch	ˈheɪməvɪʧ
 haimovitz	ˈheɪməˌvɪts
-haimowitz	ˈhaɪməwˌwɪts
+haimowitz	ˈhaɪməˌwɪts
 hain	ˈheɪn
 hainan	ˈheɪnən
 hainer	ˈheɪnəɹ
@@ -46053,7 +46053,7 @@ hanak	ˈhɑnək
 hanan	ˈheɪnən
 hanas	ˈhænəz
 hanauer	ˈhænaʊəɹ
-hanawalt	ˈhænəwˌwɑlt
+hanawalt	ˈhænəˌwɑlt
 hanaway	ˈhænəweɪ
 hanback	ˈhænˌbæk
 hanberry	ˈhænˌbɛɹiː
@@ -46112,7 +46112,7 @@ handicrafts	ˈhændiːˌkɹæfts
 handier	ˈhændiːəɹ
 handily	ˈhændəliː
 handing	ˈhændɪŋ
-handiwork	ˈhændiːwˌwʌɹk
+handiwork	ˈhændiːˌwʌɹk
 handke	ˈhændkiː
 handkerchief	ˈhæŋkəɹʧəf
 handkerchief	ˈhæŋkəɹʧiːf
@@ -46396,7 +46396,7 @@ hard	ˈhɑɹd
 hardacre	ˈhɑɹˌdeɪkəɹ
 hardage	ˈhɑɹdɪʤ
 hardart	ˈhɑɹˌdɑɹt
-hardaway	ˈhɑɹdəwˌweɪ
+hardaway	ˈhɑɹdəˌweɪ
 hardback	ˈhɑɹdˌbæk
 hardball	ˈhɑɹdˌbɑl
 hardboard	ˈhɑɹdˌbɔɹd
@@ -46865,7 +46865,7 @@ hasz	ˈhɑʃ
 hat	ˈhæt
 hata	ˈhɑtə
 hatala	ˈhætələ
-hataway	ˈhætəwˌweɪ
+hataway	ˈhætəˌweɪ
 hatch	ˈhæʧ
 hatchback	ˈhæʧˌbæk
 hatched	ˈhæʧt
@@ -46888,7 +46888,7 @@ haters	ˈheɪtəɹz
 hates	ˈheɪts
 hatfield	ˈhætˌfiːld
 hath	ˈhæθ
-hathaway	ˈhæθəwˌweɪ
+hathaway	ˈhæθəˌweɪ
 hathcoat	ˈhæθˌkoʊt
 hathcock	ˈhæθkək
 hatheway	ˈheɪðweɪ
@@ -47344,8 +47344,8 @@ heavrin	ˈhiːvˌɹɪn
 heavy	ˈhɛviː
 heavyhanded	ˈhɛviːˌhændəd
 heavyset	ˈhɛviːˌsɛt
-heavyweight	ˈhɛviːwˌweɪt
-heavyweights	ˈhɛviːwˌweɪts
+heavyweight	ˈhɛviːˌweɪt
+heavyweights	ˈhɛviːˌweɪts
 hebard	ˈhɛbəɹd
 hebb	ˈhɛb
 hebda	ˈhɛbdə
@@ -48282,11 +48282,11 @@ hersh	ˈhʌɹʃ
 hershberger	ˈhʌɹʃbəɹɡəɹ
 hershey	ˈhʌɹʃiː
 hershiser	ˈhʌɹʃaɪzəɹ
-hershkowitz	ˈhʌɹʃkəwˌwɪts
+hershkowitz	ˈhʌɹʃkəˌwɪts
 hershman	ˈhʌɹʃmən
 hershner	ˈhʌɹʃnəɹ
 herskovitz	ˈhʌɹskəˌvɪts
-herskowitz	ˈhʌɹskəwˌwɪts
+herskowitz	ˈhʌɹskəˌwɪts
 hersman	ˈhʌɹsmən
 hersom	ˈhʌɹsəm
 herson	ˈhʌɹsən
@@ -48523,7 +48523,7 @@ hidalgo	həˈdælˌɡoʊ
 hidden	ˈhɪdən
 hide	ˈhaɪd
 hideaki	ˌhiːdeɪˈɑkiː
-hideaway	ˈhaɪdəwˌweɪ
+hideaway	ˈhaɪdəˌweɪ
 hidebound	ˈhaɪdˌbaʊnd
 hideo	həˈdeɪoʊ
 hideous	ˈhɪdiːəs
@@ -49360,7 +49360,7 @@ holcomb	ˈhoʊlkəm
 holcombe	ˈhoʊlkəm
 hold	ˈhoʊld
 holda	ˈhoʊldə
-holdaway	ˈhoʊldəwˌweɪ
+holdaway	ˈhoʊldəˌweɪ
 holde	ˈhoʊld
 holdeman	ˈhoʊldmən
 holden	ˈhoʊldən
@@ -49494,7 +49494,7 @@ hollyfield	ˈhɑliːˌfiːld
 hollyhead	ˈhɑliːˌhɛd
 hollyhock	ˈhɑliːˌhɑk
 hollyhocks	ˈhɑliːˌhɑks
-hollywood	ˈhɑliːwˌwʊd
+hollywood	ˈhɑliːˌwʊd
 holm	ˈhoʊm
 holman	ˈhɑlmən
 holmberg	ˈhoʊlmbəɹɡ
@@ -49734,7 +49734,7 @@ honeymoons	ˈhʌniːˌmuːnz
 honeys	ˈhʌniːz
 honeysuckle	ˈhʌniːˌsʌkəl
 honeysuckles	ˈhʌniːˌsʌkəlz
-honeywell	ˈhʌniːwˌwɛl
+honeywell	ˈhʌniːˌwɛl
 hong	ˈhɑŋ
 hongkong	ˈhɑŋkɑŋ
 hongwei	ˈhɑŋˈweɪ
@@ -51119,7 +51119,7 @@ hymnal	ˈhɪmnəl
 hymnals	ˈhɪmnəlz
 hymnology	ˌhɪmˈnɑləʤiː
 hymns	ˈhɪmz
-hymowitz	ˈhɪməwˌwɪts
+hymowitz	ˈhɪməˌwɪts
 hynd	ˈhɪnd
 hyndman	ˈhɪndmən
 hynds	ˈhɪndz
@@ -52420,7 +52420,7 @@ industries	ˈɪndəstɹiːz
 industrious	ˌɪnˈdʌstɹiːəs
 industrivaerden	ˈɪndəstɹiːˌvɛɹdən
 industry	ˈɪndəstɹiː
-industrywide	ˈɪndəstɹiːwˌwaɪd
+industrywide	ˈɪndəstɹiːˌwaɪd
 indy	ˈɪndiː
 indyk	ˈɪndɪk
 inedible	ˌɪˈnɛdəbəl
@@ -54084,7 +54084,7 @@ ish	ˈɪʃ
 isham	ˈɪʃəm
 ishaq	ˈɪʃæk
 ishee	ˈɪʃiː
-isherwood	ˈɪʃəɹwˌwʊd
+isherwood	ˈɪʃəɹˌwʊd
 ishi	ˈɪʃiː
 ishibashi	ɪʃiːˈbɑʃiː
 ishida	ɪˈʃiːdə
@@ -54262,7 +54262,7 @@ itty	ˈɪtiː
 itzhak	ˈɪtsɑk
 itzhak	ˈɪtsæk
 itzhak	ˈɪtshæk
-itzkowitz	ˈɪtskəwˌwɪts
+itzkowitz	ˈɪtskəˌwɪts
 iuliano	iːuːliːˈɑnoʊ
 iuliano	juːliːˈɑnoʊ
 iva	ˈiːvə
@@ -54409,7 +54409,7 @@ jacobite	ˈʤækəˌbaɪt
 jacobites	ˈʤækəˌbaɪts
 jacobo	jɑˈkoʊboʊ
 jacoboski	ˌʤækoʊˈbɑskiː
-jacobowitz	jəˈkɑbəwˌwɪts
+jacobowitz	jəˈkɑbəˌwɪts
 jacobs	ˈʤeɪkəbz
 jacobsen	ˈʤeɪkəbsən
 jacobson	ˈʤeɪkəbsən
@@ -54623,7 +54623,7 @@ janovsky	ʤəˈnɑvskiː
 janow	ˈjænoʊ
 janowiak	jəˈnaʊiːæk
 janowicz	ˈjænəvɪʧ
-janowitz	ˈjænəwˌwɪts
+janowitz	ˈjænəˌwɪts
 janowski	jəˈnɑfskiː
 jans	ˈʤænz
 jansa	ˈʤænsə
@@ -56053,7 +56053,7 @@ kantian	ˈkæntiːən
 kantner	ˈkæntnəɹ
 kantola	kənˈtoʊlə
 kantor	ˈkæntəɹ
-kantrowitz	ˈkæntɹəwˌwɪts
+kantrowitz	ˈkæntɹəˌwɪts
 kantz	ˈkænts
 kanz	ˈkænz
 kanzi	ˈkɑnziː
@@ -56073,7 +56073,7 @@ kaplan	ˈkæplən
 kapler	ˈkeɪpələɹ
 kaplin	ˈkæpˌlɪn
 kaplow	ˈkæploʊ
-kaplowitz	ˈkɑpləwˌwɪts
+kaplowitz	ˈkɑpləˌwɪts
 kapner	ˈkæpnəɹ
 kapnick	ˈkæpnɪk
 kapoor	kəˈpuːɹ
@@ -57068,7 +57068,7 @@ ki	ˈkiː
 kia	ˈkiːə
 kiam	ˈkiːəm
 kiawah	ˈkaɪəwə
-kiawah	ˈkiːəwˌwʌ
+kiawah	ˈkiːəˌwʌ
 kibbe	ˈkɪb
 kibbee	ˈkɪˌbiː
 kibbel	ˈkɪbəl
@@ -57277,8 +57277,8 @@ kilometer	ˈkɪləˌmiːtəɹ
 kilometers	kəˈlɑmətəɹz
 kilometers	ˈkɪləˌmiːtəɹz
 kilos	ˈkiːˌloʊz
-kilowatt	ˈkɪləwˌwɑt
-kilowatts	ˈkɪləwˌwɑts
+kilowatt	ˈkɪləˌwɑt
+kilowatts	ˈkɪləˌwɑts
 kilpatrick	ˌkɪlˈpætɹɪk
 kilroy	ˈkɪlˌɹɔɪ
 kilt	ˈkɪlt
@@ -57670,7 +57670,7 @@ kitterman	ˈkɪtəɹmən
 kittie	ˈkɪtiː
 kitties	ˈkɪtiːz
 kittinger	ˈkɪtɪŋəɹ
-kittiwake	ˈkɪtəwˌweɪk
+kittiwake	ˈkɪtəˌweɪk
 kittle	ˈkɪtəl
 kittler	ˈkɪtələɹ
 kittles	ˈkɪtəlz
@@ -58686,7 +58686,7 @@ kotila	kəˈtaɪlə
 kotlarz	ˈkɑtləɹz
 kotler	ˈkoʊtələɹ
 kotler	ˈkɑtləɹ
-kotlowitz	ˈkɑtləwˌwɪts
+kotlowitz	ˈkɑtləˌwɪts
 koto	ˈkoʊtoʊ
 kotowski	kəˈtɑfskiː
 kotsonis	ˌkætˈsoʊnəs
@@ -59189,7 +59189,7 @@ kuby	ˈkjuːbiː
 kuc	ˈkʌk
 kucan	ˈkjuːkən
 kucera	kəˈʧɪɹə
-kucewicz	ˈkjuːsəwˌwɪts
+kucewicz	ˈkjuːsəˌwɪts
 kuch	ˈkʌʧ
 kuchar	ˈkʌkəɹ
 kucharski	kəˈʧɑɹskiː
@@ -59856,7 +59856,7 @@ lahue	ˈlæhjuː
 lai	ˈlaɪ
 laib	ˈleɪb
 laible	ˈleɪbəl
-laibowitz	ˈleɪbəwˌwɪts
+laibowitz	ˈleɪbəˌwɪts
 laibrook	ˈleɪbˌɹʊk
 laiche	ˈleɪʧ
 laid	ˈleɪd
@@ -60440,7 +60440,7 @@ laraine	ləɹˈeɪn
 laramee	ˈlæɹəmiː
 laramie	ˈlɛɹəmiː
 laramore	ˈlæɹəˌmɔɹ
-laraway	ˈlæɹəwˌweɪ
+laraway	ˈlæɹəˌweɪ
 larcenous	ˈlɑɹsənəs
 larceny	ˈlɑɹsəniː
 larch	ˈlɑɹʧ
@@ -61165,7 +61165,7 @@ leatherberry	ˈlɛðəɹˌbɛɹiː
 leatherbury	ˈlɛðəɹˌbɛɹiː
 leatherman	ˈlɛðəɹmən
 leathers	ˈlɛðəɹz
-leatherwood	ˈlɛðəɹwˌwʊd
+leatherwood	ˈlɛðəɹˌwʊd
 leathery	ˈlɛðəɹiː
 leaton	ˈliːtən
 leatrice	ˈliːtˌɹɪs
@@ -61213,7 +61213,7 @@ lebon	ˈlɛbən
 lebouef	ləˈbʌf
 lebovitz	ˈlɛbəˌvɪts
 lebow	ləˈboʊ
-lebowitz	ˈlɛbəwˌwɪts
+lebowitz	ˈlɛbəˌwɪts
 lebrecht	ˈlɛbɹɪkt
 lebreton	ˈlɛbˌɹɪtɑn
 lebron	ˈlɛbɹən
@@ -61281,7 +61281,7 @@ ledford	ˈlɛdfəɹd
 ledge	ˈlɛʤ
 ledger	ˈlɛʤəɹ
 ledgers	ˈlɛʤəɹz
-ledgerwood	ˈlɛʤəɹwˌwʊd
+ledgerwood	ˈlɛʤəɹˌwʊd
 ledges	ˈlɛʤəz
 ledin	ˈlɛˌdɪn
 ledlow	ˈlɛdˈloʊ
@@ -61345,7 +61345,7 @@ lefferts	ˈlɛfəɹts
 leffew	ˈlɛfjuː
 leffingwell	ˈlɛfɪŋɡwɛl
 leffler	ˈlɛfləɹ
-lefkowitz	ˈlɛfkəwˌwɪts
+lefkowitz	ˈlɛfkəˌwɪts
 lefler	ˈlɛfləɹ
 leflore	ˈlɛfləɹ
 lefort	ˈlɛfəɹt
@@ -62280,7 +62280,7 @@ liddle	ˈlɪdəl
 liddy	ˈlɪdiː
 lide	ˈlaɪd
 liden	ˈlaɪdən
-lidgerwood	ˈlɪʤəɹwˌwʊd
+lidgerwood	ˈlɪʤəɹˌwʊd
 lido	ˈliːdoʊ
 lids	ˈlɪdz
 lie	ˈlaɪ
@@ -62301,7 +62301,7 @@ liebler	ˈliːbləɹ
 liebling	ˈliːbəlɪŋ
 liebman	ˈliːbmən
 liebmann	ˈliːbmən
-liebowitz	ˈliːbəwˌwɪts
+liebowitz	ˈliːbəˌwɪts
 liechtenstein	ˈlɪktənˌstaɪn
 liechty	ˈliːʧtiː
 lied	ˈlaɪd
@@ -64728,7 +64728,7 @@ mackerel	ˈmækəɹəl
 mackert	ˈmækəɹt
 mackey	ˈmækiː
 mackie	ˈmækiː
-mackiewicz	ˈmækiːəwˌwɪts
+mackiewicz	ˈmækiːəˌwɪts
 mackin	ˈmæˌkɪn
 mackinaw	ˈmækəˌnɑ
 mackinley	məˈkɪnliː
@@ -65753,7 +65753,7 @@ mankato	mænˈkɑtoʊ
 manke	ˈmæŋk
 manker	ˈmæŋkəɹ
 mankey	ˈmænˌkiː
-mankiewicz	ˈmæŋkəwˌwɪts
+mankiewicz	ˈmæŋkəˌwɪts
 mankiller	ˈmænˌkɪləɹ
 mankin	ˈmæŋˌkɪn
 mankind	ˈmænˈkaɪnd
@@ -66279,7 +66279,7 @@ markovich	ˈmɑɹkəˌvɪʧ
 markovitz	ˈmɑɹkəˌvɪts
 markow	ˈmɑɹkoʊ
 markowicz	ˈmɑɹkəˌvɪʧ
-markowitz	ˈmɑɹkəwˌwɪts
+markowitz	ˈmɑɹkəˌwɪts
 markowski	məɹˈkɑfskiː
 marks	ˈmɑɹks
 marksberry	ˈmɑɹkˌsbɛɹiː
@@ -66768,8 +66768,8 @@ masterpieces	ˈmæstəɹˌpiːsəz
 masters	ˈmæstəɹz
 masterson	ˈmæstəɹsən
 masterstroke	ˈmæstəɹsˌtɹoʊk
-masterwork	ˈmæstəɹwˌwʌɹk
-masterworks	ˈmæstəɹwˌwʌɹks
+masterwork	ˈmæstəɹˌwʌɹk
+masterworks	ˈmæstəɹˌwʌɹks
 mastery	ˈmæstəɹiː
 masthead	ˈmæstˌhɛd
 mastif	ˈmæstəf
@@ -68597,8 +68597,8 @@ megarry	ˈmɛɡəɹiː
 megastore	ˈmɛɡəsˌtɔɹ
 megastores	ˈmɛɡəsˌtɔɹz
 megatons	ˈmɛɡəˌtʌnz
-megawatt	ˈmɛɡəwˌwɑt
-megawatts	ˈmɛɡəwˌwɑts
+megawatt	ˈmɛɡəˌwɑt
+megawatts	ˈmɛɡəˌwɑts
 megee	ˈmɛʤiː
 meger	ˈmɛɡəɹ
 megginson	ˈmɛɡənsən
@@ -68937,7 +68937,7 @@ mendillo	ˌmɛnˈdɪloʊ
 mending	ˈmɛndɪŋ
 mendiola	ˌmɛndiːˈoʊlə
 mendivil	meɪndiːˈviːl
-mendlowitz	ˈmɛndləwˌwɪts
+mendlowitz	ˈmɛndləˌwɪts
 mendocino	ˌmɛndəˈsiːnoʊ
 mendola	mɛnˈdoʊlə
 mendolia	mɛnˈdoʊliːə
@@ -69144,8 +69144,8 @@ meritor	ˈmɛɹəˌtɔɹ
 meritorious	ˌmɛɹəˈtɔɹiːəs
 merits	ˈmɛɹəts
 meritt	ˈmɛˌɹɪt
-meriweather	ˈmɛɹəwˌwɛðəɹ
-meriwether	ˈmɛɹəwˌwɛðəɹ
+meriweather	ˈmɛɹəˌwɛðəɹ
+meriwether	ˈmɛɹəˌwɛðəɹ
 merk	ˈmʌɹk
 merkel	ˈmʌɹkəl
 merker	ˈmʌɹkəɹ
@@ -69501,7 +69501,7 @@ meyerbeer	ˈmaɪəɹˌbɪɹ
 meyerhoff	ˈmaɪəɹhɑf
 meyering	ˈmeɪəɹɪŋ
 meyerman	ˈmaɪəɹmən
-meyerowitz	ˈmaɪəɹəwˌwɪts
+meyerowitz	ˈmaɪəɹəˌwɪts
 meyers	ˈmaɪəɹz
 meyerson	ˈmaɪəɹsən
 meyn	ˈmeɪn
@@ -69704,7 +69704,7 @@ microtubules	ˈmaɪkˌɹoʊˈtuːbjuːlz
 microvax	ˈmaɪkɹoʊˌvæks
 microware	ˈmaɪkˌɹoʊˈwɛɹ
 microwavable	ˌmaɪkɹoʊˈweɪvəbəl
-microwave	ˈmaɪkɹəwˌweɪv
+microwave	ˈmaɪkɹəˌweɪv
 microwaved	ˈmaɪkɹoʊˌweɪvd
 microwaves	ˈmaɪkɹoʊˌweɪvz
 microx	ˈmɪkɹəks
@@ -70587,8 +70587,8 @@ mishandling	ˌmɪsˈhændlɪŋ
 mishap	ˈmɪsˌhæp
 mishaps	ˈmɪsˌhæps
 mishawaka	ˌmɪʃəˈwɑkə
-mishawaum	ˈmɪʃəwˌwɑm
-mishawum	ˈmɪʃəwˌwʌm
+mishawaum	ˈmɪʃəˌwɑm
+mishawum	ˈmɪʃəˌwʌm
 mishear	ˌmɪsˈhiːɹ
 misheard	ˌmɪsˈhʌɹd
 mishkin	ˈmiːʃkiːn
@@ -71384,8 +71384,8 @@ moneymakers	ˈmʌniːˌmeɪkəɹz
 moneymaking	ˈmʌniːˌmeɪkɪŋ
 moneypenny	ˈmʌniːˌpɛniː
 moneys	ˈmʌniːz
-moneywatch	ˈmʌniːwˌwɑʧ
-moneyweek	ˈmʌniːwˌwiːk
+moneywatch	ˈmʌniːˌwɑʧ
+moneyweek	ˈmʌniːˌwiːk
 monfils	ˈmɑnˌfɪlz
 monfort	ˈmɑnfəɹt
 monforte	moʊnˈfɔɹtiː
@@ -71906,7 +71906,7 @@ moros	ˈmɔɹoʊz
 morose	məɹˈoʊs
 morosky	mɑˈɹɑskiː
 morovcic	mɑˈɹɑvʧɪk
-morowick	ˈmɔɹəwˌwɪk
+morowick	ˈmɔɹəˌwɪk
 moroz	ˈmɔɹoʊz
 morph	ˈmɔɹf
 morphew	ˈmɔɹfjuː
@@ -72034,7 +72034,7 @@ mosko	ˈmoʊskoʊ
 moskolenko	ˌmɑskoʊˈlɛŋkoʊ
 moskovitz	ˈmɑskəˌvɪts
 moskow	ˈmɑskoʊ
-moskowitz	ˈmɑskəwˌwɪts
+moskowitz	ˈmɑskəˌwɪts
 moskwa	ˈmɑskvə
 mosle	ˈmoʊsəl
 moslem	ˈmɑzləm
@@ -74031,7 +74031,7 @@ netherlandic	ˈnɛðəɹˌlændɪk
 netherlands	ˈnɛðəɹləndz
 nethers	ˈnɛðəɹz
 netherton	ˈnɛðəɹtən
-netherworld	ˈnɛðəɹwˌwʌɹld
+netherworld	ˈnɛðəɹˌwʌɹld
 nethery	ˈnɛðəɹiː
 nethuva	ˌnɛˈθuːvə
 netlike	ˈnɛtˌlaɪk
@@ -74246,8 +74246,8 @@ newlon	ˈnuːlən
 newlun	ˈnuːlən
 newly	ˈnuːliː
 newlyn	ˈnuːˌlɪn
-newlywed	ˈnuːliːwˌwɛd
-newlyweds	ˈnuːliːwˌwɛdz
+newlywed	ˈnuːliːˌwɛd
+newlyweds	ˈnuːliːˌwɛdz
 newman	ˈnuːmən
 newmann	ˈnuːmən
 newmark	ˈnuːˌmɑɹk
@@ -75792,7 +75792,7 @@ oberry	ˈoʊbɛɹiː
 oberst	ˈɑbəɹst
 oberstar	ˈoʊbəɹsˌtɑɹ
 obert	ˈɑbəɹt
-oberweis	ˈoʊbəɹwˌwaɪs
+oberweis	ˈoʊbəɹˌwaɪs
 obese	oʊˈbiːs
 obesity	oʊˈbiːsətiː
 obey	oʊˈbeɪ
@@ -77442,7 +77442,7 @@ othello	əˈθɛloʊ
 other	ˈʌðəɹ
 otherness	ˈʌðəɹnəs
 others	ˈʌðəɹz
-otherwise	ˈʌðəɹwˌwaɪz
+otherwise	ˈʌðəɹˌwaɪz
 otherworldly	ˈʌðəɹˈwʌɹldliː
 othilia	oʊˈθiːliːə
 othman	ˈɑθmən
@@ -77457,7 +77457,7 @@ otsuka	oʊtˈsuːkə
 ott	ˈɑt
 ottaviani	oʊtɑviːˈɑniː
 ottaviano	oʊtɑviːˈɑnoʊ
-ottawa	ˈɑtəwˌwɑ
+ottawa	ˈɑtəˌwɑ
 ottaway	ˈɑtəweɪ
 otte	ˈɑt
 otten	ˈɑtən
@@ -77548,7 +77548,7 @@ outed	ˈaʊtəd
 outen	ˈaʊtən
 outer	ˈaʊtəɹ
 outermost	ˈaʊtəɹˌmoʊst
-outerwear	ˈaʊtəɹwˌwɛɹ
+outerwear	ˈaʊtəɹˌwɛɹ
 outfield	ˈaʊtˌfiːld
 outfielder	ˈaʊtˌfiːldəɹ
 outfielders	ˈaʊtˌfiːldəɹz
@@ -78757,10 +78757,10 @@ papermaking	ˈpæpəɹˌmeɪkɪŋ
 papermate	ˈpeɪpəɹˌmeɪt
 papernick	ˈpeɪpəɹˌnɪk
 papers	ˈpeɪpəɹz
-paperweight	ˈpeɪpəɹwˌweɪt
-paperwork	ˈpeɪpəɹwˌwʌɹk
-paperworker	ˈpeɪpəɹwˌwʌɹkəɹ
-paperworkers	ˈpeɪpəɹwˌwʌɹkəɹz
+paperweight	ˈpeɪpəɹˌweɪt
+paperwork	ˈpeɪpəɹˌwʌɹk
+paperworker	ˈpeɪpəɹˌwʌɹkəɹ
+paperworkers	ˈpeɪpəɹˌwʌɹkəɹz
 papery	ˈpeɪpəɹiː
 papesh	ˈpæpɪʃ
 papier	ˈpeɪpjəɹ
@@ -80070,7 +80070,7 @@ pennsylvanians	ˌpɛnsəlˈveɪniːənz
 pennwalt	ˈpɛnˌwɑlt
 penny	ˈpɛniː
 pennypacker	ˈpɛniːpækəɹ
-pennywell	ˈpɛniːwˌwɛl
+pennywell	ˈpɛniːˌwɛl
 pennzoil	ˈpɛnˌzɔɪl
 penobscot	pəˈnɑbskɑt
 penology	piːˈnɑləʤiː
@@ -80419,10 +80419,10 @@ perpetrators	ˈpʌɹpəˌtɹeɪtəɹz
 perpetual	pəɹˈpɛʧuːəl
 perpetually	pəɹˈpɛʧuːəliː
 perpetuals	pəɹˈpɛʧuːəlz
-perpetuate	pəɹˈpɛʧəwˌweɪt
-perpetuated	pəɹˈpɛʧəwˌweɪtəd
-perpetuates	pəɹˈpɛʧəwˌweɪts
-perpetuating	pəɹˈpɛʧəwˌweɪtɪŋ
+perpetuate	pəɹˈpɛʧəˌweɪt
+perpetuated	pəɹˈpɛʧəˌweɪtəd
+perpetuates	pəɹˈpɛʧəˌweɪts
+perpetuating	pəɹˈpɛʧəˌweɪtɪŋ
 perpetuation	pəɹˌpɛʧəˈweɪʃən
 perpetuity	ˌpʌɹpəˈtjuːətiː
 perpich	ˈpʌɹpɪk
@@ -81720,7 +81720,7 @@ pisano	piːˈsɑnoʊ
 pisarek	ˈpɪsəɹɛk
 pisarski	ˌpɪˈsɑɹskiː
 pisca	ˈpɪskə
-piscataway	ˌpɪsˈkætəwˌweɪ
+piscataway	ˌpɪsˈkætəˌweɪ
 pisces	ˈpaɪsiːz
 pischel	ˈpɪʃəl
 pischke	ˈpɪʃk
@@ -81975,7 +81975,7 @@ plastered	ˈplæstəɹd
 plasterer	ˈplæstəɹəɹ
 plastering	ˈplæstəɹɪŋ
 plasters	ˈplæstəɹz
-plasterwork	ˈplæstəɹwˌwʌɹk
+plasterwork	ˈplæstəɹˌwʌɹk
 plastic	ˈplæstɪk
 plasticine	ˈplæstəˌsiːn
 plasticizer	ˈplæstəˌsaɪzəɹ
@@ -83887,7 +83887,7 @@ prestigious	pɹɛsˈtɪʤəs
 prestigious	pəɹsˈtiːʤəs
 presto	ˈpɹɛsˌtoʊ
 preston	ˈpɹɛstən
-prestowitz	ˈpɹɛstəwˌwɪts
+prestowitz	ˈpɹɛstəˌwɪts
 prestridge	ˈpɹɛstɹɪʤ
 prestwich	ˈpɹɛstwɪʧ
 prestwood	ˈpɹɛsˌtwʊd
@@ -85965,7 +85965,7 @@ rabine	ɹəˈbiːn
 rabiner	ɹəˈbiːnəɹ
 rabinovich	ɹəˈbɪnəˌvɪʧ
 rabinovitz	ɹəˈbɪnəˌvɪts
-rabinowitz	ɹəˈbɪnəwˌwɪts
+rabinowitz	ɹəˈbɪnəˌwɪts
 rabkin	ˈɹæbˌkɪn
 rabobank	ˈɹɑboʊˌbæŋk
 raboin	ɹəˈbɔɪn
@@ -90788,8 +90788,8 @@ rivero	ɹiːˈvɛɹoʊ
 rivers	ˈɹɪvəɹz
 riverside	ˈɹɪvəɹˌsaɪd
 riverso	ˈɹɪvəɹsoʊ
-riverway	ˈɹɪvəɹwˌweɪ
-riverwood	ˈɹɪvəɹwˌwʊd
+riverway	ˈɹɪvəɹˌweɪ
+riverwood	ˈɹɪvəɹˌwʊd
 rives	ˈɹaɪvz
 rivest	ˈɹɪˌvɪst
 rivet	ˈɹɪvət
@@ -91004,7 +91004,7 @@ rock	ˈɹɑk
 rock-a-bye	ˈɹɑkəˌbaɪ
 rockabilly	ˈɹɑkəˌbɪliː
 rockafellow	ˈɹɑkəˌfɛloʊ
-rockaway	ˈɹɑkəwˌweɪ
+rockaway	ˈɹɑkəˌweɪ
 rocke	ˈɹɑk
 rocked	ˈɹɑkt
 rockefeller	ˈɹɑkəˌfɛləɹ
@@ -92251,8 +92251,8 @@ run	ˈɹʌn
 runabout	ˈɹʌnəˌbaʊt
 runaround	ˈɹʌnəˌɹaʊnd
 runaround	ˈɹʌnəˌɹaʊn
-runaway	ˈɹʌnəwˌweɪ
-runaways	ˈɹʌnəwˌweɪz
+runaway	ˈɹʌnəˌweɪ
+runaways	ˈɹʌnəˌweɪz
 runcie	ˈɹʌnsiː
 runck	ˈɹʌŋk
 runckel	ˈɹʌŋkəl
@@ -92458,7 +92458,7 @@ rwandan	ɹəˈwɑndən
 rwandan	ˌɹuːˈɑndən
 rwandans	ɹəˈwɑndənz
 rwandans	ˌɹuːˈɑndənz
-rwandese	ɹəwˌwɑˈdiːz
+rwandese	ɹəˌwɑˈdiːz
 rwandese	ɹuːˌɑˈdiːz
 ryal	ɹiːˈɑl
 ryall	ɹiːˈɑl
@@ -92828,7 +92828,7 @@ saki	ˈsɑkiː
 sakigake	ˌsɑkiːˈɡɑkiː
 sakina	səˈkiːnə
 sako	ˈsɑkoʊ
-sakowitz	ˈsækəwˌwɪts
+sakowitz	ˈsækəˌwɪts
 sakowski	səˈkɑfskiː
 saks	ˈsæks
 saksa	ˈsæksə
@@ -93535,7 +93535,7 @@ sasek	ˈsæsɪk
 sash	ˈsæʃ
 sasha	ˈsæʃə
 sashes	ˈsæʃəz
-saskatchewan	sæsˈkæʧəwˌwɑn
+saskatchewan	sæsˈkæʧəˌwɑn
 saskatoon	ˈsæskəˌtuːn
 saslow	ˈsæsloʊ
 sasnett	ˈsæsnɛt
@@ -94476,7 +94476,7 @@ schneid	ˈʃnaɪd
 schneider	ˈʃnaɪdəɹ
 schneiderman	ˈʃnaɪdəɹmən
 schneiders	ˈʃnaɪdəɹz
-schneidewind	ˈʃnaɪdəwˌwɪnd
+schneidewind	ˈʃnaɪdəˌwɪnd
 schneier	ˈʃnaɪəɹ
 schneiter	ˈʃnaɪtəɹ
 schnell	ˈʃnɛl
@@ -98084,7 +98084,7 @@ silverstein	ˈsɪlvəɹsˌtaɪn
 silverstone	ˈsɪlvəɹsˌtoʊn
 silverthorn	ˈsɪlvəɹθɔɹn
 silverthorne	ˈsɪlvəɹθɔɹn
-silverware	ˈsɪlvəɹwˌwɛɹ
+silverware	ˈsɪlvəɹˌwɛɹ
 silvery	ˈsɪlvəɹiː
 silvester	ˌsɪlˈvɛstəɹ
 silvestre	siːlˈveɪstɹeɪ
@@ -98355,7 +98355,7 @@ sirois	saɪɹˈwɑ
 siroky	ˈsɪɹəkiː
 siron	ˈsɔɹən
 sirota	sɪˈɹoʊtə
-sirowitz	ˈsɪɹəwˌwɪts
+sirowitz	ˈsɪɹəˌwɪts
 sirri	ˈsɪɹiː
 sirrine	sɪˈɹiːniː
 sis	ˈsɪs
@@ -101974,7 +101974,7 @@ steidtmann	ˈstaɪtmən
 steier	ˈstaɪəɹ
 steig	ˈstiːɡ
 steiger	ˈstaɪɡəɹ
-steigerwald	ˈstaɪɡəɹwˌwɑld
+steigerwald	ˈstaɪɡəɹˌwɑld
 steigerwalt	ˈstaɪɡəɹwəlt
 steil	ˈstiːl
 steiman	ˈstaɪmən
@@ -102786,7 +102786,7 @@ strahle	ˈstɹeɪhəl
 strahler	ˈstɹɑləɹ
 strahm	ˈstɹɑm
 straight	ˈstɹeɪt
-straightaway	ˈstɹeɪtəwˌweɪ
+straightaway	ˈstɹeɪtəˌweɪ
 straightedge	ˈstɹeɪˌtɛʤ
 straighten	ˈstɹeɪtən
 straightened	ˈstɹeɪtənd
@@ -104128,8 +104128,8 @@ supervisor	ˈsuːpəɹˌvaɪzəɹ
 supervisors	ˌsuːpəɹˈvaɪzəɹz
 supervisory	ˌsuːpəɹˈvaɪzəɹiː
 supervoting	ˌsuːpəɹˈvoʊtɪŋ
-superwoman	ˈsuːpəɹwˌwʊmən
-superwomen	ˈsuːpəɹwˌwɪmɛn
+superwoman	ˈsuːpəɹˌwʊmən
+superwomen	ˈsuːpəɹˌwɪmɛn
 superx	ˈsuːpəɹˌɛks
 supine	səˈpaɪn
 supine	ˈsuːpaɪn
@@ -107156,7 +107156,7 @@ throughs	ˈθɹuːz
 throughway	ˈθɹuːˌweɪ
 throve	ˈθɹoʊv
 throw	ˈθɹoʊ
-throwaway	ˈθɹoʊəwˌweɪ
+throwaway	ˈθɹoʊəˌweɪ
 throwback	ˈθɹoʊˌbæk
 thrower	ˈθɹoʊəɹ
 throwers	ˈθɹoʊəɹz
@@ -108854,7 +108854,7 @@ treacherous	ˈtɹɛʧəɹəs
 treachery	ˈtɹɛʧəɹiː
 treacy	ˈtɹeɪsiː
 tread	ˈtɹɛd
-treadaway	ˈtɹɛdəwˌweɪ
+treadaway	ˈtɹɛdəˌweɪ
 treading	ˈtɹɛdɪŋ
 treadmill	ˈtɹɛdˌmɪl
 treadmills	ˈtɹɛdˌmɪlz
@@ -109719,7 +109719,7 @@ tupelo	ˈtjuːpəˌloʊ
 tupelo	ˈtuːpəˌloʊ
 tupelov	ˈtuːpəlɑv
 tupper	ˈtʌpəɹ
-tupperware	ˈtʌpəɹwˌwɛɹ
+tupperware	ˈtʌpəɹˌwɛɹ
 tupy	ˈtuːpiː
 turandot	təɹˈændət
 turano	tʊˈɹɑnoʊ
@@ -110677,18 +110677,18 @@ undervalue	ˈʌndəɹˌvæljuː
 undervalued	ˈʌndəɹˌvæljuːd
 undervalues	ˈʌndəɹˌvæljuːz
 undervaluing	əndəɹˈvæljuːɪŋ
-underwater	ˈʌndəɹwˌwɑtəɹ
+underwater	ˈʌndəɹˌwɑtəɹ
 underway	ˌʌndəɹˈweɪ
-underwear	ˈʌndəɹwˌwɛɹ
-underweight	ˈʌndəɹwˌweɪt
+underwear	ˈʌndəɹˌwɛɹ
+underweight	ˈʌndəɹˌweɪt
 underweighted	əndəɹˈweɪtəd
 underwent	ˌʌndəɹˈwɛnt
-underwithheld	ˈʌndəɹwˌwɪθˈhɛld
-underwithhold	ˈʌndəɹwˌwɪθˌhoʊld
-underwithholding	ˈʌndəɹwˌwɪθˌhoʊldɪŋ
-underwood	ˈʌndəɹwˌwʊd
-underwoods	ˈʌndəɹwˌwʊdz
-underworld	ˈʌndəɹwˌwʌɹld
+underwithheld	ˈʌndəɹˌwɪθˈhɛld
+underwithhold	ˈʌndəɹˌwɪθˌhoʊld
+underwithholding	ˈʌndəɹˌwɪθˌhoʊldɪŋ
+underwood	ˈʌndəɹˌwʊd
+underwoods	ˈʌndəɹˌwʊdz
+underworld	ˈʌndəɹˌwʌɹld
 underwrite	ˈʌndəɹˌɹaɪt
 underwriter	ˈʌndəɹˌɹaɪtəɹ
 underwriters	ˈʌndəɹˌɹaɪtəɹz
@@ -112116,14 +112116,14 @@ vandervelden	ˈvændəɹˌvɛldən
 vandervliet	ˈvændəɹˌvliːt
 vandervoort	ˈvændəɹˌvʊɹt
 vandervort	ˈvændəɹˌvɔɹt
-vanderwal	ˈvændəɹwˌwɑl
-vanderwall	ˈvændəɹwˌwɑl
-vanderweele	ˈvændəɹwˌwiːl
-vanderweide	ˈvændəɹwˌwaɪd
-vanderwerf	ˈvændəɹwˌwʌɹf
-vanderwerff	ˈvændəɹwˌwʌɹf
-vanderwilt	ˈvændəɹwˌwɪlt
-vanderwoude	ˈvændəɹwˌwaʊd
+vanderwal	ˈvændəɹˌwɑl
+vanderwall	ˈvændəɹˌwɑl
+vanderweele	ˈvændəɹˌwiːl
+vanderweide	ˈvændəɹˌwaɪd
+vanderwerf	ˈvændəɹˌwʌɹf
+vanderwerff	ˈvændəɹˌwʌɹf
+vanderwilt	ˈvændəɹˌwɪlt
+vanderwoude	ˈvændəɹˌwaʊd
 vanderzanden	ˈvændəɹˌzændən
 vanderzee	ˈvændəɹˌziː
 vandeusen	vænˈdɔɪsən
@@ -112136,7 +112136,7 @@ vandeventer	ˈvændəvəntəɹ
 vandever	ˌvænˈdiːvəɹ
 vandevoorde	ˈvændəvʊɹd
 vandevoort	ˈvændəvʊɹt
-vandewalker	ˈvændəwˌwɑkəɹ
+vandewalker	ˈvændəˌwɑkəɹ
 vandewalle	vænˈduːeɪl
 vandewater	ˈvændəwɑtəɹ
 vandezande	ˈvændəˌzɪnd
@@ -112357,7 +112357,7 @@ vaporization	veɪpəɹəˈzeɪʃən
 vaporize	ˈveɪpəɹˌaɪz
 vaporized	ˈveɪpəɹˌaɪzd
 vapors	ˈveɪpəɹz
-vaporware	ˈveɪpəɹwˌwɛɹ
+vaporware	ˈveɪpəɹˌwɛɹ
 vaquera	vɑˈkwɛɹə
 vara	ˈvɑɹə
 varady	vəɹˈɑdiː
@@ -114681,11 +114681,11 @@ waterston	ˈwɑtəɹstən
 watertight	ˈwɑtəɹˌtaɪt
 watertown	ˈwɑtəɹˌtaʊn
 waterville	ˈwɑtəɹˌvɪl
-waterway	ˈwɑtəɹwˌweɪ
-waterways	ˈwɑtəɹwˌweɪz
-waterwork	ˈwɑtəɹwˌwʌɹk
-waterworks	ˈwɑtəɹwˌwʌɹks
-waterworld	ˈwɑtəɹwˌwʌɹld
+waterway	ˈwɑtəɹˌweɪ
+waterways	ˈwɑtəɹˌweɪz
+waterwork	ˈwɑtəɹˌwʌɹk
+waterworks	ˈwɑtəɹˌwʌɹks
+waterworld	ˈwɑtəɹˌwʌɹld
 waterworth	ˈwɑtəɹwəɹθ
 watery	ˈwɑtəɹiː
 watford	ˈwɑtfəɹd
@@ -114834,7 +114834,7 @@ weathersbee	ˈwɛðəɹzˌbiː
 weathersby	ˈwɛðəɹsbiː
 weatherspoon	ˈwɛðəɹsˌpuːn
 weatherstone	ˈwɛðəɹsˌtoʊn
-weatherwax	ˈwɛðəɹwˌwæks
+weatherwax	ˈwɛðəɹˌwæks
 weathington	ˈwɛθɪŋtən
 weave	ˈwiːv
 weaved	ˈwiːvd
@@ -115217,7 +115217,7 @@ welshans	ˈwɛlʃənz
 welt	ˈwɛlt
 welte	ˈwɛlt
 welter	ˈwɛltəɹ
-welterweight	ˈwɛltəɹwˌweɪt
+welterweight	ˈwɛltəɹˌweɪt
 weltman	ˈwɛltmən
 welton	ˈwɛltən
 welty	ˈwɛltiː
@@ -115801,8 +115801,8 @@ whipping	ˈwɪpɪŋ
 whipping	ˈhwɪpɪŋ
 whipple	ˈwɪpəl
 whipple	ˈhwɪpəl
-whippoorwills	ˈwɪpəɹwˌwɪlz
-whippoorwills	ˈhwɪpəɹwˌwɪlz
+whippoorwills	ˈwɪpəɹˌwɪlz
+whippoorwills	ˈhwɪpəɹˌwɪlz
 whipps	ˈwɪps
 whipps	ˈhwɪps
 whips	ˈwɪps
