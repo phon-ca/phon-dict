@@ -3,8 +3,11 @@
 #ctr split:"'" lhs.ipa.phonex:"{}+ {-Strident,Voiceless}" rhs:"s" expr:"${lhs.ipa}s"	
 #ctr split:"'" lhs.ipa.phonex:"{}+ {-Strident,Voiced}" rhs:"s" expr:"${lhs.ipa}z"	
 #ctr split:"'" lhs.ipa.phonex:"{}+ {Strident}" rhs:"s" expr:"${lhs.ipa}əz"	
-a	ə
+'em	əm
+'n	ən
+'s	z
 a	ˈeɪ
+a	ə
 aaa	ˌtɹɪpəˈleɪ
 aaberg	ˈɑbəɹɡ
 aachen	ˈɑkən
@@ -855,6 +858,7 @@ adaza	əˈdɑzə
 adcock	ədˈkɑk
 adcox	ədˈkɑks
 add	ˈæd
+adda	ˈædə
 addair	əˈdɛɹ
 addams	ˈædəmz
 added	ˈædəd
@@ -1618,6 +1622,7 @@ aguirre	ɑˈɡwɪɹeɪ
 aguirre	əˈɡwɪɹeɪ
 agustin	əˈɡɑstən
 ah	ˈɑ
+ah	ˈæ
 aha	ˌɑˈhɑ
 ahab	ˈeɪˌhæb
 ahah	ˈɑhɑ
@@ -1673,9 +1678,11 @@ aichi	ɑˈiːʧiː
 aickin	ˈeɪkɪn
 aid	ˈeɪd
 aida	aɪˈiːdə
+aidan	ˈeɪdən
 aidan	ɑˈiːdɑn
 aide	ˈeɪd
 aided	ˈeɪdəd
+aiden	ˈeɪdən
 aides	ˈeɪdz
 aidid	ˌaɪˈdiːd
 aiding	ˈeɪdɪŋ
@@ -1881,6 +1888,7 @@ alachlor	əˈlækləɹ
 alachua	əˈlæʧuːə
 alacrity	əˈlækɹətiː
 aladdin	əˈlædən
+alador	ˈælədɔɹ
 alafi	əˈlɑfiː
 alagem	ˈæləʤɛm
 alagna	ɑˈlɑɡnə
@@ -2196,6 +2204,7 @@ aliberti	ɑliːˈbɛɹtiː
 alibi	ˈæləˌbaɪ
 alibis	ˈæləˌbaɪz
 alibrandi	ˌæləˈbɹændiː
+alice	ˈælɪs
 alice	ˈæləs
 alicea	əˈlɪsiːə
 alicia	əˈlɪʃə
@@ -2567,6 +2576,7 @@ already	ɑlˈɹɛdiː
 already	ɑˈɹɛdiː
 alred	ˈɑlɹəd
 alright	ˌɑlˈɹaɪt
+alrighty	ˌɑlˈɹaɪtiː
 alroy	əlˈɹɔɪ
 als	ˈælz
 alsace	ælˈsɑs
@@ -3395,6 +3405,7 @@ anemia	əˈniːmiːə
 anemias	əˈniːmiːəz
 anemic	əˈniːmɪk
 anemometer	ˌænəˈmɑmətəɹ
+anemone	əˈnɛməniː
 anemone	ˈænəˌmoʊn
 anencephalic	æˌnɛnsəˈfælɪk
 anencephalic	ænənˈsɛfəlɪk
@@ -3569,6 +3580,7 @@ anklets	ˈæŋkləts
 ankney	ˈæŋkniː
 ankrom	ˈæŋkɹəm
 ankrum	ˈæŋkɹəm
+ankylosaurus	ˈæŋkələˌsɔɹəs
 ann	ˈæn
 anna	ˈænə
 annabel	ˈænəˌbɛl
@@ -3958,8 +3970,8 @@ anybody	ˈɛniːbədiː
 anyhow	ˈɛniːˌhaʊ
 anymore	ˌɛniːˈmɔɹ
 anyon	ˈɛniːɑn
-anyone	ˈɛniːwən
 anyone	ˈɛniːˌwʌn
+anyone	ˈɛniːwən
 anyplace	ˈɛniːˌpleɪs
 anything	ˈɛniːˌθɪŋ
 anytime	ˈɛniːˌtaɪm
@@ -4001,6 +4013,7 @@ apathetic	ˌæpəˈθɛtɪk
 apathy	ˈæpəθiː
 apatite	ˈæpəˌtaɪt
 apatites	ˈæpəˌtaɪts
+apatosaurus	əˈpɑtəˌsɔɹəs
 apc	ˈeɪˈpiːsiː
 apcar	ˈæpkɑɹ
 apcar	ˈæpɡɑɹ
@@ -4254,6 +4267,8 @@ apps	ˈæps
 apra	ˈeɪpɹə
 aprea	ˈɑpɹiːə
 apricot	ˈeɪpɹəˌkɑt
+apricot	ˈæpɹəˌkɑt
+apricots	ˈeɪpɹəˌkɑts
 apricots	ˈæpɹəˌkɑts
 april	ˈeɪpɹəl
 aprile	ˈɑpɹəl
@@ -5068,9 +5083,11 @@ aseltine	ɑsɛlˈtiːniː
 asencio	əˈsɛnsiːoʊ
 aseritis	əˈsɛɹəˌtɪs
 ash	ˈæʃ
+asha	ˈæʃə
 ashame	əˈʃeɪm
 ashamed	əˈʃeɪmd
 ashare	ˈæˌʃɛɹ
+ashay	ˈæʃeɪ
 ashbaugh	ˈæʃˌbɑ
 ashbrook	ˈæʃˌbɹʊk
 ashburn	ˈæʃbəɹn
@@ -6468,6 +6485,7 @@ bade	ˈbeɪd
 badeah	bəˈdiːə
 badeau	bəˈdoʊ
 badeaux	bəˈdoʊ
+badega	bəˈdeɪgə
 baden	ˈbeɪdən
 bader	ˈbædəɹ
 bader	ˈbeɪdəɹ
@@ -6536,6 +6554,7 @@ bagged	ˈbæɡd
 baggerly	ˈbæɡəɹliː
 baggett	ˈbæˌɡɪt
 baggie	ˈbæɡiː
+baggies	ˈbæɡiːz
 bagginess	ˈbæɡiːnəs
 bagging	ˈbæɡɪŋ
 baggio	ˈbɑʤiːoʊ
@@ -6874,6 +6893,7 @@ balmorals	bælˈmɔɹəlz
 balms	ˈbɑmz
 balms	ˈbɑlmz
 balmy	ˈbɑmiː
+balo	ˈbɑloʊ
 balodia	bəˈloʊdiːə
 balog	ˈbælɑɡ
 baloga	bɑˈloʊɡə
@@ -7758,6 +7778,7 @@ bather	ˈbæðəɹ
 bathers	ˈbæðəɹz
 bathes	ˈbeɪðz
 bathgate	ˈbæθˌɡeɪt
+bathie	ˈbæθiː
 bathing	ˈbeɪðɪŋ
 bathke	ˈbæθk
 batholith	ˈbæθəˌlɪθ
@@ -7936,6 +7957,7 @@ bawd	ˈbɑd
 bawden	ˈbɑdən
 bawdy	ˈbɑdiː
 bawer	ˈbɑəɹ
+bawk	ˈbɑk
 bawl	ˈbɑl
 bawled	ˈbɑld
 bax	ˈbæks
@@ -8268,6 +8290,7 @@ bede	ˈbiːd
 bedeck	bəˈdɛk
 bedecked	bəˈdɛkt
 bedel	bəˈdɛl
+bedelia	bəˈdiːljə
 bedell	ˈbɛdəl
 bedenbaugh	ˈbɛdənbaʊ
 bedevil	bəˈdɛvəl
@@ -8361,6 +8384,7 @@ beem	ˈbiːm
 beeman	ˈbiːmən
 beemer	ˈbiːməɹ
 been	ˈbɪn
+been	ˈbiːn
 been	bən
 beene	ˈbiːn
 beeney	ˈbiːniː
@@ -9183,6 +9207,7 @@ berliner	bəɹˈlaɪnəɹ
 berliners	bəɹˈlɪnəɹz
 berling	ˈbʌɹlɪŋ
 berlinger	ˈbʌɹlɪŋəɹ
+berlioz	ˈbɛɹlioʊz
 berlitz	bəɹˈlɪts
 berlottes	bəɹˈlɑts
 berls	ˈbʌɹlz
@@ -10107,6 +10132,7 @@ birdfeeders	ˈbʌɹdfiːdəɹz
 birdfinder	ˈbʌɹdˌfaɪndəɹ
 birdie	ˈbʌɹdiː
 birdied	ˈbʌɹdiːd
+birdies	ˈbʌɹdiːz
 birdlife	ˈbʌɹdˌlaɪf
 birdman	ˈbʌɹdmæn
 birds	ˈbʌɹdz
@@ -10226,6 +10252,7 @@ bitch	ˈbɪʧ
 bitches	ˈbɪʧəz
 bitchy	ˈbɪʧiː
 bite	ˈbaɪt
+bited	ˈbaɪtəd
 biter	ˈbaɪtəɹ
 bites	ˈbaɪts
 bitesize	ˈbɪtˌsaɪz
@@ -10283,6 +10310,7 @@ bizmart	ˈbɪzˌmɑɹt
 bizub	ˈbɪzəb
 bizzell	ˈbɪzəl
 bizzy	ˈbɪziː
+bj	ˈbiːˌʤeɪ
 bjelasnica	bjɛˈlæsnɪkə
 bjelland	ˈbjɛlənd
 bjerke	ˈbjʌɹk
@@ -10781,6 +10809,7 @@ bloxom	ˈblɑksəm
 bloxsom	ˈblɑksəm
 bloyd	ˈblɔɪd
 bloyer	ˈblɔɪəɹ
+blub	ˈblʌb
 blubaugh	ˈblʌbɑ
 blubber	ˈblʌbəɹ
 bludgeon	ˈblʌʤən
@@ -11205,6 +11234,7 @@ boils	ˈbɔɪlz
 boing	ˈbɔɪŋ
 boinga	ˈbɔɪŋə
 boings	ˈbɔɪŋz
+boink	ˈbɔɪŋk
 boipatong	ˈbɔɪpətɑŋ
 bois	ˈbwɑ
 boisclair	bwɑˈklɛɹ
@@ -11457,6 +11487,7 @@ bonita	boʊˈniːtə
 bonito	bəˈniːtoʊ
 bonjour	bənˈʒʊɹ
 bonk	ˈbɑŋk
+bonked	ˈbɑŋkt
 bonker	ˈbɑŋkəɹ
 bonkers	ˈbɑŋkəɹz
 bonkowski	bəŋˈkɑfskiː
@@ -11515,11 +11546,13 @@ boody	ˈbuːdiː
 booe	ˈbɑoʊ
 booed	ˈbuːd
 booee	ˈbuːiː
-boogie	ˈbuːɡiː
+boogers	ˈbʊɡəɹz
 boogie	ˈbʊɡiː
+boogie	ˈbuːɡiː
 booher	ˈbuːəɹ
 booing	ˈbuːɪŋ
 book	ˈbʊk
+bookbag	ˈbʊkˌbæɡ
 bookbinder	ˈbʊkˌbaɪndəɹ
 bookcase	ˈbʊkˌkeɪs
 bookcases	ˈbʊkˌkeɪsəz
@@ -11572,6 +11605,7 @@ boomhower	ˈbuːmhoʊəɹ
 booming	ˈbuːmɪŋ
 boomlet	ˈbuːmlət
 booms	ˈbuːmz
+boomshakalaka	ˈbuːmˌʃɑkəˌlɑkə
 boomsma	ˈbuːmzmə
 boomtown	ˈbuːmˌtaʊn
 boon	ˈbuːn
@@ -12275,6 +12309,7 @@ bracher	ˈbɹækəɹ
 brachfeld	ˈbɹɑkˌfɛld
 brachiopod	ˈbɹeɪkiːəˌpɑd
 brachiopods	ˈbɹeɪkiːəˌpɑdz
+brachiosaurus	ˈbɹækiəˌsɔɹəs
 bracht	ˈbɹækt
 bracing	ˈbɹeɪsɪŋ
 bracingly	ˈbɹeɪsɪŋɡliː
@@ -12664,6 +12699,7 @@ breakage	ˈbɹeɪkɪʤ
 breakaway	ˈbɹeɪkəˌweɪ
 breakdown	ˈbɹeɪkˌdaʊn
 breakdowns	ˈbɹeɪkˌdaʊnz
+breaked	ˈbɹeɪkt
 breaker	ˈbɹeɪkəɹ
 breakers	ˈbɹeɪkəɹz
 breakeven	ˈbɹeɪˌkiːvən
@@ -12720,7 +12756,7 @@ brecher	ˈbɹɛkəɹ
 brecht	ˈbɹɛkt
 brechtel	ˈbɹɛktəl
 breck	ˈbɹɛk
-breckenridge	ˈbɹɛkəˌnɹɪʤ
+breckenridge	ˈbɹɛkənˌɹɪʤ
 brecker	ˈbɹɛkəɹ
 breco	ˈbɹɛkoʊ
 bred	ˈbɹɛd
@@ -13048,6 +13084,7 @@ briner	ˈbɹaɪnəɹ
 brines	ˈbɹaɪnz
 briney	ˈbɹɪniː
 bring	ˈbɹɪŋ
+bringed	ˈbɹɪŋd
 bringhurst	ˈbɹɪŋhəɹst
 bringing	ˈbɹɪŋɪŋ
 bringle	ˈbɹɪŋɡəl
@@ -13326,6 +13363,7 @@ bronson	ˈbɹɑnsən
 bronstein	ˈbɹɑnˌstiːn
 bronstein	ˈbɹɑnˌstaɪn
 bronston	ˈbɹɑnstən
+brontatherium	ˌbrɑntəˈθiriəm
 bronte	ˈbɹɑntiː
 brontosaurus	ˌbɹɑntəˈsɔɹəs
 brontosaurus	ˌbɹɑnəˈsɔɹəs
@@ -13812,6 +13850,7 @@ budai	buːˈdɑiː
 budapest	ˈbuːdəˌpɛst
 buday	ˈbuːdeɪ
 budd	ˈbʌd
+buddah	ˈbʊdɑ
 budde	ˈbʌd
 budden	ˈbʌdən
 buddenbrooks	ˈbʌdənˌbɹʊks
@@ -13963,6 +14002,8 @@ bugliosi	buːɡliːˈoʊsiː
 bugojno	buːˈɡoʊʒnoʊ
 bugs	ˈbʌɡz
 bugsy	ˈbʌɡziː
+buh	ˈbʌ
+buh	ˈbʊ
 buhl	ˈbjuːl
 buhler	ˈbuːləɹ
 buhman	ˈbʌmən
@@ -14209,6 +14250,7 @@ buoyant	ˈbɔɪənt
 buoyed	ˈbuːiːd
 buoying	ˈbɔɪɪŋ
 buoys	ˈbuːiːz
+bup	ˈbʌp
 bupkus	ˈbʌpkəs
 bupp	ˈbʌp
 buprenorphine	ˈbjuːpɹənəɹˌfiːn
@@ -14746,6 +14788,7 @@ byas	ˈbaɪəs
 byassee	biːˈɑsiː
 bybee	ˈbaɪˌbiː
 bye	ˈbaɪ
+byebye	ˌbaɪˈbaɪ
 byelorussia	ˌbaɪəloʊˈɹʌʃə
 byelorussia	ˌbɛloʊˈɹʌʃə
 byelorussia	ˌbaɪˌɛloʊˈɹʌʃə
@@ -14807,6 +14850,7 @@ byword	ˈbaɪˌwʌɹd
 byzantine	ˈbɪzənˌtaɪn
 byzantine	ˈbɪzənˌtiːn
 byzantium	bəˈzæntiːəm
+bzz	ˈbzː
 c	ˈsiː
 c'mon	kəˈmɑn
 ca	ˈkʌ
@@ -15039,6 +15083,7 @@ calahan	ˈkæləhæn
 calais	kəˈleɪ
 calamander	ˈkæləˌmændəɹ
 calamari	kɑlɑˈmɑɹiː
+calamari	ˈkæləˌmɑɹi
 calame	kɑˈlɑmiː
 calamia	kəˈleɪmiːə
 calamine	ˈkæləˌmaɪn
@@ -15491,6 +15536,7 @@ candlesticks	ˈkændəlˌstɪks
 candlish	ˈkænˌdlɪʃ
 candor	ˈkændəɹ
 candy	ˈkændiː
+candyland	ˈkændiːˌlænd
 candyman	ˈkændiːmæn
 cane	ˈkeɪn
 caned	ˈkeɪnd
@@ -15782,6 +15828,7 @@ captures	ˈkæpʧəɹz
 capturing	ˈkæpʧəɹɪŋ
 capua	ˈkæpjuːə
 capuano	kɑpuːˈɑnoʊ
+caput	kəˈpʊt
 caputi	kɑˈpuːtiː
 caputo	kɑˈpuːtoʊ
 capwell	ˈkæpˌwɛl
@@ -15899,6 +15946,7 @@ cardiopulmonary	ˌkɑɹdiːoʊˈpʊlməˌnɛɹiː
 cardiovascular	ˌkɑɹdiːoʊˈvæskjələɹ
 cardis	ˈkɑɹˌdɪs
 cardiss	ˈkɑɹˌdɪs
+cardit	ˈkɑɹdɪt
 cardizem	ˌkɑɹdəˈzɛm
 cardoen	ˈkɑɹˌdoʊən
 cardon	kɑɹˈdɑn
@@ -16735,6 +16783,7 @@ cattell	kəˈtɛl
 catterall	ˈkætəɹˌɑl
 catterson	ˈkætəɹsən
 catterton	ˈkætəɹtən
+cattie	ˈkætiː
 cattle	ˈkætəl
 cattlemen	ˈkætəlmən
 catto	ˈkætoʊ
@@ -16972,6 +17021,7 @@ celebrity	səˈlɛbɹətiː
 celena	ʧɛˈlɛnə
 celene	ˈʧɛliːn
 celentano	ʧɛlɛnˈtɑnoʊ
+celerator	ˈsɛləˌɹeɪtəɹ
 celeron	ˈsɛləɹɑn
 celery	ˈsɛləɹiː
 celesta	səˈlɛstə
@@ -17787,6 +17837,7 @@ cheesecake	ˈʧiːzˌkeɪk
 cheeseman	ˈʧiːzmən
 cheeser	ˈʧiːzəɹ
 cheeses	ˈʧiːzəz
+cheesey	ˈʧiːziː
 cheesier	ˈʧiːziːəɹ
 cheesiest	ˈʧiːˌziːɪst
 cheesman	ˈʧiːzmən
@@ -18001,6 +18052,7 @@ chichauha	ˌʧiːˈʧaʊə
 chichester	ˈʧɪʧɛstəɹ
 chichi	ˈʧiːʧiː
 chick	ˈʧɪk
+chicka	ˈʧɪkə
 chickasaw	ˈʧɪkəˌsɑ
 chickasaws	ˈʧɪkəˌsɑz
 chicked	ʧɪkt
@@ -18010,6 +18062,7 @@ chickens	ˈʧɪkənz
 chickering	ˈʧɪkəɹɪŋ
 chickies	ˈʧɪkiːz
 chicks	ˈʧɪks
+chicky	ˈʧɪkiː
 chico	ˈʧiːˌkoʊ
 chicoine	ʧɪˈkɔɪn
 chicots	ˈʧɪkəts
@@ -18116,7 +18169,7 @@ chinks	ˈʧɪŋks
 chinn	ˈʧɪn
 chinnici	kiːˈniːʧiː
 chinnock	ˈʧɪnək
-chinny	ˈʧɪni
+chinny	ˈʧɪniː
 chino	ˈʧiːnoʊ
 chinook	ˌʃɪˈnʊk
 chinook	ˌʧɪˈnʊk
@@ -18135,6 +18188,7 @@ chipley	ˈʧɪpliː
 chipmaker	ˈʧɪpˌmeɪkəɹ
 chipmakers	ˈʧɪpˌmeɪkəɹz
 chipman	ˈʧɪpmən
+chipmunk	ˈʧɪpˌmʌŋk
 chipote	ʧəˈpoʊt
 chipped	ˈʧɪpt
 chipper	ˈʧɪpəɹ
@@ -18189,6 +18243,7 @@ chiusano	kiːuːˈsɑnoʊ
 chivalry	ˈʃɪvəlɹiː
 chivas	ˈʧiːvəs
 chivas	ˈʃiːvəs
+chive	ˈʧaɪv
 chivers	ˈʧaɪvəɹz
 chives	ˈʧaɪvz
 chiyoda	ʧəjˈjoʊdə
@@ -18466,6 +18521,7 @@ chuckle	ˈʧʌkəl
 chuckled	ˈʧʌkəld
 chuckles	ˈʧʌkəlz
 chuckling	ˈʧʌklɪŋ
+chucky	ˈʧʌkiː
 chudler	ˈʧʌdləɹ
 chudy	ˈʧuːdiː
 chudzik	ˈʧʌdzɪk
@@ -18473,6 +18529,7 @@ chudzinski	ʧəˈʤɪnskiː
 chuffed	ˈʧʌft
 chuffy	ˈʧʌfi
 chug	ˈʧʌɡ
+chuga	ˈʧʌgə
 chugai	ʧuːˈɡaɪ
 chugga	ˈʧʌgə
 chugged	ˈʧʌɡd
@@ -18884,6 +18941,7 @@ clapsaddle	ˈklæpˌsædəl
 clapton	ˈklæptən
 clar	ˈklɑɹ
 clara	ˈklæɹə
+clara	ˈklɛɹə
 clarabelle	ˈklæɹəˌbɛl
 claramae	klɑˈɹɑmaɪ
 claran	ˈklɛɹən
@@ -19572,6 +19630,9 @@ cochlear	ˈkɑkliːəɹ
 cochran	ˈkɑkɹən
 cochrane	ˈkɑkɹən
 cock	ˈkɑk
+cock-a-doodle-doo	ˈkɑkəˌduːdəlˌduː
+cocka	ˈkɑkə
+cockadoodledoo	ˈkɑkəˌduːdəlˌduː
 cockamamie	ˌkɑkəˈmeɪmiː
 cockatiel	ˌkɑkəˈtil
 cockatoo	ˈkɑkəˌtuː
@@ -19588,6 +19649,7 @@ cockeyed	ˈkɑˌkaɪd
 cockfield	ˈkɑkˌfiːld
 cockiness	ˈkɑkiːnəs
 cocking	ˈkɑkɪŋ
+cockle	ˈkɑkəl
 cocklin	ˈkɑkˌlɪn
 cockman	ˈkɑkmən
 cockney	ˈkɑkniː
@@ -20228,6 +20290,7 @@ comically	ˈkɑmɪkəliː
 comically	ˈkɑmɪkliː
 comicopia	ˌkɑmɪˈkoʊpiːə
 comics	ˈkɑmɪks
+comin	ˈkʌmɪn
 cominco	koʊˈmɪŋkoʊ
 coming	ˈkʌmɪŋ
 comings	ˈkʌmɪŋz
@@ -20393,6 +20456,7 @@ commuters	kəˈmjuːtəɹz
 commutes	kəˈmjuːts
 commuting	kəˈmjuːtɪŋ
 como	ˈkoʊmoʊ
+comon	kəˈmɑn
 comp	ˈkɑmp
 compact	ˈkɑmpækt
 compact	kəmˈpækt
@@ -22407,6 +22471,7 @@ coughlan	ˈkɑɡlən
 coughlin	ˈkɑɡˌlɪn
 coughran	ˈkɑɡɹən
 coughs	ˈkɑfs
+coughy	ˈkɑfiː
 couillard	kwiːˈlɑɹd
 could	ˈkʊd
 couldn't	ˈkʊdənt
@@ -23328,6 +23393,7 @@ crivello	kɹɪˈvɛloʊ
 crnkovich	ˈsʌɹnəˌvɪʧ
 cro	ˈkɹoʊ
 croak	ˈkɹoʊk
+croaked	ˈkɹoʊkt
 croaker	ˈkɹoʊkəɹ
 croaking	ˈkɹoʊkɪŋ
 croaky	ˈkɹoʊkiː
@@ -24085,6 +24151,7 @@ cuthbert	ˈkʌθbəɹt
 cuthbertson	ˈkʌθbəɹtsən
 cuthrell	ˈkʌθɹəl
 cuticle	ˈkjuːtəkəl
+cutie	ˈkjuːtiː
 cutillo	ˌkjuːˈtɪloʊ
 cutlass	ˈkʌtləs
 cutler	ˈkʌtləɹ
@@ -24267,6 +24334,7 @@ czeslaw	ʧɛˈslɑ
 czyz	ˈʧɪz
 czyzewski	ˌʧɪˈzɛfskiː
 d	ˈdiː
+dw	ˌdiːˈdʌbəlju
 d'you	ˈdjuː
 d'you	ˈʤuː
 da	ˈdɑ
@@ -24306,6 +24374,7 @@ dacus	ˈdækəs
 dacy	ˈdeɪsiː
 dad	ˈdæd
 dada	ˈdɑˌdɑ
+dada	ˈdæˌdæ
 dadamo	dɑˈdɑmoʊ
 daddario	dɑˈdɑɹiːoʊ
 daddies	ˈdædiːz
@@ -24910,6 +24979,7 @@ datron	ˈdætɹən
 dats	ˈdæts
 datsun	ˈdætsən
 datsun	ˈdɑtsən
+datter	ˈdætəɹ
 dattilio	dɑˈtiːliːoʊ
 dattilo	dɑˈtiːloʊ
 datuk	ˈdɑˌtuːk
@@ -25541,6 +25611,7 @@ deeb	ˈdiːb
 deed	ˈdiːd
 deeded	ˈdiːdəd
 deedee	ˈdiːdiː
+deedle	ˈdiːdəl
 deedrick	ˈdiːdɹɪk
 deeds	ˈdiːdz
 deedy	ˈdiːdiː
@@ -25607,6 +25678,7 @@ defeating	dəˈfiːtɪŋ
 defeatism	dəˈfiːˌtɪzəm
 defeatist	dəˈfiːˌtɪst
 defeats	dəˈfiːts
+defecating	ˈdɛfəˌkeɪtɪŋ
 defect	ˈdiːfɛkt
 defect	dəˈfɛkt
 defected	dəˈfɛktəd
@@ -28202,60 +28274,60 @@ dippy	ˈdɪpiː
 diprima	dəˈpɹiːmə
 dips	ˈdɪps
 dipstick	ˈdɪpˌstɪk
-dipsy	ˈdɪpsi
+dipsy	ˈdɪpsiː
 dircks	ˈdʌɹks
 dire	ˈdaɪɹ
 dire	ˈdaɪəɹ
-direct	dəɹˈɛkt
+direct	dəˈɹɛkt
 direct	daɪˈɹɛkt
 direct	diːˈɹɛkt
 direct	dɪˈɹɛkt
 directed	dɪˈɹɛktəd
-directed	dəɹˈɛktəd
+directed	dəˈɹɛktəd
 directed	daɪˈɹɛktəd
 directed	diːˈɹɛktəd
-directing	dəɹˈɛktɪŋ
+directing	dəˈɹɛktɪŋ
 directing	diːˈɹɛktɪŋ
 directing	daɪˈɹɛktɪŋ
 directing	dɪˈɹɛktɪŋ
-direction	dəɹˈɛkʃən
+direction	dəˈɹɛkʃən
 direction	diːˈɹɛkʃən
 direction	daɪˈɹɛkʃən
 direction	dɪˈɹɛkʃən
-directional	dəɹˈɛkʃənəl
+directional	dəˈɹɛkʃənəl
 directional	diːˈɹɛkʃənəl
 directional	daɪˈɹɛkʃənəl
 directional	dɪˈɹɛkʃənəl
-directionless	dəɹˈɛkʃənləs
+directionless	dəˈɹɛkʃənləs
 directionless	diːˈɹɛkʃənləs
 directionless	daɪˈɹɛkʃənləs
 directionless	dɪˈɹɛkʃənləs
-directions	dəɹˈɛkʃənz
+directions	dəˈɹɛkʃənz
 directions	diːˈɹɛkʃənz
 directions	daɪˈɹɛkʃənz
 directions	dɪˈɹɛkʃənz
-directive	dəɹˈɛktɪv
+directive	dəˈɹɛktɪv
 directive	diːˈɹɛktɪv
 directive	daɪˈɹɛktɪv
 directive	dɪˈɹɛktɪv
 directives	daɪˈɹɛktɪvz
 directives	diːˈɹɛktɪvz
-directives	dəɹˈɛktɪvz
+directives	dəˈɹɛktɪvz
 directives	dɪˈɹɛktɪvz
-directly	dəɹˈɛktliː
+directly	dəˈɹɛktliː
 directly	diːˈɹɛkliː
 directly	daɪˈɹɛkliː
 directly	dɪˈɹɛkliː
-directness	dəɹˈɛktnəs
+directness	dəˈɹɛktnəs
 directness	diːˈɹɛknəs
 directness	daɪˈɹɛknəs
 directness	dɪˈɹɛknəs
-director	dəɹˈɛktəɹ
+director	dəˈɹɛktəɹ
 director	daɪˈɹɛktəɹ
 director	diːˈɹɛktəɹ
 director	dɪˈɹɛktəɹ
-directoral	dəɹˈɛktəɹəl
-directorate	dəɹˈɛktəɹət
+directoral	dəˈɹɛktəɹəl
+directorate	dəˈɹɛktəɹət
 directorate	daɪˈɹɛktəɹət
 directorate	diːˈɹɛktəɹət
 directorate	dɪˈɹɛktəɹət
@@ -28264,30 +28336,30 @@ directorial	daɪɹɛkˈtɔɹiːəl
 directorial	diːɹɛkˈtɔɹiːəl
 directorial	dɪɹɛkˈtɔɹiːəl
 directories	daɪˈɹɛktəɹiːz
-directories	dəɹˈɛktəɹiːz
+directories	dəˈɹɛktəɹiːz
 directories	diːˈɹɛktəɹiːz
 directories	dɪˈɹɛktəɹiːz
-directors	dəɹˈɛktəɹz
+directors	dəˈɹɛktəɹz
 directors	daɪˈɹɛktəɹz
 directors	diːˈɹɛktəɹz
 directors	dɪˈɹɛktəɹz
-directorship	dəɹˈɛktəɹˌʃɪp
+directorship	dəˈɹɛktəɹˌʃɪp
 directorship	daɪˈɹɛktəɹˌʃɪp
 directorship	diːˈɹɛktəɹˌʃɪp
 directorship	dɪˈɹɛktəɹˌʃɪp
-directorships	dəɹˈɛktəɹˌʃɪps
+directorships	dəˈɹɛktəɹˌʃɪps
 directorships	daɪˈɹɛktəɹˌʃɪps
 directorships	diːˈɹɛktəɹˌʃɪps
 directorships	dɪˈɹɛktəɹˌʃɪps
-directory	dəɹˈɛktəɹiː
+directory	dəˈɹɛktəɹiː
 directory	daɪˈɹɛktəɹiː
 directory	diːˈɹɛktəɹiː
 directory	dɪˈɹɛktəɹiː
-directs	dəɹˈɛkts
+directs	dəˈɹɛkts
 directs	daɪˈɹɛkts
 directs	diːˈɹɛkts
 directs	dɪˈɹɛkts
-directv	dəɹˈɛkˌtiːviː
+directv	dəˈɹɛkˌtiːviː
 directv	daɪˈɹɛkˌtiːviː
 directv	diːˈɹɛkˌtiːviː
 directv	dɪˈɹɛkˌtiːviː
@@ -28386,7 +28458,6 @@ disarmament	ˌdɪˈsɑɹməmənt
 disarmed	ˌdɪˈsɑɹmd
 disarming	ˌdɪˈsɑɹmɪŋ
 disarmingly	ˌdɪˈsɑɹmɪŋliː
-disarray	ˌdɪsəɹˈeɪ
 disarray	ˌdɪsəˈɹeɪ
 disassemble	ˌdɪsəˈsɛmbəl
 disassembled	ˌdɪsəˈsɛmbəld
@@ -28961,6 +29032,7 @@ distracted	ˌdɪsˈtɹæktəd
 distracting	ˌdɪsˈtɹæktɪŋ
 distraction	ˌdɪsˈtɹækʃən
 distractions	ˌdɪsˈtɹækʃənz
+distractor	ˌdɪsˈtɹæktəɹ
 distracts	ˌdɪsˈtɹækts
 distraught	ˌdɪsˈtɹɑt
 distress	ˌdɪsˈtɹɛs
@@ -29306,6 +29378,7 @@ doddington	ˈdɑdəntən
 doddington	ˈdɑdɪŋtən
 doddridge	ˈdɑdɹɪʤ
 dodds	ˈdɑdz
+doddy	ˈdɑdiː
 dodge	ˈdɑʤ
 dodged	ˈdɑʤd
 dodgen	ˈdɑʤən
@@ -29398,6 +29471,7 @@ doily	ˈdɔɪliː
 doin	ˈduːɪn
 doing	ˈduːɪŋ
 doings	ˈduːɪŋz
+doink	ˈdɔɪŋk
 doiron	dɔɪˈɹɑn
 doke	ˈdoʊk
 dokey	ˈdoʊkiː
@@ -29552,6 +29626,7 @@ dominy	dəˈmaɪniː
 domke	ˈdɑmk
 dommer	ˈdɑməɹ
 dommie	ˈdɑmiː
+dommy	ˈdɑmiː
 domoling	ˈdɑmɑlɪŋ
 domtar	ˈdɑmtəɹ
 domzalski	dəmˈzɑlskiː
@@ -30620,6 +30695,7 @@ ducked	ˈdʌkt
 ducker	ˈdʌkəɹ
 duckett	ˈdʌkət
 duckie	ˈdʌkiː
+duckies	ˈdʌkiːz
 ducking	ˈdʌkɪŋ
 duckling	ˈdʌklɪŋ
 ducklings	ˈdʌklɪŋz
@@ -30891,6 +30967,7 @@ dunkelberger	ˈdʌŋkəlbəɹɡəɹ
 dunker	ˈdʌŋkəɹ
 dunkerley	ˈdʌŋkəɹliː
 dunkin	ˈdʌŋˌkɪn
+dunking	ˈdʌŋkɪŋ
 dunkirk	ˈdʌnkəɹk
 dunkle	ˈdʌŋkəl
 dunkleberger	ˈdʌŋkəlbəɹɡəɹ
@@ -30942,6 +31019,7 @@ duodenum	duːˈɑdənəm
 duong	ˈduːoʊŋ
 duopoly	ˈduːoʊˌpɑliː
 duopoly	djuːˈɑpəliː
+dup	ˈdʌp
 dupay	duːˈpeɪ
 dupe	ˈduːp
 duped	ˈduːpt
@@ -31150,6 +31228,7 @@ dwells	ˈdwɛlz
 dwelt	ˈdwɛlt
 dwi	ˈdiːˈdʌbəˈljuːaɪ
 dwi	ˈdiːˈdʌbəjˈjuːaɪ
+dwid	ˈdwɪd
 dwiggins	ˈdwɪˌɡɪnz
 dwight	ˈdwaɪt
 dwindle	ˈdwɪndəl
@@ -31564,7 +31643,7 @@ eckelberry	ˈɛkəlˌbɛɹiː
 eckels	ˈɛkəlz
 eckenfelder	ˈɛkənˌfɛldəɹ
 eckenrod	ˈɛkənɹəd
-eckenrode	ˈɛkəˌnɹoʊd
+eckenrode	ˈɛkənˌɹoʊd
 eckenroth	ˈɛkənɹɑθ
 ecker	ˈɛkəɹ
 eckerd	ˈɛkəɹd
@@ -31880,7 +31959,7 @@ eeny	ˈiːni
 eeo	ˈiːˈiːoʊ
 eerie	ˈɪɹiː
 eerily	ˈɪɹəliː
-eeyore	ˈijɔɹ
+eeyore	ˈiːjɔɹ
 efaw	ˈɛfɑ
 efface	əˈfeɪs
 effacing	əˈfeɪsɪŋ
@@ -31933,6 +32012,7 @@ effy	ˈɛfiː
 efird	ˈɛfəɹd
 efron	ˈɛfɹən
 efta	ˈɛftə
+egads	iːˈɡædz
 egaldey	ˈiːɡəldeɪ
 egalitarian	ɪˌɡæləˈtɛɹiːən
 egalitarianism	iːˌɡæləˈtɛɹiːəˌnɪzəm
@@ -31965,7 +32045,7 @@ eggert	ˈɛɡəɹt
 egghead	ˈɛɡˌhɛd
 eggleston	ˈɛɡəlstən
 eggleton	ˈɛɡəltɑn
-eggo	ˈɛɡo
+eggo	ˈɛɡoʊ
 eggplant	ˈɛɡˌplænt
 eggplants	ˈɛɡˌplænts
 eggs	ˈɛɡz
@@ -32025,7 +32105,7 @@ ehrenfeld	ˈɛɹənfɛld
 ehrenhalt	ˈɛɹənˌhɑlt
 ehrenkrantz	ˈɛɹənˌkɹænts
 ehrenreich	ˈɛɹənɹaɪk
-ehrenreich	ˈɛɹəˌnɹɪʧ
+ehrenreich	ˈɛɹənˌɹɪʧ
 ehresman	ˈɛɹəsmən
 ehret	ˈɛˌɹɪt
 ehrhard	ˈɛɹhəɹd
@@ -32591,6 +32671,7 @@ elocutions	ˌɛləˈkjuːʃənz
 eloisa	ɛˈlɔɪsə
 eloise	ɛˈlɔɪz
 eloise	ˈɛloʊiːz
+elominy	ˈɛlɑmɪniː
 elongate	əˈlɑŋɡeɪt
 elongated	əˈlɑŋɡeɪtəd
 elongation	ˌiːlɑŋˈɡeɪʃən
@@ -32859,6 +32940,7 @@ emigre	ˈɛməˌɡɹeɪ
 emigres	ˈɛməˌɡɹeɪz
 emil	ɛˈmiːl
 emile	eɪˈmiːl
+emilene	ˌɛməˈliːn
 emilia	əˈmiːliːə
 emilie	ˈɛməliː
 emilio	əˈmiːliːoʊ
@@ -34883,6 +34965,7 @@ ewoldt	ˈjuːoʊlt
 eworld	ˈiːˌwʌɹld
 ewton	ˈjuːtən
 ewy	ˈjuːiː
+ewy	ˈɪuːiː
 ex	ˈɛks
 exabyte	ˈɛksəˌbaɪt
 exacerbate	ɪɡˈzæsəɹˌbeɪt
@@ -36485,6 +36568,7 @@ feedstock	ˈfiːdˌstɑk
 feedstocks	ˈfiːdˌstɑks
 feehan	ˈfiːən
 feel	ˈfiːl
+feeled	fiːld
 feeler	ˈfiːləɹ
 feelers	ˈfiːləɹz
 feeley	ˈfiːliː
@@ -36500,6 +36584,7 @@ fees	ˈfiːz
 feese	ˈfiːz
 feeser	ˈfiːzəɹ
 feet	ˈfiːt
+feets	ˈfiːts
 feezor	ˈfiːzəɹ
 feffer	ˈfɛfəɹ
 fegan	ˈfɛɡən
@@ -36936,6 +37021,7 @@ fests	ˈfɛss
 fests	ˈfɛs
 festspielhaus	ˌfɛstˈspiːlˌhaʊs
 festus	ˈfɛstəs
+feta	ˈfɛtə
 fetal	ˈfiːtəl
 fetch	ˈfɛʧ
 fetched	ˈfɛʧt
@@ -37167,6 +37253,7 @@ figgie	ˈfɪɡiː
 figgins	ˈfɪˌɡɪnz
 figgs	ˈfɪɡz
 fight	ˈfaɪt
+fighted	ˈfaɪtəd
 fighter	ˈfaɪtəɹ
 fighters	ˈfaɪtəɹz
 fighting	ˈfaɪtɪŋ
@@ -37262,6 +37349,7 @@ filleted	ˈfɪlətəd
 filleted	fəˈleɪd
 fillets	ˈfɪləts
 filley	ˈfɪliː
+fillie	ˈfɪliː
 fillies	ˈfɪliːz
 filling	ˈfɪlɪŋ
 fillingame	fiːlɪŋˈɡɑmiː
@@ -37643,6 +37731,7 @@ fishermen	ˈfɪʃəɹmɛn
 fishers	ˈfɪʃəɹz
 fishery	ˈfɪʃəɹiː
 fishes	ˈfɪʃəz
+fishie	ˈfɪʃiː
 fishing	ˈfɪʃɪŋ
 fishkill	ˈfɪʃˌkɪl
 fishkin	ˈfɪʃˌkɪn
@@ -37735,6 +37824,7 @@ fixing	ˈfɪksɪŋ
 fixings	ˈfɪksɪŋz
 fixler	ˈfɪksləɹ
 fixture	ˈfɪksʧəɹ
+fixtured	ˈfɪksʧəɹd
 fixtures	ˈfɪksʧəɹz
 fizer	ˈfaɪzəɹ
 fizz	ˈfɪz
@@ -38003,6 +38093,7 @@ fleuri	ˈflʌɹɹiː
 fleuri	ˈflʊɹiː
 fleury	ˈflʊɹiː
 flew	ˈfluː
+flewed	ˈfluːd
 flewellen	ˌfluːˈɛlən
 flewelling	ˌfluːˈɛlɪŋ
 flex	ˈflɛks
@@ -38021,6 +38112,7 @@ flextronic	ˌflɛkˈstɹɑnɪk
 flextronics	ˌflɛkˈstɹɑnɪks
 flicek	ˈflɪʧɛk
 flick	ˈflɪk
+flicked	ˈflɪkt
 flicker	ˈflɪkəɹ
 flickered	ˈflɪkəɹd
 flickering	ˈflɪkəɹɪŋ
@@ -38503,6 +38595,7 @@ fontes	ˈfoʊntɛs
 fonts	ˈfɑnts
 fonville	ˈfoʊnˌvɪl
 foo	ˈfuː
+fooba	ˈfuːbə
 food	ˈfuːd
 foodarama	ˌfuːdəɹˈæmə
 foodmaker	ˈfuːdˌmeɪkəɹ
@@ -38513,6 +38606,7 @@ foodstuffs	ˈfuːdˌstʌfs
 foodtown	ˈfuːdˌtaʊn
 foodway	ˈfuːdˌweɪ
 foodways	ˈfuːdˌweɪz
+fooey	ˈfuːiː
 fooks	ˈfʊks
 fool	ˈfuːl
 fooled	ˈfuːld
@@ -38554,6 +38648,7 @@ footpath	ˈfʊtˌpæθ
 footprint	ˈfʊtˌpɹɪnt
 footprints	ˈfʊtˌpɹɪnts
 footrace	ˈfʊtˌɹeɪs
+foots	ˈfʊts
 footstep	ˈfʊtˌstɛp
 footsteps	ˈfʊtˌstɛps
 footwall	ˈfʊtˌwɑl
@@ -39853,6 +39948,7 @@ fruitopia	ˌfɹuːˈtoʊpiːə
 fruits	ˈfɹuːts
 fruity	ˈfɹuːtiː
 frum	ˈfɹʌm
+frumble	ˈfɹʌmbəl
 frumkin	ˈfɹʌmˌkɪn
 frump	ˈfɹʌmp
 frumpy	ˈfɹʌmpiː
@@ -40100,6 +40196,7 @@ funniest	ˈfʌniːəst
 funniness	ˈfʌniːnəs
 funny	ˈfʌniː
 funs	ˈfʌnz
+funshine	ˈfʌnˌʃaɪn
 funston	ˈfʌnstən
 funtime	ˈfʌnˌtaɪm
 fuoco	fuːˈoʊkoʊ
@@ -40230,6 +40327,7 @@ futurists	ˈfjuːˌʧəɹɪs
 fuzes	ˈfjuːzəz
 fuzz	ˈfʌz
 fuzzier	ˈfʌziːəɹ
+fuzzies	ˈfʌziːz
 fuzzy	ˈfʌziː
 fye	ˈfaɪ
 fyfe	ˈfaɪf
@@ -40267,6 +40365,7 @@ gabelli	ɡəˈbɛliː
 gaber	ˈɡeɪbəɹ
 gabert	ˈɡæbəɹt
 gabhart	ˈɡæbˌhɑɹt
+gabi	ˈɡæbiː
 gabie	ˈɡæbiː
 gable	ˈɡeɪbəl
 gabler	ˈɡeɪbələɹ
@@ -42222,6 +42321,7 @@ gillon	ˈɡɪlən
 gillooly	ˈɡɪluːliː
 gillott	ˈɡɪlət
 gillotti	ʤiːˈloʊtiː
+gillow	ˈɡɪloʊ
 gills	ˈɡɪlz
 gillson	ˈɡɪlsən
 gillum	ˈɡɪləm
@@ -42353,6 +42453,7 @@ girlie	ˈɡʌɹliː
 girlish	ˈɡʌɹlɪʃ
 girlishly	ˈɡʌɹlɪʃliː
 girls	ˈɡʌɹlz
+girly	ˈɡʌɹliː
 girobank	ˈɡɪɹoʊˌbæŋk
 girod	ʒəɹˈɑd
 giroir	ʒaɪɹˈwɑɹ
@@ -42621,6 +42722,7 @@ glenfed	ˈɡlɛnˌfɛd
 glengarry	ˌɡlɛnˈɡɛɹiː
 glenham	ˈɡlɛnhəm
 glenham	ˈɡlɛnəm
+glenmae	ˌɡlɛnˈmeɪ
 glenmore	ˈɡlɛnˌmɔɹ
 glenn	ˈɡlɛn
 glenna	ˈɡlɛnə
@@ -42767,6 +42869,7 @@ glowing	ˈɡloʊɪŋ
 glowingly	ˈɡloʊɪŋliː
 glows	ˈɡloʊz
 gloyd	ˈɡlɔɪd
+glub	ˈɡlʌb
 gluck	ˈɡlʌk
 gluckman	ˈɡlʌkmən
 glucksman	ˈɡlʌksmən
@@ -42951,6 +43054,7 @@ goeas	ˈɡoʊjəz
 goebbels	ˈɡoʊbəlz
 goebel	ˈɡoʊbəl
 goecke	ˈɡoʊk
+goed	ˈɡoʊd
 goedde	ˈɡoʊd
 goede	ˈɡoʊd
 goedecke	ˈɡoʊdɪk
@@ -43064,7 +43168,7 @@ golde	ˈɡoʊld
 golden	ˈɡoʊldən
 goldenberg	ˈɡoʊldənbəɹɡ
 goldeneye	ˈɡoʊldəˌnaɪ
-goldenrod	ˈɡoʊldəˌnɹɑd
+goldenrod	ˈɡoʊldənˌɹɑd
 goldenson	ˈɡoʊldənsən
 goldenstein	ˈɡoʊldənˌstaɪn
 goldenstein	ˈɡoʊldənˌstiːn
@@ -43366,6 +43470,7 @@ gordinier	ˈɡɔɹdəniːəɹ
 gordji	ˈɡɔɹʤiː
 gordner	ˈɡɔɹdnəɹ
 gordon	ˈɡɔɹdən
+gordons	ˈɡɔɹdənz
 gordy	ˈɡɔɹdiː
 gore	ˈɡɔɹ
 gorecki	ɡəɹˈɛtskiː
@@ -43388,7 +43493,7 @@ gorguze	ˈɡɔɹɡjuːz
 gorham	ˈɡɔɹəm
 gori	ˈɡɔɹiː
 goria	ˈɡɔɹiːə
-gorilla	ˈɡəɹɪlə
+gorilla	ɡəˈɹɪlə
 gorillas	ˈɡəɹɪləz
 gorin	ˈɡɔɹən
 goring	ˈɡɔɹɪŋ
@@ -43477,6 +43582,7 @@ gothic	ˈɡɑθɪk
 gotlieb	ˈɡɑtˌliːb
 goto	ˈɡoʊˌtuː
 goto	ˈɡoʊtoʊ
+gots	ˈɡɑts
 gotsch	ˈɡɑʧ
 gotschal	ˈɡɑʧəl
 gotschall	ˈɡɑʧəl
@@ -43504,6 +43610,7 @@ gottwald	ˈɡɑtwəld
 gotwalt	ˈɡɑtwəlt
 gotz	ˈɡɑts
 goucher	ˈɡaʊkəɹ
+gouda	ˈɡuːdə
 goude	ˈɡaʊd
 goudeau	ˌɡuːˈdoʊ
 goudie	ˈɡaʊdiː
@@ -43603,6 +43710,7 @@ grabbed	ˈɡɹæbd
 grabber	ˈɡɹæbəɹ
 grabbers	ˈɡɹæbəɹz
 grabbing	ˈɡɹæbɪŋ
+grabby	ˈgɹæbiː
 grabe	ˈɡɹeɪb
 grabel	ˈɡɹæbəl
 graben	ˈɡɹæbən
@@ -43758,7 +43866,6 @@ grammies	ˈɡɹæˌmiːz
 grammophon	ˈɡɹæməfɑn
 gramms	ˈɡɹæmz
 grammy	ˈɡɹæmiː
-grammys	ˈɡɹæmiːz
 grams	ˈɡɹæmz
 gramza	ˈɡɹæmzə
 gran	ˈɡɹæn
@@ -44470,6 +44577,7 @@ gritzmacher	ˈɡɹɪtˌsmɑkəɹ
 grivas	ˈɡɹiːvɑz
 griz	ˈɡɹɪz
 grizelda	ɡɹiːˈzɛldə
+grizz	ˈɡɹɪz
 grizzard	ˈɡɹɪzəɹd
 grizzell	ˈɡɹɪzəl
 grizzle	ˈɡɹɪzəl
@@ -44728,7 +44836,9 @@ grumbling	ˈɡɹʌmblɪŋ
 grumblings	ˈɡɹʌmbəlɪŋz
 grumblings	ˈɡɹʌmblɪŋz
 grumman	ˈɡɹʌmən
+grummies	ˈɡɹʌmiːz
 grummond	ˈɡɹʌmənd
+grummy	ˈɡɹʌmiː
 grump	ˈɡɹʌmp
 grumpier	ˈɡɹʌmpiːəɹ
 grumpier	ˈɡɹʌmpjəɹ
@@ -44951,6 +45061,7 @@ guglielmo	ɡuːɡliːˈɛlmoʊ
 gugliotta	ɡuːɡliːˈoʊtə
 gugliotti	ɡuːɡliːˈoʊtiː
 gugliuzza	ɡuːɡliːˈuːtsə
+guh	ˈɡʌ
 guhl	ˈɡʌl
 guiana	ɡiːˈɑnə
 guice	ˈɡaɪs
@@ -45096,6 +45207,7 @@ gulls	ˈɡʌlz
 gully	ˈɡʌliː
 gulp	ˈɡʌlp
 gulped	ˈɡʌlpt
+gulper	ˈɡʌlpəɹ
 gulping	ˈɡʌlpɪŋ
 gulps	ˈɡʌlps
 gulyas	ˈɡuːljəs
@@ -45109,6 +45221,7 @@ gumbiner	ˈɡʌmˌbaɪnəɹ
 gumbinger	ˈɡʌmˌbɪŋəɹ
 gumbo	ˈɡʌmboʊ
 gumbs	ˈɡʌmz
+gumga	ˈɡʌmɡɑ
 gumi	ˈɡuːmiː
 gumina	ɡuːˈmiːnə
 gumm	ˈɡʌm
@@ -47037,6 +47150,7 @@ havran	ˈhævɹən
 havranek	həˈvɹænɛk
 havrilla	ˌhævˈɹɪlə
 havron	ˈhævɹən
+havta	ˈhævtə
 haw	ˈhɑ
 hawaii	həˈwaɪˌiː
 hawaiian	həˈwaɪən
@@ -47685,6 +47799,7 @@ helbing	ˈhɛlbɪŋ
 helbling	ˈhɛlbəlɪŋ
 helbling	ˈhɛlblɪŋ
 held	ˈhɛld
+helda	ˈhɛldə
 heldenbrand	ˈhɛldənbɹənd
 heldenbrand	ˈhɛldənbɹænd
 heldentenor	ˈhɛldɛnˌtɛnəɹ
@@ -48489,6 +48604,8 @@ hibdon	ˈhɪbdən
 hibernate	ˈhaɪbəɹˌneɪt
 hibernation	ˌhaɪbəɹˈneɪʃən
 hibernia	ˌhaɪˈbʌɹniːə
+hibiscus	haɪˈbɪskəs
+hibiscus	hɪˈbɪskəs
 hibler	ˈhɑbələɹ
 hibma	ˈhɪbmə
 hibner	ˈhɪbnəɹ
@@ -49336,6 +49453,7 @@ hoit	ˈhɔɪt
 hoity	ˈhɔɪtiː
 hoium	ˈhɑiːəm
 hojnacki	həjˈnɑtskiː
+hok	ˈhɑk
 hokanson	ˈhɑkənsən
 hoke	ˈhoʊk
 hokenson	ˈhɑkənsən
@@ -49414,6 +49532,7 @@ holiness	ˈhoʊliːnəs
 holing	ˈhoʊlɪŋ
 holistic	hoʊˈlɪstɪk
 holl	ˈhɑl
+holla	ˈhɑlə
 hollabaugh	ˈhɑləˌbɑ
 holladay	ˈhɑləˌdeɪ
 hollan	ˈhɑlən
@@ -50009,10 +50128,11 @@ horseshoes	ˈhɔɹˌsʃuːz
 horsetail	ˈhɔɹˌsteɪl
 horsetails	ˈhɔɹˌsteɪlz
 horsey	ˈhɔɹsiː
+horseys	ˈhɔɹsiːz
 horsfall	ˈhɔɹsfəl
 horsham	ˈhɔɹʃəm
 horsie	ˈhɔɹsiː
-horsies	ˈhɔɹsiz
+horsies	ˈhɔɹsiːz
 horsing	ˈhɔɹsɪŋ
 horsley	ˈhɔɹsliː
 horsman	ˈhɔɹsmən
@@ -50215,6 +50335,7 @@ housewives	ˈhaʊsˌwaɪvz
 housework	ˈhaʊsˌwʌɹk
 houseworth	ˈhaʊsˌwʌɹθ
 housewright	ˈhaʊsˌɹaɪt
+housey	ˈhaʊsiː
 housh	ˈhaʊʃ
 housholder	ˈhaʊʃoʊldəɹ
 housing	ˈhaʊzɪŋ
@@ -50596,6 +50717,7 @@ hukill	ˈhjuːˌkɪl
 hukill	ˈjuːˌkɪl
 hukstra	həkstɹə
 hula	ˈhuːlə
+hulabaloo	ˌhʌləbəˈluː
 hulbard	ˈhʌlbəɹd
 hulbert	ˈhʌlbəɹt
 hulburd	ˈhʌlbəɹd
@@ -50731,6 +50853,7 @@ hummer	ˈhʌməɹ
 humming	ˈhʌmɪŋ
 hummingbird	ˈhʌmɪŋˌbʌɹd
 hummingbirds	ˈhʌmɪŋˌbʌɹdz
+hummus	ˈhʌməs
 humongous	hjuːˈmɑŋɡəs
 humor	ˈhjuːməɹ
 humoral	ˈhjuːməɹəl
@@ -50848,6 +50971,7 @@ hunza	ˈhʌnzə
 hunzeker	ˈhʌnzɪkəɹ
 hunziker	ˈhʌnzɪkəɹ
 huot	ˈhjuːət
+hup	ˈhʌp
 hupe	ˈhjuːp
 hupfer	ˈhʌpfəɹ
 hupp	ˈhʌp
@@ -51466,6 +51590,7 @@ igor	ˈiːˌɡɔɹ
 igou	ɪˈɡuː
 iguana	ɪˈɡwɑnə
 iguana	aɪˈɡwɑnə
+iguanadon	ɪˈɡwɑnəˌdɑn
 iguanas	ɪˈɡwɑnəz
 igushi	ɪˈɡuːʃiː
 ihasz	ˈaɪhæs
@@ -55075,6 +55200,7 @@ jiffy	ˈʤɪfiː
 jig	ˈʤɪɡ
 jiggetts	ˈʤɪɡɛts
 jiggle	ˈʤɪɡəl
+jiggler	ˈʤɪɡələɹ
 jiggling	ˈʤɪɡəlɪŋ
 jiggling	ˈʤɪɡlɪŋ
 jigs	ˈʤɪɡz
@@ -55257,7 +55383,7 @@ joints	ˈʤɔɪnts
 joist	ˈʤɔɪst
 joists	ˈʤɔɪsts
 jojo	ˈʤoʊˌʤoʊ
-jojola	joʊˈjoʊlə
+jojola	ʤoʊˈʤoʊlə
 joke	ˈʤoʊk
 jokebook	ˈʤoʊkˌbʊk
 joked	ˈʤoʊkt
@@ -55515,6 +55641,7 @@ jueteng	ˈʤuːˌtɛŋ
 juett	ˈʤuːt
 jug	ˈʤʌɡ
 juge	ˈʤuːʤ
+jugga	ˈʤʌɡə
 juggernaut	ˈʤʌɡəɹˌnɑt
 juggle	ˈʤʌɡəl
 juggled	ˈʤʌɡəld
@@ -55525,6 +55652,7 @@ juggling	ˈʤʌɡəlɪŋ
 juggling	ˈʤʌɡlɪŋ
 jugs	ˈʤʌɡz
 jugular	ˈʤuːɡjələɹ
+juh	ˈʤʌ
 juhas	ˈʤuːəz
 juhasz	ˈjʌˌhʌʃ
 juhl	ˈʤʌl
@@ -56014,6 +56142,7 @@ kaneshiro	kɑneɪˈʃɪɹoʊ
 kaney	ˈkeɪniː
 kang	ˈkæŋ
 kang	ˈkɑŋ
+kanga	ˈkæŋɡə
 kangaroo	ˌkæŋɡəˈɹuː
 kangaroos	ˌkæŋɡəɹˈuːz
 kangas	ˈkæŋɡəz
@@ -56883,6 +57012,7 @@ kerouac	ˈkɛɹuːæk
 kerpedjiev	kəɹˈpɛʤiːˌɛv
 kerper	ˈkʌɹpəɹ
 kerplatski	kəɹˈplætˌskiː
+kerplunk	kəɹˈplʌŋk
 kerr	ˈkʌɹ
 kerrey	ˈkɛɹiː
 kerri	ˈkɛɹiː
@@ -57327,6 +57457,7 @@ kimmie	ˈkɪmiː
 kimmins	ˈkɪˌmɪnz
 kimmitt	ˈkɪˌmɪt
 kimmons	ˈkɪmənz
+kimmy	ˈkɪmiː
 kimono	kəˈmoʊnə
 kimonos	kəˈmoʊnəz
 kimoto	kiːˈmoʊtoʊ
@@ -57342,6 +57473,7 @@ kimwipe	ˈkɪmwaɪp
 kimwipes	ˈkɪmwaɪps
 kimzey	ˈkɪmziː
 kin	ˈkɪn
+kinana	ˌkiːˈnɑnə
 kinard	ˈkɪnəɹd
 kinark	ˈkɪnɑɹk
 kinburn	ˈkɪnˌbʌɹn
@@ -57711,6 +57843,7 @@ kkk	ˈkeɪˈkeɪkeɪ
 klaas	ˈklɑs
 klaassen	ˈklɑsən
 klabunde	ˈklæbənd
+klack	ˈklæk
 kladstrup	ˈklædstɹəp
 klages	ˈkleɪʤəz
 klahn	ˈklæn
@@ -59241,6 +59374,7 @@ kugel	ˈkuːɡəl
 kugelman	ˈkʌɡəlmən
 kugler	ˈkuːɡələɹ
 kugler	ˈkuːɡləɹ
+kuh	ˈkʌ
 kuhar	ˈkuːəɹ
 kuhl	ˈkʌl
 kuhle	ˈkuːəl
@@ -61632,6 +61766,7 @@ lemler	ˈlɛmləɹ
 lemley	ˈlɛmliː
 lemm	ˈlɛm
 lemma	ˈlɛmə
+lemme	ˈlɛmiː
 lemme	ˈlɛmə
 lemmen	ˈlɛmɛn
 lemmer	ˈlɛməɹ
@@ -63061,6 +63196,7 @@ livoti	liːˈvoʊtiː
 livsey	ˈlɪvziː
 livvie	ˈlɪviː
 liz	ˈlɪz
+liza	ˈlaɪzə
 liza	ˈliːzə
 lizabeth	ˈlɪzəbɛθ
 lizak	ˈlɪzək
@@ -63400,6 +63536,7 @@ lokey	ˈloʊkiː
 lokken	ˈlɑkən
 lola	ˈloʊlə
 loleta	loʊˈlɛtə
+loley	ˈloʊliː
 lolita	loʊˈliːtə
 loll	ˈlɑl
 lollapalooza	ˌlɑləpəˈluːzə
@@ -63700,6 +63837,7 @@ losch	ˈlɑʃ
 loschiavo	loʊskiːˈɑvoʊ
 lose	ˈluːz
 losec	ˈloʊzək
+losed	ˈluːzd
 losee	ləˈsiː
 loseke	ˈlɑsɪk
 loser	ˈluːzəɹ
@@ -64028,6 +64166,7 @@ lucio	ˈluːsiːoʊ
 lucite	ˈluːˌsaɪt
 lucius	ˈluːʃəs
 luciw	ˈluːsɪ
+luciwall	ˌlusiˈwʌl
 luck	ˈlʌk
 lucke	ˈlʌk
 lucken	ˈlʌkən
@@ -64054,6 +64193,7 @@ lucrecia	luːˈkɹiːʃə
 lucretia	luːˈkɹiːʃə
 lucus	ˈluːkəs
 lucy	ˈluːsiː
+lucybucy	ˈluːsiːˌbuːsiː
 luczak	ˈlʌʧæk
 ludcke	ˈlʌdkiː
 ludden	ˈlʌdən
@@ -64592,6 +64732,7 @@ macalpine	məˈkælˈpaɪn
 macaluso	ˌmækəˈluːsoʊ
 macandrews	məˈkænˌdɹuːz
 macao	məˈkaʊ
+macaque	məˈkɑk
 macaques	məˈkɑks
 macari	mɑˈkɑɹiː
 macaroni	ˌmækəˈɹoʊniː
@@ -64696,6 +64837,7 @@ machnik	ˈmæknɪk
 macho	ˈmɑʧoʊ
 machold	məˈhoʊld
 machowski	məˈʧɑfskiː
+machrauchenia	ˈmækɹaʊˌʃiːniːə
 macht	ˈmæʧt
 machtley	ˈmætʧliː
 machuca	məˈʧuːkə
@@ -64781,6 +64923,7 @@ macquarrie	məˈkɛɹiː
 macqueen	məˈkwiːn
 macrae	məˈkɹeɪ
 macrame	ˈmækɹəˌmeɪ
+macrauchenia	ˈmækɹaʊˌʃiːniːə
 macri	ˈmækɹiː
 macro	ˈmækɹoʊ
 macrodantin	ˌmækɹoʊˈdæntən
@@ -65220,6 +65363,7 @@ mais	ˈmeɪz
 maisano	məˈsɑnoʊ
 maisch	ˈmaɪʃ
 maisel	ˈmaɪsəl
+maisey	ˈmeɪziː
 maish	ˈmɑəʃ
 maisie	ˈmeɪziː
 maison	ˈmeɪzən
@@ -65389,6 +65533,7 @@ maliciously	məˈlɪʃəsliː
 malick	ˈmælɪk
 malicki	məˈlɪkiː
 malicoat	ˈmælɪˌkoʊt
+malificent	məˈlɪfəsənt
 malign	məˈlaɪn
 malignancies	məˈlɪɡnənsiːz
 malignancy	məˈlɪɡnənsiː
@@ -66465,6 +66610,7 @@ marsteller	ˈmɑɹzˌtɛləɹ
 marsters	ˈmɑɹstəɹz
 marston	ˈmɑɹstən
 marsupial	mɑɹˈsuːpiːəl
+marsupials	mɑɹˈsuːpiːəlz
 marszalek	məɹˈʃɑlɛk
 mart	ˈmɑɹt
 marta	ˈmɑɹtə
@@ -66742,6 +66888,7 @@ massoth	ˈmæsəθ
 massport	ˈmæsˌpɔɹt
 massucci	mɑˈsuːʧiː
 mast	ˈmæst
+mastadon	ˈmæstəˌdɑn
 mastandrea	mɑsˈtɑndɹiːə
 mastectomies	mæsˈtɛktəmiːz
 mastectomy	mæsˈtɛktəmiː
@@ -67695,6 +67842,7 @@ mcdougle	məkˈduːɡəl
 mcdow	məkˈdaʊ
 mcdowall	məkˈdaʊəl
 mcdowell	məkˈdaʊəl
+mcduck	məkˈdʌk
 mcduff	məkˈdʌf
 mcduffee	məkˈdʌfiː
 mcduffie	məkˈdʌfiː
@@ -69532,6 +69680,7 @@ miasma	maɪˈæzmə
 miata	miːˈɑtə
 miazga	miːˈɑzɡə
 mib	ˈmɪb
+mic	ˈmaɪk
 mic	ˈmɪk
 mica	ˈmaɪkə
 micaela	miːˈkeɪlə
@@ -69708,6 +69857,7 @@ microwave	ˈmaɪkɹəˌweɪv
 microwaved	ˈmaɪkɹoʊˌweɪvd
 microwaves	ˈmaɪkɹoʊˌweɪvz
 microx	ˈmɪkɹəks
+mics	ˈmaɪks
 micucci	miːˈkuːʧiː
 mid	ˈmɪd
 midafternoon	ˈmɪˌdæftəɹˌnuːn
@@ -70225,6 +70375,7 @@ mineta	ˌmɪˈneɪtə
 minette	ˌmɪˈnɛt
 mineworker	ˈmaɪnˌwʌɹkəɹ
 mineworkers	ˈmaɪnˌwʌɹkəɹz
+miney	ˈmaɪniː
 ming	ˈmɪŋ
 minge	ˈmɪnʤ
 minger	ˈmɪŋəɹ
@@ -71706,6 +71857,7 @@ moos	ˈmuːz
 moosa	ˈmuːsə
 moose	ˈmuːs
 moosehead	ˈmuːsˌhɛd
+mooses	ˈmuːsəz
 moosman	ˈmuːsmən
 moot	ˈmuːt
 moothart	ˈmuːθɑɹt
@@ -72235,7 +72387,9 @@ mousehole	ˈmaʊsˌhoʊl
 mousel	muːˈsɛl
 mouser	ˈmaʊzəɹ
 mousers	ˈmaʊzəɹz
+mouses	ˈmaʊsəz
 mousetrap	ˈmaʊsˌtɹæp
+mousey	ˈmaʊsiː
 mousley	ˈmaʊsliː
 moussa	ˈmaʊsə
 mousse	ˈmuːs
@@ -72348,6 +72502,7 @@ mt	ˈmaʊnt
 mt	ˈɛmˈtiː
 mtel	ˈɛmˌtɛl
 mu	ˈmuː
+muah	ˈmwɑ
 muammar	muːˈæməɹ
 muavenet	ˌmuːəˈvɛnət
 mubarak	muːˈbɑɹɪk
@@ -72621,6 +72776,7 @@ mulvihill	ˈmʌlviːˌhɪl
 mum	ˈmʌm
 muma	ˈmjuːmə
 mumaw	ˈmuːmɑ
+mumba	ˈmʌmbə
 mumble	ˈmʌmbəl
 mumbled	ˈmʌmbəld
 mumbles	ˈmʌmbəlz
@@ -73121,6 +73277,7 @@ nacogdoches	nəˈkɑɡdəʧəz
 nad	ˈnæd
 nada	ˈnɑdə
 nadal	nɑdeɪˈæl
+naddy	ˈnædiː
 nadeau	nəˈdoʊ
 nadein	nəˈdaɪn
 nadel	nɑˈdɛl
@@ -73177,6 +73334,7 @@ nahm	ˈnæm
 nahm	ˈnɑm
 nahmias	ˈnɑmiːəz
 nahum	ˈnæhəm
+nai	ˈnaɪ
 naidoo	ˈneɪˌduː
 naify	ˈneɪˌfaɪ
 naik	ˈneɪk
@@ -73187,6 +73345,7 @@ naill	ˈneɪl
 nailor	ˈneɪləɹ
 nails	ˈneɪlz
 naim	ˈnaɪəm
+naima	ˌnaɪˈiːmə
 naiman	ˈneɪmən
 nair	ˈnɛɹ
 naira	ˈnɛɹə
@@ -73728,6 +73887,7 @@ neeb	ˈniːb
 neece	ˈniːs
 neeco	ˈniːkoʊ
 need	ˈniːd
+needa	ˈniːdə
 needed	ˈniːdəd
 needelman	ˈniːdəlmən
 needful	ˈniːdfəl
@@ -73907,6 +74067,7 @@ nemetz	ˈnɛmɛts
 nemir	ˈnʌməɹ
 nemitz	ˈnɛmɛts
 nemmers	ˈnɛməɹz
+nemo	ˈniːmoʊ
 nemo	ˈnɛmoʊ
 nemos	ˈniːmoʊz
 nemours	nəˈmɔɹz
@@ -74564,6 +74725,7 @@ nighters	ˈnaɪtəɹz
 nightfall	ˈnaɪtˌfɑl
 nighthawk	ˈnaɪtˌhɑk
 nighthorse	ˈnaɪthɔɹs
+nightie	ˈnaɪtiː
 nightingale	ˈnaɪtɪŋɡeɪl
 nightlife	ˈnaɪtˌlaɪf
 nightline	ˈnaɪtˌlaɪn
@@ -74580,6 +74742,7 @@ nightstand	ˈnaɪtˌstænd
 nightstick	ˈnaɪtˌstɪk
 nighttime	ˈnaɪtˌtaɪm
 nighttimes	ˈnaɪtˌtaɪmz
+nighty	ˈnaɪtiː
 nigrelli	niːˈɡɹɛliː
 nigris	ˈnɪɡˌɹɪs
 nigro	ˈnɪɡɹoʊ
@@ -74596,9 +74759,11 @@ nihiser	ˈnɪhaɪzəɹ
 nihon	ˈnɪhɑn
 niihau	ˈniːhaʊ
 nik	ˈnɪk
+nika	ˈnɪkə
 nike	ˈnaɪkiː
 nikes	ˈnaɪks
 nikes	ˈnaɪkiːz
+niki	ˈnɪkiː
 nikita	ˌnɪˈkiːtə
 nikita	nəˈkiːtə
 nikkei	nɪˈkeɪ
@@ -75170,7 +75335,7 @@ norgaard	ˈnɔɹɡɑɹd
 norgard	ˈnɔɹɡəɹd
 norge	ˈnɔɹʤ
 norgren	ˈnɔɹɡɹən
-nori	ˈnoɹi
+nori	ˈnɔɹi
 norick	ˈnɔɹɪk
 noriega	ˌnɔɹiːˈeɪɡə
 noriegas	ˌnɔɹiːˈeɪɡəs
@@ -75605,7 +75770,11 @@ nursery	ˈnʌɹsəɹiː
 nurseryman	ˈnʌɹsəɹiːˌmæn
 nurserymen	ˈnʌɹsəɹiːmən
 nurses	ˈnʌɹsəz
+nursey	ˈnʌɹsiː
+nursie	ˈnʌɹsiː
+nursies	ˈnʌɹsiːz
 nursing	ˈnʌɹsɪŋ
+nursy	ˈnʌɹsiː
 nurture	ˈnʌɹʧəɹ
 nurtured	ˈnʌɹʧəɹd
 nurturer	ˈnʌɹtəɹəɹ
@@ -75746,6 +75915,7 @@ oath	ˈoʊθ
 oathout	ˈoʊˌθaʊt
 oaths	ˈoʊðz
 oaths	ˈoʊθs
+oatie	ˈoʊtiː
 oatis	ˈoʊˌtɪs
 oatley	ˈoʊtliː
 oatman	ˈoʊtmən
@@ -76093,7 +76263,9 @@ odiaun	ˈoʊdiːən
 odier	ˈoʊdiːəɹ
 odilia	oʊˈdiːliːə
 odin	ˈoʊdən
+odio	ˈoʊdiˌoʊ
 odiorne	oʊdiːˈɔɹniː
+odios	ˈoʊdiˌoʊz
 odious	ˈoʊdiːəs
 odland	ˈɑdlənd
 odle	ˈoʊdəl
@@ -76707,6 +76879,7 @@ onus	ˈoʊnəs
 onward	ˈɑnwəɹd
 onwards	ˈɑnwəɹdz
 onyx	ˈɑnɪks
+ooching	ˈuːʧɪŋ
 oodle	ˈuːdəl
 oodles	ˈuːdəlz
 ooh	ˈuː
@@ -76836,8 +77009,9 @@ oppose	əˈpoʊz
 opposed	əˈpoʊzd
 opposes	əˈpoʊzəz
 opposing	əˈpoʊzɪŋ
+opposite	ˈɑpəsɪt
 opposite	ˈɑpəzət
-opposite	ˈɑpzət
+opposites	ˈɑpəsɪts
 opposites	ˈɑpəzəts
 opposition	ˌɑpəˈzɪʃən
 oppress	əˈpɹɛs
@@ -77254,6 +77428,7 @@ oryx	ˈɔɹɪks
 orzech	ˈɔɹzɛh
 orzechowski	ɔɹzəˈhɑfskiː
 orzel	ˈɔɹzəl
+orzo	ˈɔɹzoʊ
 os	ˈɑs
 osage	oʊˈseɪʤ
 osages	oʊˈseɪʤəz
@@ -77483,6 +77658,7 @@ otwell	ˈɑtˌwɛl
 ou	ˈuː
 oubre	ˈuːbəɹ
 ouch	ˈaʊʧ
+ouchie	ˈaʊʧiː
 ouderkirk	ˈaʊdəɹkəɹk
 ouelette	ˈɑuːlɛt
 ouellet	ˈɑuːlɛt
@@ -77543,7 +77719,7 @@ outdistancing	ˈaʊtˈdɪstənsɪŋ
 outdo	ˌaʊtˈduː
 outdone	ˈaʊtˈdʌn
 outdoor	ˈaʊtˌdɔɹ
-outdoors	ˈaʊtˈdɔɹz
+outdoors	ˌaʊtˈdɔɹz
 outed	ˈaʊtəd
 outen	ˈaʊtən
 outer	ˈaʊtəɹ
@@ -78772,6 +78948,7 @@ papke	ˈpeɪpk
 papo	pæˈpoʊ
 papp	ˈpæp
 pappa	ˈpæpə
+pappa	ˈpɑpə
 pappadio	pəˈpeɪdiːoʊ
 pappalardo	pɑpɑˈlɑɹdoʊ
 pappas	ˈpæpəs
@@ -79831,6 +80008,7 @@ peevey	ˈpiːviː
 peevish	ˈpiːvɪʃ
 peevy	ˈpiːviː
 peewee	ˈpiːˌwiː
+peeyou	ˈpiːjuː
 peffer	ˈpɛfəɹ
 peffley	ˈpɛfliː
 peg	ˈpɛɡ
@@ -80006,6 +80184,7 @@ penfield	ˈpɛnˌfiːld
 penfil	ˈpɛnˌfɪl
 penfold	ˈpɛnˌfoʊld
 peng	ˈpɛŋ
+pengams	ˈpɛŋɡəmz
 pengassan	ˈpɛŋˌɡæsən
 pengelly	ˈpɛŋɡəliː
 pengo	ˈpɛŋɡoʊ
@@ -81412,6 +81591,7 @@ pigeons	ˈpɪʤənz
 pigford	ˈpɪɡfəɹd
 pigg	ˈpɪɡ
 piggee	ˈpɪɡiː
+piggies	ˈpɪɡiːz
 piggly	ˈpɪɡliː
 piggott	ˈpɪɡət
 piggy	ˈpɪɡiː
@@ -81680,6 +81860,7 @@ pipkins	ˈpɪpkənz
 pipp	ˈpɪp
 pippen	ˈpɪpən
 pippenger	ˈpɪpənʤəɹ
+pipper	ˈpɪpəɹ
 pippert	ˈpɪpəɹt
 pippin	ˈpɪˌpɪn
 pippins	ˈpɪˌpɪnz
@@ -81787,6 +81968,7 @@ pittard	ˈpɪtəɹd
 pitted	ˈpɪtəd
 pittencrieff	ˈpɪtənˌkɹiːf
 pittenger	ˈpɪtənʤəɹ
+pitter	ˈpɪtəɹ
 pitting	ˈpɪtɪŋ
 pittinger	ˈpɪtɪŋəɹ
 pittle	ˈpɪtəl
@@ -81840,6 +82022,7 @@ pizzo	ˈpɪzoʊ
 pizzolato	piːtsoʊˈlɑtoʊ
 pizzuti	piːtˈsuːtiː
 pizzuto	piːtˈsuːtoʊ
+pj	ˈpiːˌʤeɪ
 pla	ˈplɑ
 placard	ˈplækəɹd
 placards	ˈplækəɹdz
@@ -82097,6 +82280,7 @@ pleasurable	ˈplɛʒəɹəbəl
 pleasurama	ˌplɛʒʊˈɹæmə
 pleasure	ˈplɛʒəɹ
 pleasures	ˈplɛʒəɹz
+pleasy	ˈpliːziː
 pleat	ˈpliːt
 pleats	ˈpliːts
 plebeian	pləˈbiːən
@@ -82723,6 +82907,7 @@ pomicino	ˌpoʊˌmɪˈsiːnoʊ
 pommel	ˈpɑməl
 pommer	ˈpɑməɹ
 pommier	ˈpɑmiːəɹ
+pommy	ˈpɑmiː
 pomodoro	ˌpɑməˈdɔɹoʊ
 pomology	poʊˈmɑləʤiː
 pomona	poʊˈmoʊnə
@@ -82810,6 +82995,7 @@ poodles	ˈpuːdəlz
 poof	ˈpuːf
 pooh	ˈpuː
 poohed	ˈpuːd
+pooks	ˈpuːks
 pool	ˈpuːl
 poole	ˈpuːl
 pooled	ˈpuːld
@@ -82823,7 +83009,11 @@ poop	ˈpuːp
 pooped	ˈpuːpt
 pooper	ˈpuːpəɹ
 poopers	ˈpuːpəɹz
+poopie	ˈpuːpiː
+poopies	ˈpuːpiːz
+pooping	ˈpuːpɪŋ
 poops	ˈpuːps
+poopy	ˈpuːpiː
 poor	ˈpʊɹ
 poorbaugh	ˈpʊɹbɑ
 poore	ˈpʊɹ
@@ -82996,6 +83186,7 @@ porting	ˈpɔɹtɪŋ
 portion	ˈpɔɹʃən
 portions	ˈpɔɹʃənz
 portis	ˈpɔɹˌtɪs
+portishead	ˈpɔɹtɪsˌhɛd
 portland	ˈpɔɹtlənd
 portlock	ˈpɔɹˌtlɑk
 portly	ˈpɔɹtliː
@@ -83383,6 +83574,7 @@ prances	ˈpɹænsəz
 prancing	ˈpɹænsɪŋ
 prange	ˈpɹeɪnʤ
 pranger	ˈpɹeɪnʤəɹ
+pranilla	pɹəˈnɪlə
 prank	ˈpɹæŋk
 pranks	ˈpɹæŋks
 prankster	ˈpɹæŋkstəɹ
@@ -84114,6 +84306,7 @@ prince	ˈpɹɪns
 princely	ˈpɹɪnsliː
 princes	ˈpɹɪnsəz
 princess	ˈpɹɪnsɛs
+princessed	ˈpɹɪnsɛst
 princesses	ˈpɹɪnsɛsəz
 princeton	ˈpɹɪnstən
 princeville	ˈpɹɪnˌsvɪl
@@ -84260,6 +84453,7 @@ problem	ˈpɹɑbləm
 problematic	ˌpɹɑbləˈmætɪk
 problematical	ˌpɹɑbləˈmætɪkəl
 problems	ˈpɹɑbləmz
+probly	ˈpɹɑbliː
 proboscis	pɹoʊˈbɑsəs
 probst	ˈpɹɑbst
 probursa	ˌpɹoʊˈbʌɹsə
@@ -85035,6 +85229,9 @@ psychotic	ˌsaɪˈkɑtɪk
 psyllium	ˈsɪliːəm
 ptacek	ˈtɑˌʧɛk
 ptak	ˈtæk
+pteradon	ˈtɛɹəˌdɑn
+pteranodon	təˈɹænəˌdɑn
+pterodactyls	ˌtɛɹəˈdæktəlz
 ptolemaic	ˌtɑləˈmeɪɪk
 ptolemy	ˈtɑləmiː
 ptomaine	ˈtoʊmeɪn
@@ -85131,6 +85328,7 @@ pugmire	ˈpʌɡˌmaɪɹ
 pugnacious	pəɡˈnæʃəs
 pugsley	ˈpʌɡsliː
 pugwash	ˈpʌɡˌwɑʃ
+puh	ˈpʌ
 puhl	ˈpʌl
 puig	ˈpuːɡ
 puipoe	ˈpuːiːˌpoʊ
@@ -85489,6 +85687,7 @@ pyrenees	ˈpɪɹəiːz
 pyrite	ˈpaɪɹaɪt
 pyro	ˈpaɪɹoʊ
 pyron	ˈpɪɹən
+pyrosaurus	ˈpaɪɹəˌsɔːɹəs
 pyrotechnic	ˌpaɪɹoʊˈtɛknɪk
 pyrotechnics	ˌpaɪɹoʊˈtɛknɪks
 pyroxene	paɪˈɹɑksiːn
@@ -85665,6 +85864,7 @@ quasi	ˈkwɑsiː
 quasimodo	kæziːˈmoʊdoʊ
 quassia	ˈkwɑʃiːə
 quast	ˈkwɑst
+quat	ˈkwɑt
 quaternary	ˈkwɑtəɹˌnɛɹiː
 quattlebaum	ˈkwɑtəlbaʊm
 quattro	ˈkwɑtɹoʊ
@@ -86188,6 +86388,7 @@ raffo	ˈɹæfoʊ
 rafi	ˈɹæfiː
 rafi	ˈɹɑfiː
 rafik	ˈɹæfɪk
+rafiki	ɹəˈfiːkiː
 rafsanjani	ˌɹæfsənˈʤɑniː
 raft	ˈɹæft
 rafted	ˈɹæftəd
@@ -86659,6 +86860,7 @@ raptors	ˈɹæptəɹz
 rapture	ˈɹæpʧəɹ
 rapturous	ˈɹæpʧəɹəs
 rapuano	ɹɑpuːˈɑnoʊ
+rapunzel	ɹəˈpʌnzəl
 raquel	ɹəˈkɛl
 rara	ˈɹɑɹə
 rardon	ˈɹɑɹdən
@@ -90043,6 +90245,7 @@ rex	ˈɹɛks
 rexall	ˈɹɛkˌsɑl
 rexana	ɹɪɡˈzænə
 rexene	ˈɹɛksiːn
+rexes	ˈɹɛksəs
 rexford	ˈɹɛksfəɹd
 rexham	ˈɹɛksəm
 rexnord	ˈɹɛksnɔɹd
@@ -90264,6 +90467,7 @@ richton	ˈɹɪʧtən
 richts	ˈɹɪkts
 richwhite	ˈɹɪʧˌwaɪt
 richwine	ˈɹɪʧˌwaɪn
+ricies	ˈɹaɪsiːz
 ricigliano	ˌɹɪsɪɡliːˈɑnoʊ
 rick	ˈɹɪk
 rickabaugh	ˈɹɪkəˌbɑ
@@ -91431,6 +91635,7 @@ ronny	ˈɹɑniː
 ronquillo	ɹoʊnˈkwɪloʊ
 ronson	ˈɹɑnsən
 ronstadt	ˈɹɑnˌstæt
+roo	ˈɹuː
 rood	ˈɹuːd
 roode	ˈɹuːd
 roof	ˈɹuːf
@@ -91453,6 +91658,7 @@ rookstool	ˈɹʊkˌstuːl
 room	ˈɹuːm
 roome	ˈɹuːm
 roomful	ˈɹuːmˌfʊl
+roomie	ˈɹuːmiː
 roomier	ˈɹuːmiːəɹ
 roominess	ˈɹuːmiːnəs
 rooming	ˈɹuːmɪŋ
@@ -91842,6 +92048,8 @@ roundworm	ˈɹaʊndwəɹm
 roundworms	ˈɹaʊndwəɹmz
 roundy	ˈɹaʊndiː
 rounsaville	ˈɹuːnsəˌvɪl
+route	ˈɹuːt
+route	ˈɹaʊt
 row	ˈɹoʊ
 rowan	ˈɹoʊən
 rowand	ˈɹoʊənd
@@ -91948,7 +92156,9 @@ ruane	ɹuːˈeɪn
 ruano	ɹuːˈɑnoʊ
 ruark	ˈɹuːɑɹk
 rub	ˈɹʌb
+rub-a-dub	ˈɹʌbəˌdʌb
 ruback	ˈɹuːˌbæk
+rubadub	ˈɹʌbəˌdʌb
 rubalcaba	ɹuːbɑlˈkɑbə
 rubalcava	ɹuːbɑlˈkɑvə
 rubano	ɹuːˈbɑnoʊ
@@ -93438,6 +93648,7 @@ sarandon	ˌsɛˈɹændən
 sarant	ˈsæɹənt
 sarasin	ˈsɑɹəsən
 sarasota	ˌsɛɹəˈsoʊtə
+sarasponda	ˌsɛɹəˈspɑndə
 saratoga	ˌsɛɹəˈtoʊɡə
 saratov	ˈsɛɹəˌtɑv
 saratov	ˈsɛɹəˌtɑf
@@ -95190,6 +95401,7 @@ scrubbing	ˈskɹʌbɪŋ
 scrubby	ˈskɹʌbiː
 scruffy	ˈskɹʌfiː
 scruggs	ˈskɹʌɡz
+scrumptious	ˈskɹʌmpˌʃəs
 scrunch	ˈskɹʌnʧ
 scrunched	ˈskɹʌnʧt
 scruple	ˈskɹuːpəl
@@ -95204,6 +95416,7 @@ scrutiny	ˈskɹuːtəniː
 scruton	ˈskɹuːtən
 scrutton	ˈskɹʌtən
 scuba	ˈskuːbə
+scubas	ˈskuːbəz
 scud	ˈskʌd
 scudder	ˈskʌdəɹ
 scuderi	skuːˈdɛɹiː
@@ -98321,6 +98534,7 @@ sippel	ˈsɪpəl
 sippican	ˈsɪpɪkən
 sipping	ˈsɪpɪŋ
 sipple	ˈsɪpəl
+sippy	ˈsɪpiː
 sips	ˈsɪps
 sir	ˈsʌɹ
 siracusa	sɪɹɑˈkuːsə
@@ -98844,6 +99058,7 @@ sleepily	ˈsliːpəliː
 sleepiness	ˈsliːpiːnəs
 sleeping	ˈsliːpɪŋ
 sleepless	ˈsliːpləs
+sleepover	ˈslipˌɔvəɹ
 sleeps	ˈsliːps
 sleepwalk	ˈsliːpˌwɑk
 sleepwalker	ˈsliːpˌwɑkəɹ
@@ -99222,6 +99437,7 @@ smittle	ˈsmɪtəl
 smitty	ˈsmɪtiː
 smoak	ˈsmoʊk
 smock	ˈsmɑk
+smocks	ˈsmɑks
 smog	ˈsmɑɡ
 smoggiest	ˈsmɑɡiːəst
 smoggy	ˈsmɑɡiː
@@ -99253,6 +99469,7 @@ smolinski	sməˈlɪnskiː
 smolinsky	sməˈlɪnskiː
 smolka	ˈsmoʊlkə
 smooch	ˈsmuːʧ
+smooshed	ˈsmʊʃt
 smoot	ˈsmuːt
 smooth	ˈsmuːð
 smoothed	ˈsmuːðd
@@ -99260,6 +99477,7 @@ smoothen	ˈsmuːðən
 smoothens	ˈsmuːðənz
 smoother	ˈsmuːðəɹ
 smoothest	ˈsmuːðəst
+smoothie	ˈsmuːðiː
 smoothing	ˈsmuːðɪŋ
 smoothly	ˈsmuːðliː
 smoothness	ˈsmuːðnəs
@@ -99390,6 +99608,7 @@ sneeze	ˈsniːz
 sneezed	ˈsniːzd
 sneezes	ˈsniːzəz
 sneezing	ˈsniːzɪŋ
+sneezy	ˈsniːziː
 sneh	ˈsnɛ
 sneider	ˈsnaɪdəɹ
 snelgrove	ˈsnɛlˌɡɹoʊv
@@ -99453,14 +99672,17 @@ snooping	ˈsnuːpɪŋ
 snoopy	ˈsnuːpiː
 snooty	ˈsnuːtiː
 snooze	ˈsnuːz
+snoozers	ˈsnuːzəɹz
 snoozing	ˈsnuːzɪŋ
 snore	ˈsnɔɹ
+snores	ˈsnɔɹz
 snoring	ˈsnɔɹɪŋ
 snort	ˈsnɔɹt
 snorted	ˈsnɔɹtəd
 snorting	ˈsnɔɹtɪŋ
 snorts	ˈsnɔɹts
 snot	ˈsnɑt
+snotty	ˈsnɑtiː
 snouffer	ˈsnoʊfəɹ
 snout	ˈsnaʊt
 snover	ˈsnoʊvəɹ
@@ -99489,6 +99711,7 @@ snowflakes	ˈsnoʊfˌleɪks
 snowflakes	ˈsnoʊˌfleɪks
 snowing	ˈsnoʊɪŋ
 snowman	ˈsnoʊˌmæn
+snowmen	ˈsnoʊˌmɛn
 snowmobile	ˈsnoʊmoʊˌbiːl
 snowmobiles	ˈsnoʊmoʊˌbiːlz
 snowplow	ˈsnoʊpˌlaʊ
@@ -99507,10 +99730,14 @@ snuff	ˈsnʌf
 snuffed	ˈsnʌft
 snuffer	ˈsnʌfəɹ
 snuffing	ˈsnʌfɪŋ
+snuffle	ˈsnʌfəl
 snuffs	ˈsnʌfs
+snuffy	ˈsnʌfiː
 snug	ˈsnʌɡ
 snugging	ˈsnʌɡɪŋ
 snuggle	ˈsnʌɡəl
+snuggling	ˈsnʌɡəlɪŋ
+snuggly	ˈsnʌɡliː
 snuggs	ˈsnʌɡz
 snugly	ˈsnʌɡliː
 snyder	ˈsnaɪdəɹ
@@ -99523,6 +99750,7 @@ soaking	ˈsoʊkɪŋ
 soaks	ˈsoʊks
 soap	ˈsoʊp
 soapbox	ˈsoʊpˌbɑks
+soaping	ˈsoʊpɪŋ
 soaps	ˈsoʊps
 soapy	ˈsoʊpiː
 soar	ˈsɔɹ
@@ -100501,6 +100729,7 @@ speck	ˈspɛk
 specker	ˈspɛkəɹ
 speckle	ˈspɛkəl
 speckled	ˈspɛkəld
+speckles	ˈspɛkəlz
 speckman	ˈspɛkmən
 specks	ˈspɛks
 specs	ˈspɛks
@@ -100661,6 +100890,7 @@ spidell	ˈspɪdəl
 spider	ˈspaɪdəɹ
 spiderman	ˈspaɪdəɹmæn
 spiders	ˈspaɪdəɹz
+spidersaurus	ˈspaɪdəɹˌsɔɹəs
 spidle	ˈspaɪdəl
 spie	ˈspiː
 spied	ˈspaɪd
@@ -100737,6 +100967,7 @@ spinoff	ˈspɪˌnɑf
 spinoffs	ˈspɪˌnɑfs
 spinola	spiːˈnoʊlə
 spinosa	spiːˈnoʊsə
+spinosaurus	ˈspaɪnəˌsɔɹəs
 spinoza	spəˈnoʊzə
 spins	ˈspɪnz
 spinster	ˈspɪnstəɹ
@@ -100791,6 +101022,7 @@ spivak	ˈspɪvək
 spivey	ˈspɪviː
 spiwak	ˈspɪvək
 spizzirri	spiːtˈsɪɹiː
+splag	ˈsplæɡ
 splain	ˈspleɪn
 splaine	ˈspleɪn
 splash	ˈsplæʃ
@@ -100824,6 +101056,7 @@ split	ˈsplɪt
 splits	ˈsplɪts
 splitt	ˈsplɪt
 splitting	ˈsplɪtɪŋ
+splot	ˈsplɑt
 splurge	ˈsplʌɹʤ
 splurged	ˈsplʌɹʤd
 splurging	ˈsplʌɹʤɪŋ
@@ -101156,12 +101389,13 @@ squelched	ˈskwɛlʧt
 squelching	ˈskwɛlʧɪŋ
 squibb	ˈskwɪb
 squid	ˈskwɪd
+squids	ˈskwɪdz
 squier	ˈskwaɪəɹ
 squiers	skwaɪˈʌɹz
 squiggle	ˈskwɪɡəl
 squiggles	ˈskwɪɡəlz
 squigglies	ˈskwɪɡliːz
-squiggly	ˈskwɪɡli
+squiggly	ˈskwɪɡliː
 squillace	ˈskwɪləs
 squillante	skwiːˈlɑnteɪ
 squint	ˈskwɪnt
@@ -101176,14 +101410,18 @@ squirreled	ˈskwʌɹəld
 squirrels	ˈskwʌɹəlz
 squirt	ˈskwʌɹt
 squirted	ˈskwʌɹtəd
+squirter	ˈskwʌɹtəɹ
 squirting	ˈskwʌɹtɪŋ
 squirts	ˈskwʌɹts
 squish	ˈskwɪʃ
 squished	ˈskwɪʃt
 squishes	ˈskwɪʃəz
+squishies	ˈskwɪʃiːz
+squishiest	ˈskwɪʃiːəst
 squishing	skwɪʃɪŋ
 squishy	ˈskwɪʃiː
 squitieri	skwiːˈtɪɹiː
+squoosh	ˈskwʊʃ
 squooshy	ˈskwʊʃi
 squyres	ˈskwaɪɹz
 sr	ˈsiːnjəɹ
@@ -101473,6 +101711,7 @@ standardizing	ˈstændəɹˌdaɪzɪŋ
 standards	ˈstændəɹdz
 standby	ˈstændˈbaɪ
 standbys	ˈstændˌbaɪz
+standed	ˈstændəd
 standefer	ˈstændəfəɹ
 standen	ˈstændən
 stander	ˈstændəɹ
@@ -101819,6 +102058,7 @@ steakhouses	ˈsteɪkˌhaʊsəz
 steakley	ˈstiːkliː
 steaks	ˈsteɪks
 steal	ˈstiːl
+stealed	ˈstiːld
 stealer	ˈstiːləɹ
 stealey	ˈstiːliː
 stealing	ˈstiːlɪŋ
@@ -102418,6 +102658,7 @@ stingier	ˈstɪnʤiːəɹ
 stinginess	ˈstɪnʤiːnəs
 stinging	ˈstɪŋɪŋ
 stingley	ˈstɪŋɡliː
+stingrays	ˈstɪŋˌɹeɪz
 stings	ˈstɪŋz
 stingy	ˈstɪnʤiː
 stink	ˈstɪŋk
@@ -103221,6 +103462,7 @@ stucco	ˈstʌkoʊ
 stuchell	ˈstʌkəl
 stuck	ˈstʌk
 stucke	ˈstʌk
+stucked	ˈstʌkt
 stucker	ˈstʌkəɹ
 stuckert	ˈstʌkəɹt
 stuckey	ˈstʌkiː
@@ -103314,6 +103556,7 @@ stupak	ˈstuːpək
 stupar	ˈstuːpəɹ
 stupay	stuːˈpeɪ
 stupendous	stuːˈpɛndəs
+stupid	ˈstuːpɪd
 stupid	ˈstuːpəd
 stupidest	ˈstuːpədəst
 stupidity	stuːˈpɪdətiː
@@ -103389,6 +103632,7 @@ stymie	ˈstaɪmiː
 stymied	ˈstaɪmiːd
 stymies	ˈstaɪmiːz
 styne	ˈstaɪn
+styracosaurus	stɪˈɹækoˌsɔɹəs
 styrene	ˈstaɪˌɹiːn
 styrofoam	ˈstaɪɹəˌfoʊm
 styron	ˈstaɪɹɑn
@@ -104345,6 +104589,7 @@ susann	ˌsuːˈzæn
 susanna	suːˈzænə
 susannah	ˌsuːˈsænə
 susanne	ˌsuːˈzæn
+susans	ˈsuːzənz
 susceptibility	səˌsɛptəˈbɪlətiː
 susceptible	səˈsɛptəbəl
 susette	ˌsuːˈzɛt
@@ -105356,10 +105601,12 @@ talsma	ˈtɑlsmə
 talton	ˈtæltən
 taltos	ˈtɑltoʊz
 talty	ˈtɑltiː
+talulah	tɑˈluːlə
 tam	ˈtæm
 tama	ˈtɑmə
 tamales	təˈmɑliːz
 tamanaha	tɑmɑˈnɑhə
+tamar	təˈmɑɹ
 tamara	təˈmɑɹə
 tamarac	ˈtæməɹæk
 tamargo	tɑˈmɑɹɡoʊ
@@ -105544,6 +105791,7 @@ tapias	təˈpiːəs
 tapie	ˈtæpiː
 taping	ˈteɪpɪŋ
 tapings	ˈteɪpɪŋz
+tapir	ˈteɪpəɹ
 tapley	ˈtæpliː
 taplin	ˈtæpˌlɪn
 tapp	ˈtæp
@@ -106266,6 +106514,7 @@ tendency	ˈtɛndənsiː
 tendentious	ˌtɛnˈdɛnʃəs
 tender	ˈtɛndəɹ
 tendered	ˈtɛndəɹd
+tenderheart	ˈtɛndəɹˌhɑɹt
 tendering	ˈtɛndəɹɪŋ
 tenderloin	ˈtɛndəɹˌlɔɪn
 tenderly	ˈtɛndəɹliː
@@ -106302,7 +106551,7 @@ tennessean	ˌtɛnəˈsiːən
 tennesseans	ˌtɛnəˈsiːənz
 tennessee	ˌtɛnəˈsiː
 tenney	ˈtɛniː
-tennis	ˈtɛˌnɪs
+tennis	ˈtɛnɪs
 tennison	ˈtɛnəsən
 tenny	ˈtɛniː
 tennyson	ˈtɛnəsən
@@ -106323,6 +106572,7 @@ tensions	ˈtɛnʧənz
 tent	ˈtɛnt
 tentacle	ˈtɛntəkəl
 tentacles	ˈtɛntəkəlz
+tentagon	ˈtɛntəˌgɑn
 tentative	ˈtɛntətɪv
 tentative	ˈtɛnətɪv
 tentatively	ˈtɛntətɪvliː
@@ -106845,6 +107095,7 @@ theus	ˈðjuːz
 thew	ˈθuː
 thewlis	ˈθjuːˌlɪs
 they	ˈðeɪ
+they're	ˈðɛɹ
 thi	ˈθiː
 thiamin	ˈθaɪəmən
 thibadeau	ˈtɪbədoʊ
@@ -107017,6 +107268,7 @@ thormond	ˈθɔɹmənd
 thormund	ˈθɔɹmənd
 thorn	ˈθɔɹn
 thornberg	ˈθɔɹnbəɹɡ
+thornberries	ˈθɔɹnˌbɛɹiːz
 thornberry	ˈθɔɹnˌbɛɹiː
 thornburg	ˈθɔɹnbəɹɡ
 thornburgh	ˈθɔɹnbəɹɡ
@@ -107158,6 +107410,7 @@ throve	ˈθɹoʊv
 throw	ˈθɹoʊ
 throwaway	ˈθɹoʊəˌweɪ
 throwback	ˈθɹoʊˌbæk
+throwed	ˈθɹoʊd
 thrower	ˈθɹoʊəɹ
 throwers	ˈθɹoʊəɹz
 throwing	ˈθɹoʊɪŋ
@@ -107273,6 +107526,7 @@ tibbetts	ˈtɪbɛts
 tibbie	ˈtɪbiː
 tibbits	ˈtɪˌbɪts
 tibbitts	ˈtɪˌbɪts
+tibble	ˈtɪbəl
 tibbs	ˈtɪbz
 tibby	ˈtɪbiː
 tiber	ˈtaɪbəɹ
@@ -107303,6 +107557,8 @@ tickets	ˈtɪkəts
 ticking	ˈtɪkɪŋ
 tickle	ˈtɪkəl
 tickled	ˈtɪkəld
+tickling	ˈtɪkəlɪŋ
+tickling	ˈtɪklɪŋ
 tickles	ˈtɪkəlz
 ticklish	ˈtɪkəlɪʃ
 tickner	ˈtɪknəɹ
@@ -107401,6 +107657,7 @@ tigris	ˈtaɪɡɹəs
 tigue	ˈtiːɡ
 tijerina	tiːjjɛˈɹiːnə
 tijuana	tiːˈwɑnə
+tika	ˈtɪkə
 tike	ˈtaɪk
 tikes	ˈtaɪks
 til	ˈtɪl
@@ -107537,6 +107794,7 @@ tingling	ˈtɪŋɡlɪŋ
 tinier	ˈtaɪniːəɹ
 tiniest	ˈtaɪniːəst
 tinker	ˈtɪŋkəɹ
+tinkerbell	ˈtɪŋkəɹˌbɛl
 tinkered	ˈtɪŋkəɹd
 tinkerer	ˈtɪŋkəɹəɹ
 tinkerers	ˈtɪŋkəɹəɹz
@@ -107652,6 +107910,7 @@ titanic	taɪˈtænɪk
 titanium	taɪˈteɪniːəm
 titans	ˈtaɪtənz
 titch	ˈtɪʧ
+titchy	ˈtɪʧiː
 titcomb	ˈtɪtkəm
 tithe	ˈtaɪð
 tithing	ˈtaɪðɪŋ
@@ -107704,6 +107963,7 @@ toastmaster	ˈtoʊstˌmæstəɹ
 toasts	ˈtoʊsts
 toasts	ˈtoʊss
 toasts	ˈtoʊs
+toasty	ˈtoʊstiː
 tobacco	təˈbæˌkoʊ
 tobaccos	təˈbæˌkoʊz
 toback	ˈʧuːbæk
@@ -107988,6 +108248,7 @@ took	ˈtʊk
 tooke	ˈtʊk
 tooker	ˈtʊkəɹ
 tookes	ˈtʊks
+tooks	ˈtʊks
 tool	ˈtuːl
 toolan	ˈtuːlən
 toolbox	ˈtuːlˌbɑks
@@ -108258,6 +108519,7 @@ totton	ˈtɑtən
 totty	ˈtɑtiː
 totzke	ˈtɑtskiː
 touareg	ˈtuːəɹəɡ
+toucan	ˈtuˌkæn
 touch	ˈtʌʧ
 touchdown	ˈtʌʧˌdaʊn
 touchdowns	ˈtʌʧˌdaʊnz
@@ -108759,6 +109021,7 @@ tranzonic	tɹænˈzɑnɪk
 trap	ˈtɹæp
 trapani	tɹɑˈpɑniː
 trapasso	tɹɑˈpɑsoʊ
+trape	ˈtɹæp
 trapelo	tɹəˈpɛloʊ
 trapeze	tɹəˈpiːz
 trapezoid	ˈʧɹæpəˌzɔɪd
@@ -108771,6 +109034,7 @@ trappers	ˈtɹæpəɹz
 trapping	ˈtɹæpɪŋ
 trappings	ˈtɹæpɪŋz
 trappist	ˈtɹæˌpɪst
+trappoid	ˈʧɹæpɔɪd
 traps	ˈtɹæps
 trash	ˈtɹæʃ
 trashed	ˈtɹæʃt
@@ -109141,6 +109405,7 @@ trimming	ˈtɹɪmɪŋ
 trimmings	ˈtɹɪmɪŋz
 trimpe	ˈtɹɪmp
 trims	ˈtɹɪmz
+trina	ˈtɹiːnə
 trina	ˈʧɹiːnə
 trincomalee	tɹɪŋˈkoʊməliː
 trine	ˈtɹaɪn
@@ -109271,7 +109536,7 @@ trombly	ˈtɹɑmbliː
 trombone	tɹɑmˈboʊn
 trombones	tɹɑmˈboʊnz
 trombonist	ˌtɹɑmˈboʊˌnɪst
-tromming	ˈʧɹɑmɪŋ
+tromming	ˈtɹɑmɪŋ
 tromp	ˈtɹɑmp
 trompeter	ˈtɹɑmpiːtəɹ
 tron	ˈtɹɑn
@@ -109286,6 +109551,7 @@ troopers	ˈtɹuːpəɹz
 trooping	ˈtɹuːpɪŋ
 troops	ˈtɹuːps
 troost	ˈtɹuːst
+trope	ˈtɹoʊp
 tropea	ˈtɹoʊpiːə
 tropeano	ˌtɹoʊˈpiːnoʊ
 trophies	ˈtɹoʊfiːz
@@ -109923,6 +110189,7 @@ tweedie	ˈtwiːdiː
 tweedle	ˈtwiːdəl
 tweedy	ˈtwiːdiː
 tweet	ˈtwiːt
+tweety	ˈtwiːtiː
 tweezer	ˈtwiːzəɹ
 tweezerman	ˈtwiːzəɹˌmæn
 tweezers	ˈtwiːzəɹz
@@ -110148,6 +110415,7 @@ uhde	ˈʌd
 uhde	ˈuːdə
 uher	ˈuːəɹ
 uhh	ˈʌ
+uhhuh	ʌˈhʌ
 uhl	ˈʌl
 uhland	ˈuːlənd
 uhle	ˈuːəl
@@ -111171,15 +111439,15 @@ unread	əˈnɹɛd
 unreadable	əˈnɹiːdəbəl
 unreadable	ˈʌnˈɹiːdəbəl
 unreal	əˈnɹiːl
-unrealistic	əˌnɹiːˈlɪstɪk
-unrealistically	əˌnɹiːəˈlɪstɪkliː
+unrealistic	ənˌɹiːˈlɪstɪk
+unrealistically	ənˌɹiːəˈlɪstɪkliː
 unreality	ˌʌnɹiːˈælətiː
 unrealized	əˈnɹiːəˌlaɪzd
 unreasonable	əˈnɹiːznəbəl
 unreasonably	əˈnɹiːzənəbliː
 unreasoning	əˈnɹiːznɪŋ
 unreceptive	ənɹəˈsɛptɪv
-unrecognizable	əˌnɹɛkəɡˈnaɪzəbəl
+unrecognizable	ənˌɹɛkəɡˈnaɪzəbəl
 unrecognized	əˈnɹɛkəɡˌnaɪzd
 unreconciled	əˈnɹɛkənˌsaɪld
 unreconstructed	ˌʌnɹiːkənˈstɹʌktəd
@@ -111190,7 +111458,7 @@ unrefuted	ˌʌnɹiːˈfjuːtəd
 unregistered	əˈnɹɛʤəstəɹd
 unregulated	əˈnɹɛɡjəˌleɪtəd
 unrehearsed	ənɹiːˈhʌɹst
-unreimbursed	əˌnɹiːɪmˈbʌɹst
+unreimbursed	ənˌɹiːɪmˈbʌɹst
 unrein	ˈɑnɹaɪn
 unrelated	ˌʌnɹəˈleɪtəd
 unrelated	ˌʌnɹiːˈleɪtəd
@@ -111208,8 +111476,8 @@ unremitting	ˌʌnɹiːˈmɪtɪŋ
 unrepentant	ˌʌnɹəˈpɛntənt
 unrepentant	ˌʌnɹiːˈpɛntənt
 unreported	ˌʌnɹiːˈpɔɹtəd
-unrepresentative	əˌnɹɛpɹəˈzɛntətɪv
-unrepresented	əˌnɹɛpɹəˈzɛntəd
+unrepresentative	ənˌɹɛpɹəˈzɛntətɪv
+unrepresented	ənˌɹɛpɹəˈzɛntəd
 unrequited	ˌʌnɹiːˈkwaɪtəd
 unresolved	ənɹəˈzɑlvd
 unresponsive	ˌʌnɹiːsˈpɑnsɪv
@@ -112624,7 +112892,8 @@ velma	ˈvɛlmə
 velo	ˈvɛloʊ
 velobind	ˈvɛləˌbɪnd
 velobind	ˈvɛloʊˌbaɪnd
-velociraptor	vəˈlɑsəɹˌæptəɹ
+velociraptor	vəˈlɑsəˌɹæptəɹ
+velociraptors	vəˈlɑsəˌɹæptəɹz
 velocities	vəˈlɑsətiːz
 velocity	vəˈlɑsətiː
 veloso	ˌvɛˈloʊsoʊ
@@ -114006,6 +114275,7 @@ wagg	ˈwæɡ
 wagged	ˈwæɡd
 waggener	ˈwæɡənəɹ
 wagging	ˈwæɡɪŋ
+waggle	ˈwæɡəl
 waggling	ˈwæɡəlɪŋ
 waggling	ˈwæɡlɪŋ
 waggoner	ˈwæɡənəɹ
@@ -114211,6 +114481,7 @@ walkup	ˈwɑˌkʌp
 walkure	ˈwɑkjəɹ
 walkway	ˈwɑkˌweɪ
 walkways	ˈwɑkˌweɪz
+walky	ˈwɑkiː
 wall	ˈwɑl
 walla	ˈwɑlə
 wallace	ˈwɑləs
@@ -114507,6 +114778,7 @@ warplane	ˈwɔɹˌpleɪn
 warplanes	ˈwɔɹˌpleɪnz
 warps	ˈwɔɹps
 warr	ˈwɔɹ
+warr	ˈwæɹ
 warrant	ˈwɔɹənt
 warranted	ˈwɔɹəntəd
 warranties	ˈwɔɹəntiːz
@@ -114629,6 +114901,7 @@ waszkiewicz	ˈvɑʃkəvɪʧ
 wat	ˈwɑt
 watanabe	ˌwɑtɑˈnɑbeɪ
 watch	ˈwɑʧ
+watcha	ˈwʌtʃə
 watchdog	ˈwɑʧˌdɑɡ
 watchdogs	ˈwɑʧˌdɑɡz
 watched	ˈwɑʧt
@@ -115581,7 +115854,9 @@ wharton	ˈwɔɹtən
 what	ˈwʌt
 what	ˈhwʌt
 whatcha	ˈwʌtʃə
-whatchou	ˈwʌʧu
+whatchamacallit	ˈwʌʧəməˌkɑlɪt
+whatchamacallits	ˈwʌʧəməˌkɑlɪts
+whatchou	ˈwʌʧuː
 whatever	ˌwʌˈtɛvəɹ
 whatever	ˌhwʌˈtɛvəɹ
 whatley	ˈwʌtliː
@@ -115663,6 +115938,7 @@ wheezes	ˈhwiːzəz
 wheezes	ˈwiːzəz
 wheezing	ˈwiːzɪŋ
 wheezing	ˈhwiːzɪŋ
+wheezy	ˈwiːziː
 whelan	ˈwɛlən
 whelan	ˈhwɛlən
 whelan	ˈhwiːlən
@@ -117151,6 +117427,8 @@ woessner	ˈwoʊsnəɹ
 woeste	ˈwoʊst
 wofford	ˈwɑfəɹd
 wogan	ˈwoʊɡən
+woggie	ˈwɑɡiː
+woggy	ˈwɑɡiː
 wogoman	ˈwoʊɡoʊmən
 wohl	ˈwoʊl
 wohler	ˈwoʊləɹ
@@ -117307,6 +117585,7 @@ wonksahachee	wɑnksəˈhæʧiː
 wonnacott	ˈwʌnəkɑt
 wont	ˈwoʊnt
 woo	ˈwuː
+wooba	ˈwuːbə
 wood	ˈwʊd
 woodall	ˈwʊˌdɑl
 woodard	ˈwʊdəɹd
@@ -117429,6 +117708,7 @@ woolworth	ˈwʊlˌwʌɹθ
 wooly	ˈwʊliː
 woomer	ˈwuːməɹ
 woong	ˈwuːŋ
+woopsie	ˈwʊpsiː
 woos	ˈwuːz
 woosley	ˈwuːzliː
 wooster	ˈwuːstəɹ
@@ -117666,6 +117946,7 @@ wretched	ˈɹɛʧəd
 wretchedly	ˈɹɛʧədliː
 wrice	ˈɹaɪs
 wriggle	ˈɹɪɡəl
+wriggly	ˈɹɪɡliː
 wright	ˈɹaɪt
 wrights	ˈɹaɪts
 wrightsman	ˈɹaɪtsmən
@@ -117778,6 +118059,7 @@ wuthrich	ˈwʌθɹɪk
 wuttke	ˈwʌtkiː
 wuxi	ˈwʌksiː
 wuyda	ˈwɔɪdə
+wuzzy	ˈwʌziː
 wy	ˈweɪ
 wy	ˈdʌbəljuːˈwaɪ
 wyand	ˈwaɪənd
@@ -117908,6 +118190,7 @@ xylophone	ˈzaɪləˌfoʊn
 xyvision	ˈzaɪˈvɪʒən
 y	ˈwaɪ
 ya	ˈjɑ
+ya	ˈjæ
 yaacov	ˈjɑˌkoʊv
 yabba	ˈjæbə
 yablon	ˈjæblən
@@ -118102,6 +118385,8 @@ yawns	ˈjɑnz
 yaworski	jəˈwʌɹskiː
 yax	ˈjæks
 yay	ˈjeɪ
+yaya	ˈjæjæ
+yaya	ˈjɑjɑ
 yazov	ˈjæzɑv
 yazov	ˈjɑˌzɑv
 yazzie	ˈjæziː
@@ -118113,6 +118398,7 @@ ydstie	ˈɪdstiː
 ye	ˈjiː
 ye	ˈjɛ
 yea	ˈjeɪ
+yea	ˈjæ
 yeadon	ˈjɛdən
 yeager	ˈjeɪɡəɹ
 yeagle	ˈjiːɡəl
@@ -118233,12 +118519,14 @@ yeses	ˈjɛsəz
 yeshiva	jɪˈʃiːvə
 yeske	ˈjɛsk
 yessuey	ˈjɛsuːiː
+yessy	ˈjɛsiː
 yesterday	ˈjɛstəɹˌdeɪ
 yesterday	ˈjɛstəɹdiː
 yesterdays	ˈjɛstəɹˌdeɪz
 yesterdays	ˈjɛstəɹdiːz
 yesteryear	ˈjɛstəɹjˌjɪɹ
 yet	ˈjɛt
+yeti	ˈjɛtiː
 yetman	ˈjɛtmən
 yetnikoff	ˈjɛtnɪkɑf
 yett	ˈjɛt
@@ -118264,6 +118552,7 @@ yields	ˈjiːldz
 yigal	jɪˈɡæl
 yigal	jɪˈɡɑl
 yigal	jiːˈɡɑl
+yikes	ˈjaɪks
 yilin	ˈjɪˌlɪn
 yim	ˈjɪm
 yin	ˈjɪn
@@ -118334,6 +118623,7 @@ yolanda	joʊˈlɑndə
 yolande	ˈjoʊlənd
 yolk	ˈjoʊk
 yolks	ˈjoʊks
+yolky	ˈjoʊkiː
 yom	ˈjɑm
 yom	ˈjoʊm
 yomiuri	ˌjoʊˈmiːəɹiː
@@ -118472,6 +118762,8 @@ yucaipa	ˌjuːˈkaɪpə
 yucatan	ˈjuːkəˌtæn
 yucca	ˈjʌkə
 yuck	ˈjʌk
+yucko	ˈjʌko
+yucksville	ˈjʌksvɪl
 yucky	ˈjʌkiː
 yue	ˈjuː
 yuen	ˈjwɛn
@@ -119231,6 +119523,7 @@ zoom	ˈzuːm
 zoomed	ˈzuːmd
 zooming	ˈzuːmɪŋ
 zooms	ˈzuːmz
+zoop	ˈzuːp
 zoos	ˈzuːz
 zopfi	ˈzoʊpfiː
 zora	ˈzɔɹə
