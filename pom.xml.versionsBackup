@@ -5,7 +5,7 @@
 
   <groupId>ca.phon</groupId>
   <artifactId>phon-dict</artifactId>
-  <version>1</version>
+  <version>1.7.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>Phon</name>
