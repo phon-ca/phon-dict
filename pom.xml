@@ -5,7 +5,6 @@
 
   <groupId>ca.phon</groupId>
   <artifactId>phon-dict</artifactId>
-  <version>1</version>
   <packaging>jar</packaging>
 
   <name>Phon</name>
@@ -98,4 +97,5 @@
     </pluginRepository>
   </pluginRepositories>
   
+  <version>2</version>
 </project>
