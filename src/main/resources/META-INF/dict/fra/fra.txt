@@ -10373,8 +10373,8 @@ azurés	azyʁe
 azurs	azyʁ
 azygos	aziɡɔs
 azyme	azim
+b	b
 b	be
-b'	b
 baba	baba
 baballe	babal
 babas	baba
@@ -16478,8 +16478,8 @@ byzantines	bizɑ̃tin
 byzantinisant	bizɑ̃tinizɑ̃
 byzantinisme	bizɑ̃tinizm
 byzantins	bizɑ̃tɛ̃
+c	s
 c	se
-c'	s
 c'est	sɛ
 c'est-à-dire	sɛtadiʁ
 ça	sa
@@ -29911,8 +29911,8 @@ cytoplasme	sitoplasm
 czar	kzaʁ
 czardas	kzaʁdas
 czars	kzaʁ
+d/d
 d	de
-d'	d
 d'abord	dabɔʁ
 d'autres	dotʁ
 d'emblée	dɑ̃ble
@@ -51114,8 +51114,8 @@ exutoires	ɛɡzytwaʁ
 eye-liner	ajlajnœʁ
 eyeliner	ajlajnœʁ
 ə	ə
+f	f
 f	ɛf
-f'	f
 fa	fa
 fabiens	fabjɛ̃
 fable	fabl
@@ -56111,8 +56111,8 @@ fuyez	fɥije
 fuyiez	fɥijje
 fuyions	fɥijɔ̃
 fuyons	fɥijɔ̃
+g	ɡ
 g	ʒe
-g'	ɡ
 gabardine	ɡabaʁdin
 gabardines	ɡabaʁdin
 gabare	ɡabaʁ
@@ -67443,7 +67443,6 @@ ivrognesse	ivʁoɲɛs
 ixe	iks
 ixième	iksjɛm
 j	ʒi
-j'	ʒ
 j'ai	ʒe
 jà	ʒa
 jabot	ʒabo
@@ -68421,10 +68420,10 @@ juxtaposèrent	ʒykstapozɛʁ
 juxtaposés	ʒykstapoze
 juxtaposition	ʒykstapozisjɔ̃
 juxtapositions	ʒykstapozisjɔ̃
+k	k
 k	ka
 k-o	kao
 k-way	kawɛj
-k'	k
 ka	ka
 kabarde	kabaʁd
 kabbale	kabal
@@ -68711,11 +68710,11 @@ kyrielles	kiʁjɛl
 kyste	kist
 kystes	kist
 kyu	kju
+l	l
 l	ɛl
-l-dopa	ɛldopa
-l'	l
 l'un	lœ̃
 l'une	lyn
+l-dopa	ɛldopa
 la	la
 là	la
 la_plata	laplata
@@ -71502,8 +71501,8 @@ lysergique	lizɛʁʒik
 lyses	liz
 lysine	lizin
 lysosomes	lizozom
+m	m
 m	ɛm
-m'	m
 m'as-tu-vu	matyvy
 ma	ma
 ma-jong	maʒɔ̃ɡ
@@ -77990,8 +77989,8 @@ mythomanes	mitoman
 mythomanie	mitomani
 myxoedémateuse	miksedematøz
 myxomatose	miksomatoz
+n	n
 n	ɛn
-n'	n
 na	na
 nabab	nabab
 nababs	nabab
@@ -81842,7 +81841,8 @@ oyats	oja
 oyez	waje
 oyons	wajɔ̃
 ozone	ozon
-p'	p
+p	p
+p	pe
 pacage	pakaʒ
 pacages	pakaʒ
 pacas	paka
@@ -92476,10 +92476,9 @@ python	pitɔ̃
 pythonisse	pitonis
 pythons	pitɔ̃
 pyxides	piksid
+q	k
 q	ky
-q'	k
 qu	k
-qu'	k
 qu'en-dira-t-on	kɑ̃diʁatɔ̃
 quadragénaire	kwadʁaʒenɛʁ
 quadragénaires	kwadʁaʒenɛʁ
@@ -92982,10 +92981,10 @@ quotidiens	kotidjɛ̃
 quotient	kosjɑ̃
 quotients	kosjɑ̃
 quotité	kotite
+r	ʁ
 r	ɛʁ
 r.a.b	ɛʁabe
 r.a.f	ɛʁaɛf
-r'	ʁ
 ra	ʁa
 rab	ʁab
 rabâcha	ʁabaʃa
@@ -104351,8 +104350,8 @@ rythmés	ʁitme
 rythmique	ʁitmik
 rythmiquement	ʁitmikmɑ̃
 rythmiques	ʁitmik
+s	s
 s	ɛs
-s'	s
 s'est	sɛ
 sa	sa
 sabayon	sabajɔ̃
@@ -112399,7 +112398,6 @@ t	t
 t	te
 t-shirt	tiʃœʁt
 t-shirts	ʧœʁt
-t'	t
 ta	ta
 tab	tab
 tabac	taba
@@ -118579,8 +118577,8 @@ utopiques	ytopik
 utopiste	ytopist
 utopistes	ytopist
 uxorilocal	yksoʁilokal
+v	v
 v	ve
-v'	v
 va	va
 va-et-vient	vaevjɛ̃
 va-tout	vatu
@@ -121361,8 +121359,8 @@ vulvaires	vylvɛʁ
 vulve	vylv
 vulves	vylv
 vus	vy
+w	w
 w	dubləve
-w'	v
 wagnérien	vaɡneʁjɛ̃
 wagnérienne	vaɡneʁjɛn
 wagnériennes	vaɡneʁjɛn
@@ -121447,8 +121445,8 @@ woofers	vufœʁ
 world_music	wœʁldmjuzik
 wurtembergeois	vuʁtɛmbɛʁʒwa
 wurtembergeoise	vuʁtɛmbɛʁʒwaz
+x	gz
 x	iks
-x'	gz
 xavier	ɡzavje
 xénogenèse	ɡzenoʒənɛz
 xénon	ksenɔ̃
@@ -121463,8 +121461,8 @@ xiphidion	ɡzifɛ̃djɔ̃
 xylophone	ksilofɔn
 xylophones	ksilofɔn
 xylophoniste	ɡzilofonist
-y	i
-y'	j
+y	j
+y	igʁɛk
 yacht	jɔt
 yacht-club	jɔtklœb
 yachting	jɔtiŋ
@@ -121541,8 +121539,8 @@ yucca	juka
 yuccas	juka
 yuppie	jupi
 yuppies	jupi
+z	z
 z	zɛd
-z'	z
 zadé	zade
 zaibatsu	zajbatsu
 zain	zɛ̃
@@ -121568,7 +121566,7 @@ zarbi	zaʁbi
 zarbis	zaʁbis
 zazou	zazu
 zazous	zazu
-ze	ʒe
+ze	ze
 zébra	zebʁa
 zébraient	zebʁɛ
 zébrait	zebʁɛ
