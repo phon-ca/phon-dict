@@ -112395,6 +112395,7 @@ systolique	sistolik
 systoliques	sistolik
 syzygie	siziʒi
 syzygies	siziʒi
+t	t
 t	te
 t-shirt	tiʃœʁt
 t-shirts	ʧœʁt
