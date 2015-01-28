@@ -1,8 +1,9 @@
 #name French
 #lang fra
-#ctr split:"'" lhs.regex:"[Cc]" expr:"s+${rhs.ipa}"
-#ctr split:"'" lhs.regex:"[Jj]" expr:"ʒ+${rhs.ipa}"
-#ctr split:"'" lhs.ipa.phonex:"{Consonant}" expr:"${lhs}+${rhs.ipa}"
+#ctr split:"'" lhs.regex:"[Cc]" rsh.regex:".*" expr:"s+${rhs.ipa}"
+#ctr split:"'" lhs.regex:"[Jj]" rhs.ipa.phonex:"^{voiceless}.*" expr:"\u0283+${rhs.ipa}"
+#ctr split:"'" lhs.regex:"[Jj]" rhs.ipa.phonex:"^{voiced}.*" expr:"ʒ+${rhs.ipa}"
+#ctr split:"'" lhs.ipa.phonex:"{Consonant}" rhs.regex:".*" expr:"${lhs}+${rhs.ipa}"
 a	a
 à	a
 à_brûle-pourpoint	abʁylpuʁpwɛ̃
