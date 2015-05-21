@@ -10377,6 +10377,7 @@ b	b
 b	be
 baba	baba
 baballe	babal
+babar	babaʁ
 babas	baba
 babasse	babas
 babelesque	bablɛsk
@@ -11442,6 +11443,7 @@ barbantes	baʁbɑ̃t
 barbants	baʁbɑ̃
 Barbapapa	baʁbapapa
 barbaque	baʁbak
+barbara	baʁbaʁa
 barbare	baʁbaʁ
 barbarement	baʁbaʁmɑ̃
 barbares	baʁbaʁ
@@ -20785,6 +20787,7 @@ chichis	ʃiʃi
 chichiteuse	ʃiʃitøz
 chichiteuses	ʃiʃitøz
 chichiteux	ʃiʃitø
+chico	ʧikɔ
 chicon	ʃikɔ̃
 chicore	ʃikoʁ
 chicoré	ʃikoʁe
@@ -21396,6 +21399,7 @@ chuchotions	ʃyʃotjɔ̃
 chuchotis	ʃyʃoti
 chue	ʃy
 chues	ʃy
+chui	ʃɥi
 chuinta	ʃɥɛ̃ta
 chuintaient	ʃɥɛ̃tɛ
 chuintait	ʃɥɛ̃tɛ
@@ -68295,6 +68299,7 @@ jupes	ʒyp
 jupes-culottes	ʒypkylɔt
 jupette	ʒypɛt
 jupettes	ʒypɛt
+jupie	ʒypi
 jupiers	ʒypje
 jupitérien	ʒypiteʁjɛ̃
 jupitérienne	ʒypiteʁjɛn
@@ -79046,6 +79051,7 @@ nocturnes	nɔktyʁn
 nodal	nodal
 nodales	nodal
 nodosités	nodozite
+nodu	nody
 nodule	nodyl
 nodules	nodyl
 noduleux	nodylø
@@ -121229,6 +121235,7 @@ vouvoyait	vuvwajɛ
 vouvoyant	vuvwajɑ̃
 vouvoyer	vuvwaje
 vouvray	vuvʁɛ
+vovo	vovo
 vox_populi	vɔkspopyli
 voyage	vwajaʒ
 voyagé	vwajaʒe
@@ -121461,8 +121468,9 @@ xiphidion	ɡzifɛ̃djɔ̃
 xylophone	ksilofɔn
 xylophones	ksilofɔn
 xylophoniste	ɡzilofonist
+y	i
 y	j
-y	igʁɛk
+y	iɡʁɛk
 yacht	jɔt
 yacht-club	jɔtklœb
 yachting	jɔtiŋ
