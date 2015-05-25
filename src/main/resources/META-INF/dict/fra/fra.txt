@@ -3,7 +3,7 @@
 #ctr split:"'" lhs.regex:"[Cc]" rhs.regex:".*" expr:"s+${rhs.ipa}"
 #ctr split:"'" lhs.regex:"[Jj]" rhs.ipa.phonex:"^{voiceless}.*" expr:"\u0283+${rhs.ipa}"
 #ctr split:"'" lhs.regex:"[Jj]" rhs.ipa.phonex:"^{voiced}.*" expr:"ʒ+${rhs.ipa}"
-#ctr split:"'" lhs.ipa.phonex:"{Consonant}" rhs.regex:".*" expr:"${lhs}+${rhs.ipa}"
+#ctr split:"'" lhs.ipa.phonex:"[^CcJj\v]" rhs.regex:".*" expr:"${lhs}+${rhs.ipa}"
 a	a
 à	a
 à_brûle-pourpoint	abʁylpuʁpwɛ̃
