@@ -4,7 +4,6 @@
 #ctr split:"'" lhs.regex:"[Jj]" rhs.ipa.phonex:"^{voiceless}.*" expr:"ʃ+${rhs.ipa}"
 #ctr split:"'" lhs.regex:"[Jj]" rhs.ipa.phonex:"^{voiced}.*" expr:"ʒ+${rhs.ipa}"
 #ctr split:"'" lhs.regex:"[Jj]" rhs.ipa.phonex:"^{vowel}.*" expr:"ʒ+${rhs.ipa}"
-#ctr split:"'" lhs.regex:"[Dd]" rhs.ipa.phonex:"^{vowel}.*" expr:"d+${rhs.ipa}"
 #ctr split:"'" lhs.phonex:"[^Cc\v]" rhs.regex:".*" expr:"${lhs}+${rhs.ipa}"
 a	a
 à	a
