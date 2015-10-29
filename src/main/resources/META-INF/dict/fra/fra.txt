@@ -1,9 +1,11 @@
 #name French
 #lang fra
 #ctr split:"'" lhs.regex:"[Cc]" rhs.regex:".*" expr:"s+${rhs.ipa}"
-#ctr split:"'" lhs.regex:"[Jj]" rhs.ipa.phonex:"^{voiceless}.*" expr:"\u0283+${rhs.ipa}"
+#ctr split:"'" lhs.regex:"[Jj]" rhs.ipa.phonex:"^{voiceless}.*" expr:"ʃ+${rhs.ipa}"
 #ctr split:"'" lhs.regex:"[Jj]" rhs.ipa.phonex:"^{voiced}.*" expr:"ʒ+${rhs.ipa}"
-#ctr split:"'" lhs.phonex:"[^CcJj\v]" rhs.regex:".*" expr:"${lhs}+${rhs.ipa}"
+#ctr split:"'" lhs.regex:"[Jj]" rhs.ipa.phonex:"^{vowel}.*" expr:"ʒ+${rhs.ipa}"
+#ctr split:"'" lhs.regex:"[Dd]" rhs.ipa.phonex:"^{vowel}.*" expr:"d+${rhs.ipa}"
+#ctr split:"'" lhs.phonex:"[^Cc\v]" rhs.regex:".*" expr:"${lhs}+${rhs.ipa}"
 a	a
 à	a
 à_brûle-pourpoint	abʁylpuʁpwɛ̃
@@ -5145,6 +5147,7 @@ andouillers	ɑ̃duje
 andouilles	ɑ̃duj
 andouillette	ɑ̃dujɛt
 andouillettes	ɑ̃dujɛt
+andré	andre
 andrinople	ɑ̃dʁinɔpl
 androgènes	ɑ̃dʁoʒɛn
 androgyne	ɑ̃dʁoʒin
@@ -20023,7 +20026,9 @@ charlatanerie	ʃaʁlatanʁi
 charlatanisme	ʃaʁlatanizm
 charlatanismes	ʃaʁlatanizm
 charlatans	ʃaʁlatɑ̃
+charles	ʃaʁl
 charleston	ʃaʁlɛstɔn
+charline	ʃaʁlin
 charlot	ʃaʁlo
 charlots	ʃaʁlo
 charlotte	ʃaʁlɔt
@@ -30218,6 +30223,7 @@ dauphins	dofɛ̃
 daurade	doʁad
 daurades	doʁad
 davantage	davɑ̃taʒ
+david	david
 davier	davje
 dé	de
 de	də
@@ -52992,6 +52998,7 @@ filouteries	filutʁi
 filoutes	filut
 filoutés	filute
 fils	fis
+fils	fil
 filtra	filtʁa
 filtrage	filtʁaʒ
 filtraient	filtʁɛ
@@ -71244,6 +71251,7 @@ luciférienne	lysifeʁjɛn
 lucifériens	lysifeʁjɛ̃
 luciole	lysjɔl
 lucioles	lysjɔl
+lucky luke	lyki lyk
 lucratif	lykʁatif
 lucratifs	lykʁatif
 lucrative	lykʁativ
@@ -88678,6 +88686,7 @@ portuaires	pɔʁtɥɛʁ
 portugais	pɔʁtyɡɛ
 portugaise	pɔʁtyɡɛz
 portugaises	pɔʁtyɡɛz
+portugal	pɔʁtyɡal
 portulan	pɔʁtylɑ̃
 portulans	pɔʁtylɑ̃
 portus	pɔʁty
@@ -92484,7 +92493,13 @@ pythons	pitɔ̃
 pyxides	piksid
 q	k
 q	ky
-qu	k
+qu'	k
+qu'il	kil
+qu'ils	kil
+qu'elle	kɛl
+qu'elles	kɛl
+qu'est	kɛ
+qu'on	kɔ̃
 qu'en-dira-t-on	kɑ̃diʁatɔ̃
 quadragénaire	kwadʁaʒenɛʁ
 quadragénaires	kwadʁaʒenɛʁ
@@ -92740,9 +92755,9 @@ quelles	kɛl
 quelqu'un	kɛlkœ̃
 quelqu'un	kɛlkœ̃
 quelqu'une	kɛlkyn
-quelque	kɛlk
+quelque	kɛlkə
 quelquefois	kɛlkəfwa
-quelques	kɛlk
+quelques	kɛlkə
 quelques-unes	kɛlkəzyn
 quelques-uns	kɛlkəzœ̃
 quels	kɛl
@@ -105889,6 +105904,7 @@ schpile	ʃpil
 schproum	spʁum
 schtroumf	ʃtʁumf
 schtroumpf	ʃtʁumf
+schtroumpfette	ʃtʁumfɛt
 schtroumpfs	ʃtʁumf
 schupo	ʃypo
 schupos	ʃypo
@@ -106129,7 +106145,7 @@ sébile	sebil
 sébiles	sebil
 séborrhée	seboʁe
 sébum	sebɔm
-sec	sek
+sec	sɛk
 sécateur	sekatœʁ
 sécateurs	sekatœʁ
 secco	seko
@@ -115622,6 +115638,7 @@ tourterelle	tuʁtəʁɛl
 tourterelles	tuʁtəʁɛl
 tourtes	tuʁt
 tourtières	tuʁtjɛʁ
+tous	tu
 tous	tus
 tous-terrains	tutɛʁɛ̃
 toussa	tusa
