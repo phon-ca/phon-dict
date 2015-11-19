@@ -82810,7 +82810,7 @@ paravents	paʁavɑ̃
 parbleu	paʁblø
 parc	paʁk
 parcage	paʁkaʒ
-parce	paʁs
+parce	paʁsə
 parce_qu	paʁsək
 parce_que	paʁsək
 parcellaire	paʁselɛʁ
