@@ -1,10 +1,10 @@
 #name French
 #lang fra
 #ctr split:"'" lhs.regex:"[Cc]" rhs.regex:".*" expr:"s+${rhs.ipa}"
+#ctr split:"'" lhs.phonex:"[^Cc\v]" rhs.regex:".*" expr:"${lhs}+${rhs.ipa}"
 #ctr split:"'" lhs.regex:"[Jj]" rhs.ipa.phonex:"^{voiceless}.*" expr:"ʃ+${rhs.ipa}"
 #ctr split:"'" lhs.regex:"[Jj]" rhs.ipa.phonex:"^{voiced}.*" expr:"ʒ+${rhs.ipa}"
 #ctr split:"'" lhs.regex:"[Jj]" rhs.ipa.phonex:"^{vowel}.*" expr:"ʒ+${rhs.ipa}"
-#ctr split:"'" lhs.phonex:"[^Cc\v]" rhs.regex:".*" expr:"${lhs}+${rhs.ipa}"
 a	a
 à	a
 à_brûle-pourpoint	abʁylpuʁpwɛ̃
@@ -12769,6 +12769,8 @@ bibiche	bibiʃ
 bibine	bibin
 bibines	bibin
 bibis	bibi
+bibitte	bibit
+bibittes	bibit
 bible	bibl
 bibles	bibl
 bibliobus	biblijobys
@@ -22206,6 +22208,7 @@ clémence	klemɑ̃s
 clément	klemɑ̃
 clémente	klemɑ̃t
 clémentes	klemɑ̃t
+clémentine	klemɑ̃tin
 clémentines	klemɑ̃tin
 cléments	klemɑ̃
 clenche	klɑ̃ʃ
@@ -71250,7 +71253,7 @@ luciférienne	lysifeʁjɛn
 lucifériens	lysifeʁjɛ̃
 luciole	lysjɔl
 lucioles	lysjɔl
-lucky luke	lyki lyk
+lucky	lyki
 lucratif	lykʁatif
 lucratifs	lykʁatif
 lucrative	lykʁativ
@@ -71294,6 +71297,7 @@ luisants	lɥizɑ̃
 luise	lɥiz
 luisent	lɥiz
 luit	lɥi
+luke	lyk
 lulu	lyly
 lulus	lyly
 lumbago	lɔ̃baɡo
