@@ -110,7 +110,7 @@
 		<dependency>
 			<groupId>ca.phon</groupId>
 			<artifactId>phon-ipadictionary</artifactId>
-			<version>2.0.2</version>
+			<version>2.2.0-SNAPSHOT</version>
 		</dependency>
 		
 		<dependency>
@@ -177,5 +177,5 @@
 		</pluginManagement>
 	</build>
 
-	<version>9</version>
+	<version>10</version>
 </project>
