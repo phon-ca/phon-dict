@@ -1,0 +1,119 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <parent>
+	<groupId>ca.phon</groupId>
+	<artifactId>phon-dict</artifactId>
+	<version>12</version>
+	<relativePath>..</relativePath>
+  </parent>
+
+  <groupId>ca.phon</groupId>
+  <artifactId>phon-dict-randomizer</artifactId>
+  <packaging>maven-plugin</packaging>
+
+  <name>Phon Dictionary Randomizer</name>
+  <url>https://phon.ca</url>
+
+	<licenses>
+		<license>
+			<name>GNU GPL v3.0+</name>
+			<distribution>repo</distribution>
+			<url>http://www.gnu.org/copyleft/gpl.html</url>
+		</license>
+	</licenses>
+
+	<distributionManagement>
+		<repository>
+			<id>phon.ca-release</id>
+			<name>Phon Release</name>
+			<url>https://www.phon.ca/artifacts/libs-release-local</url>
+		</repository>
+		<snapshotRepository>
+			<id>phon.ca-snapshot</id>
+			<name>Phon Snapshot</name>
+			<url>https://www.phon.ca/artifacts/libs-snapshot-local</url>
+		</snapshotRepository>
+	</distributionManagement>
+
+	<repositories>
+		<repository>
+			<snapshots>
+				<enabled>false</enabled>
+			</snapshots>
+			<id>central</id>
+			<name>libs-release</name>
+			<url>https://www.phon.ca/artifacts/libs-release</url>
+		</repository>
+		<repository>
+			<snapshots />
+			<id>snapshots</id>
+			<name>libs-snapshot</name>
+			<url>https://www.phon.ca/artifacts/libs-snapshot</url>
+		</repository>
+	</repositories>
+	<pluginRepositories>
+		<pluginRepository>
+			<snapshots>
+				<enabled>false</enabled>
+			</snapshots>
+			<id>central</id>
+			<name>plugins-release</name>
+			<url>https://www.phon.ca/artifacts/plugins-release</url>
+		</pluginRepository>
+		<pluginRepository>
+			<snapshots />
+			<id>snapshots</id>
+			<name>plugins-snapshot</name>
+			<url>https://www.phon.ca/artifacts/plugins-snapshot</url>
+		</pluginRepository>
+	</pluginRepositories>
+
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+  </properties>
+
+  <dependencies>
+    <dependency>
+      <groupId>org.apache.maven</groupId>
+      <artifactId>maven-plugin-api</artifactId>
+      <version>3.3.9</version>
+    </dependency>
+  </dependencies>
+
+  <build>
+    <plugins>
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-plugin-plugin</artifactId>
+        <version>3.5</version>
+        <configuration>
+          <goalPrefix>phon-dict-randomizer</goalPrefix>
+        </configuration>
+        <executions>
+          <execution>
+            <id>generated-helpmojo</id>
+            <goals>
+              <goal>helpmojo</goal>
+            </goals>
+          </execution>
+        </executions>
+      </plugin>
+    </plugins>
+    <pluginManagement>
+    	<plugins>
+    		<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<configuration>
+					<source>1.8</source>
+					<target>1.8</target>
+					<sourceEncoding>UTF-8</sourceEncoding>
+				</configuration>
+			</plugin>
+			
+    	</plugins>
+    </pluginManagement>
+  </build>
+</project>
