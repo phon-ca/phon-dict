@@ -94,7 +94,8 @@ public class RandomizerMojo
 
 			getLog().info("Randomizing dictionary " + line + " saving as " + outputFile.getAbsolutePath());
 			randomizeDictionary(inputFile, prefixFile, outputFile);
-
+			
+			writer.write("dict/");	
 			writer.write(line);
 			writer.write("\n");
 		}	
