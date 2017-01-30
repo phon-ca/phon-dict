@@ -3850,6 +3850,7 @@ alexandrin	alɛkzɑ̃dʁɛ̃
 alexandrine	alɛksɑ̃dʁin
 alexandrines	alɛksɑ̃dʁin
 alexandrins	alɛksɑ̃dʁɛ̃
+alexis	alɛksi
 alexie	alɛksi
 alezan	alzɑ̃
 alezane	alzan
@@ -22085,6 +22086,7 @@ claquez	klake
 claquions	klakjɔ̃
 claquoirs	klakwaʁ
 claquons	klakɔ̃
+Clara	klaʁa
 clarifia	klaʁifja
 clarifiant	klaʁifjɑ̃
 clarification	klaʁifikasjɔ̃
@@ -38976,12 +38978,12 @@ divulguez	divylɡe
 divulguons	divylɡɔ̃
 dix	dis
 dix-cors	dikɔʁ
-dix-huit	disɥit
+dix-huit	dizɥit
 dix-huitième	disɥitjɛm
-dix-neuf	disnœf
+dix-neuf	diznœf
 dix-neuvième	disnœvjɛm
-dix-sept	dissɛt
-dix-septième	dissɛtjɛm
+dix-sept	disɛt
+dix-septième	disɛtjɛm
 dixie	diksi
 dixieland	dizjɛlɑ̃
 dixième	dizjɛm
@@ -40104,6 +40106,7 @@ dysprosium	dispʁozjɔm
 dysthymie	distimi
 dysurie	dizyʁi
 dytique	ditik
+e	ə
 e-commerce	ikomɛʁs
 e-mail	imajl
 e-mails	imajl
@@ -59347,6 +59350,7 @@ grimpèrent	ɡʁɛ̃pɛʁ
 grimperez	ɡʁɛ̃pʁe
 grimperons	ɡʁɛ̃pʁɔ̃
 grimperont	ɡʁɛ̃pʁɔ̃
+grimpes	ɡʁɛ̃p
 grimpés	ɡʁɛ̃pe
 grimpette	ɡʁɛ̃pɛt
 grimpettes	ɡʁɛ̃pɛt
@@ -60002,6 +60006,7 @@ guttural	ɡytyʁal
 gutturale	ɡytyʁal
 gutturales	ɡytyʁal
 gutturaux	ɡytyʁo
+Guy	ɡi
 guyanais	ɡɥijanɛ
 guzla	ɡyzla
 Gwarr	ɡwaʁ
@@ -60044,6 +60049,7 @@ gyroscopes	ʒiʁoskɔp
 gyroscopique	ʒiʁoskopik
 gyroscopiques	ʒiʁoskopik
 gyrus	ʒiʁys
+h	aʃ
 ha	a
 habile	abil
 habilement	abilmɑ̃
@@ -62263,6 +62269,7 @@ hystériquement	isteʁikmɑ̃
 hystériques	isteʁik
 hystéro	isteʁo
 i	il
+i	i
 iambique	jɑ̃bik
 iambiques	jɑ̃bik
 ibère	ibɛʁ
@@ -67448,6 +67455,7 @@ ivrognes	ivʁɔɲ
 ivrognesse	ivʁoɲɛs
 ixe	iks
 ixième	iksjɛm
+j	ʒ
 j	ʒi
 j'ai	ʒe
 jà	ʒa
@@ -68499,6 +68507,7 @@ katal	katal
 katangais	katɑ̃ɡɛ
 katas	kata
 katchinas	kaʧina
+Kathleen	katlin
 kawa	kawa
 kayak	kajak
 kazakh	kazak
@@ -68901,6 +68910,7 @@ ladres	ladʁ
 lads	lad
 lady	ladi
 ladys	lɛdiz
+Laforêt	lafɔʁɛ
 lagan	laɡɑ̃
 lagon	laɡɔ̃
 lagons	laɡɔ̃
@@ -71244,6 +71254,7 @@ lucidités	lysidite
 luciférien	lysifeʁjɛ̃
 luciférienne	lysifeʁjɛn
 lucifériens	lysifeʁjɛ̃
+Lucille	lysil
 luciole	lysjɔl
 lucioles	lysjɔl
 lucky	lyki
@@ -86119,6 +86130,7 @@ pichenette	piʃnɛt
 pichenettes	piʃnɛt
 pichet	piʃɛ
 pichets	piʃɛ
+Pichou	piʃu
 pick-up	pikœp
 pickles	pikœls
 pickpocket	pikpokɛt
@@ -92497,6 +92509,8 @@ qu'elles	kɛl
 qu'est	kɛ
 qu'on	kɔ̃
 qu'en-dira-t-on	kɑ̃diʁatɔ̃
+qu'un	kœ̃
+qu'une	kyn
 quadragénaire	kwadʁaʒenɛʁ
 quadragénaires	kwadʁaʒenɛʁ
 quadrangulaire	kwadʁɑ̃ɡylɛʁ
@@ -105007,6 +105021,7 @@ samoyède	samojɛd
 sampan	sɑ̃pɑ̃
 sampang	sɑ̃pɑ̃ɡ
 sampangs	sɑ̃pɑ̃ɲ
+Samuel	samyɛl
 samurai	samuʁaj
 san_francisco	sanfʁansisko
 sana	sana
@@ -106178,6 +106193,7 @@ sécherez	sɛʃʁe
 sécherie	seʃʁi
 sécheries	seʃʁi
 sécheront	seʃʁɔ̃
+sécheuse	seʃøz
 séchés	seʃe
 sèches	sɛʃ
 séchez	seʃe
@@ -110040,6 +110056,7 @@ sténotype	stenotip
 sténotypistes	stenotipist
 stentor	stɑ̃tɔʁ
 stentors	stɑ̃tɔʁ
+Stéphanie	stefani
 stéphanois	stefanwa
 steppe	stɛp
 steppers	stɛpœʁ
@@ -115494,6 +115511,7 @@ touriste	tuʁist
 touristes	tuʁist
 touristique	tuʁistik
 touristiques	tuʁistik
+tourlou	tuʁlu
 tourlourou	tuʁluʁu
 tourlousine	tuʁluzin
 tourmalines	tuʁmalin
@@ -119101,6 +119119,7 @@ vaste	vast
 vastes	vast
 vastitude	vastityd
 vastitudes	vastityd
+vas-y	vazi
 vater	vatœʁ
 vaticane	vatikan
 vaticinait	vatisinɛ
