@@ -119083,6 +119083,7 @@ variqueux	vaʁikø
 varlet	vaʁlɛ
 varlope	vaʁlɔp
 vas	va
+vas-y	vazi
 vasa	vaza
 vasais	vazɛ
 vasait	vazɛ
@@ -119119,7 +119120,6 @@ vaste	vast
 vastes	vast
 vastitude	vastityd
 vastitudes	vastityd
-vas-y	vazi
 vater	vatœʁ
 vaticane	vatikan
 vaticinait	vatisinɛ
