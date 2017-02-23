@@ -1,3 +1,5 @@
 target/
+bin/
+*.versionsBackup
 derby.log
 *.classpath
