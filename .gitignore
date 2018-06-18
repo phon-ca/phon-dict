@@ -3,3 +3,5 @@ bin/
 *.versionsBackup
 derby.log
 *.classpath
+.project
+.settings/
