@@ -2945,7 +2945,6 @@ americares	əˈmɝɪˌkɝz
 americas	əˈmɝəkəz
 americo	əˈmɝəkoʊ
 americold	əˈmɝɪˌkoʊld
-americorp	əˈmɝɪˌkɔɹ
 americorp	əˈmɝɪˌkɔɹp
 americorps	əˈmɝɪˌkɔɹ
 americus	əˈmɝɪkəs
@@ -3648,7 +3647,6 @@ annualized	ˈænjuːwəˌlaɪzd
 annually	ˈænjuːəliː
 annuals	ˈænuːəlz
 annuities	əˈnuːətiːz
-annuity	əˈnuːətiː
 annuity	əˈnuːətiː
 annuity	əˈnjuːətiː
 annul	ˈænəl
@@ -5736,7 +5734,6 @@ augur	ˈɑɡɚ
 auguring	ˈɑɡɚɪŋ
 augurs	ˈɑɡɚz
 august	ˈɑɡəst
-august	ˈɑɡəst
 augusta	əˈɡʌstə
 auguste	ˈɑɡəst
 augustin	aʊɡuːsˈtiːn
@@ -6090,20 +6087,12 @@ awakens	əˈweɪkənz
 awalt	ˈɑvəlt
 awan	ˈeɪwən
 award	əˈwɔɹd
-award	əˈwɔɹd
-awarded	əˈwɔɹdəd
 awarded	əˈwɔɹdəd
 awarding	əˈwɔɹdɪŋ
-awarding	əˈwɔɹdɪŋ
-awards	əˈwɔɹdz
 awards	əˈwɔɹdz
 aware	əˈwɝ
-aware	əˈwɝ
-awareness	əˈwɝnəs
 awareness	əˈwɝnəs
 awash	əˈwɑʃ
-awash	əˈwɑʃ
-away	əˈweɪ
 away	əˈweɪ
 aways	ˈeɪˌweɪz
 aways	əˈweɪz
@@ -6111,7 +6100,6 @@ awb	ˈɑwb
 awb	ˈeɪˈdʌbəˈljuːbiː
 awb	ˈeɪˈdʌbəjˈjuːbiː
 awbrey	ˈɑbɹiː
-awe	ˈɑ
 awe	ˈɑ
 awed	ˈɑd
 aweida	əˈweɪdə
@@ -6124,12 +6112,10 @@ awfully	ˈɑfliː
 awfully	ˈɑfəliː
 awfulness	ˈɑfəlnəs
 awhile	əˈwaɪl
-awhile	əˈwaɪl
 awkward	ˈɑkwɚd
 awkwardly	ˈɑkwɚdliː
 awkwardness	ˈɑkwɚdnəs
 awning	ˈɑnɪŋ
-awoke	əˈwoʊk
 awoke	əˈwoʊk
 awry	ɚˈaɪ
 awtrey	ˈɑtɹiː
@@ -14493,7 +14479,6 @@ burrola	bʊˈɹoʊlə
 burros	ˈbɝoʊz
 burrough	ˈbɝoʊ
 burroughs	ˈbɝoʊz
-burroughs	ˈbɝoʊz
 burrous	ˈbɝəs
 burrow	ˈbɝoʊ
 burrower	ˈbɝoʊɚ
@@ -14982,7 +14967,6 @@ cadorette	ˈkædɚɛt
 cadotte	kəˈdɑt
 cadre	ˈkædɹiː
 cadres	ˈkædɹiːz
-cadrone	kəˈdɹoʊn
 cadrone	kəˈdɹoʊniː
 cads	ˈkæds
 cadwalader	ˌkædˈwɑlədɚ
@@ -17265,7 +17249,6 @@ cerveny	ʧɚˈviːniː
 cervera	ʧɚˈvɝə
 cervesato	ˌsɝvɛˈsɑˌtoʊ
 cerveza	ˌsɝˈveɪzə
-cerveza	ˌsɝˈveɪzə
 cervi	ˈʧɝviː
 cervical	ˈsɝvɪkəl
 cervini	ʧɚˈviːniː
@@ -18629,7 +18612,6 @@ cicio	ˈsɪsiːoʊ
 cicippio	səˈsɪpiːoʊ
 cid	ˈsɪd
 cider	ˈsaɪdɚ
-cie	ˈsiː
 cie	ˈsiːˈaɪiː
 ciel	ˈsiːl
 ciera	ˈsiːɹə
@@ -18715,7 +18697,6 @@ ciolino	ʧoʊˈliːnoʊ
 ciotti	ˈʧoʊtiː
 cipher	ˈsaɪfɚ
 cipolla	ˌsɪˈpɑlə
-cipollone	ˌsɪpəˈloʊn
 cipollone	ˌsɪpəˈloʊniː
 cipri	ˈsɪpɹiː
 cipriani	ʧiːpɹiːˈɑniː
@@ -20621,7 +20602,6 @@ compote	ˈkɑmpoʊt
 compound	ˈkɑmpaʊnd
 compound	kəmˈpaʊnd
 compounded	kəmˈpaʊndəd
-compounded	kəmˈpaʊndəd
 compounding	kəmˈpaʊndɪŋ
 compounds	ˈkɑmpaʊndz
 compounds	kəmˈpaʊndz
@@ -21458,7 +21438,6 @@ contaminates	kənˈtæməˌneɪts
 contaminating	kənˈtæməˌneɪtɪŋ
 contamination	kənˌtæməˈneɪʃən
 contant	ˈkɑntənt
-conte	ˈkɑnt
 conte	ˈkɑnteɪ
 contel	ˈkɑnˌtɛl
 contemplate	ˈkɑntəmˌpleɪt
@@ -21507,7 +21486,6 @@ contests	ˈkɑntɛsts
 contests	kənˈtɛsts
 contests	ˈkɑntɛss
 contests	ˈkɑntɛs
-contests	kənˈtɛs
 contests	kənˈtɛss
 context	ˈkɑntɛkst
 contexts	ˈkɑnˌtɛksts
@@ -22146,7 +22124,6 @@ corporation	ˌkɔɹpɚˈeɪʃən
 corporations	ˌkɔɹpɚˈeɪʃənz
 corporatism	ˈkɔɹpɚəˌtɪzəm
 corporatist	ˈkɔɹpɚəˌtɪst
-corps	ˈkɔɹ
 corps	ˈkɔɹz
 corpse	ˈkɔɹps
 corpses	ˈkɔɹpsəz
@@ -24012,7 +23989,6 @@ curnow	ˈkɝnoʊ
 curnutt	ˈkɝnət
 curnutte	kɚˈnʌt
 curragh	ˈkɝə
-curragh	ˈkɝə
 curran	ˈkɝən
 curren	ˈkɝən
 currence	ˈkɝəns
@@ -24039,9 +24015,7 @@ currin	ˈkɑˌɹɪn
 currington	ˈkɝɪŋtən
 curro	ˈkʊɹoʊ
 curry	ˈkɝiː
-curry	ˈkɝiː
 currying	ˈkɝiːɪŋ
-currys	ˈkɝiːz
 currys	ˈkɝiːz
 curse	ˈkɝs
 cursed	ˈkɝst
@@ -24945,7 +24919,6 @@ datacomp	ˈdætəˌkɑmp
 datacopy	ˈdeɪtəˌkɑpiː
 datacopy	ˈdætəˌkɑpiː
 datagraphix	ˈdeɪtəˌɡɹæfɪks
-datagraphix	ˈdeɪtəˌɡɹæfɪks
 datametrics	ˈdeɪtəˌmɛtɹɪks
 datametrics	ˈdætəˌmɛtɹɪks
 datapoint	ˈdeɪtəˌpɔɪnt
@@ -25549,7 +25522,6 @@ decrease	dɪˈkɹiːs
 decrease	ˈdiːkˌɹiːs
 decreased	dɪˈkɹiːst
 decreased	ˈdiːkˌɹiːst
-decreases	dɪˈkɹiːsəz
 decreases	dɪˈkɹiːsəz
 decreases	ˈdiːkˌɹiːsəz
 decreasing	dɪˈkɹiːsɪŋ
@@ -26189,7 +26161,6 @@ deloitte	dəˈlɔɪt
 deloney	ˈdɛləniː
 delong	dəˈlɑŋ
 delora	dɛˈlɔɹə
-delore	dəˈlɔɹ
 delore	dəˈlɔɹiː
 delorean	dəˈlɔɹiːən
 delorenzo	dɛlɑˈɹɛnzoʊ
@@ -27877,7 +27848,6 @@ different	ˈdɪfɹənt
 differential	ˌdɪfɚˈɛnʧəl
 differential	ˌdɪfɚˈɛnʃəl
 differentials	ˌdɪfɚˈɛnʧəlz
-differentials	ˌdɪfɚˈɛnʧəlz
 differentiate	ˌdɪfɚˈɛnʃiːˌeɪt
 differentiate	ˌdɪfɚˈɛnʧiːˌeɪt
 differentiated	ˌdɪfɚˈɛnʧiːˌeɪtəd
@@ -28214,7 +28184,6 @@ dinwiddie	ˈdɪnwədiː
 diocesan	daɪˈɑsəsən
 diocese	ˈdaɪəˌsiːz
 diocese	ˈdaɪəsəs
-dioceses	ˈdaɪəˌsiːz
 dioceses	ˈdaɪəˌsiːzəz
 diodati	diːoʊˈdɑtiː
 diodato	diːoʊˈdɑtoʊ
@@ -28382,7 +28351,6 @@ disa	ˈdɪsə
 disabatino	ˌdɪsɑbɑˈtiːnoʊ
 disabato	ˌdɪsɑˈbɑtoʊ
 disabilities	ˌdɪsəˈbɪlətiːz
-disability	ˌdɪsəˈbɪlətiː
 disability	ˌdɪsəˈbɪlətiːz
 disable	ˌdɪˈseɪbəl
 disabled	ˌdɪˈseɪbəld
@@ -29676,7 +29644,6 @@ donelson	ˈdɑnəlsən
 doner	ˈdɑnɚ
 dones	ˈdʌnz
 doney	ˈdɑniː
-dong	ˈdɑŋ
 dong	ˈdɑŋɡ
 dongen	ˈdɑŋɡən
 dongmei	doʊŋˈmaɪ
@@ -32787,7 +32754,6 @@ embargo	ɛmˈbɑɹɡoʊ
 embargoed	ɛmˈbɑɹɡoʊd
 embargoes	ɛmˈbɑɹɡoʊz
 embark	ɛmˈbɑɹk
-embark	ɛmˈbɑɹk
 embarkation	ˌɛmbɑɹˈkeɪʃən
 embarked	ɛmˈbɑɹkt
 embarking	ɛmˈbɑɹkɪŋ
@@ -32844,7 +32810,6 @@ embolism	ˈɛmboʊˌlɪzəm
 embolisms	ˈɛmboʊˌlɪzəmz
 emboss	ɛmˈbɑs
 embossed	ɛmˈbɑst
-embrace	ɛmˈbɹeɪs
 embrace	ɛmˈbɹeɪs
 embraceable	ɛmˈbɹeɪsəbəl
 embraced	ɛmˈbɹeɪst
@@ -33739,7 +33704,6 @@ entregrowth	ˈɛntɹəɡɹoʊθ
 entrekin	ˈɛntɹɪˌkɪn
 entrench	ɛnˈtɹɛnʧ
 entrenched	ɛnˈtɹɛnʧt
-entrenched	ɛnˈtɹɛnʧt
 entrenches	ɛnˈtɹɛnʧəz
 entrenching	ɛnˈtɹɛnʧɪŋ
 entrenchment	ɛnˈtɹɛnʧmənt
@@ -34097,8 +34061,6 @@ erlene	ˈɝliːn
 erler	ˈɝlɚ
 erlich	ˈɝlɪk
 erlichman	ˈɝlɪkmən
-erlichman	ˈɝlɪkmən
-erlick	ˈɝlɪk
 erlick	ˈɝlɪk
 erline	ˈɝlaɪn
 erling	ˈɝlɪŋ
@@ -34152,7 +34114,6 @@ eroticism	ɚˈɑtəˌsɪzəm
 erpelding	ˈɝpəldɪŋ
 erps	ˈɝps
 err	ˈɝ
-err	ˈɝ
 erra	ˈɝə
 errand	ˈɝənd
 errands	ˈɝəndz
@@ -34181,7 +34142,6 @@ ershad	ˈɝˌʃɑd
 erskin	ˈɝsˌkɪn
 erskine	ˈɝsˌkaɪn
 erstwhile	ˈɝsˌtwaɪl
-erte	ˈɝt
 erte	ˈɝteɪ
 ertel	ˈɝtəl
 ertha	ˈɝðə
@@ -35055,7 +35015,6 @@ exchangeable	ɪkˈsʧeɪnʤəbəl
 exchanged	ɪkˈsʧeɪnʤd
 exchanger	ɪkˈsʧeɪnʤɚ
 exchangers	ɪkˈsʧeɪnʤɚz
-exchanges	ɪkˈsʧeɪnʤəz
 exchanges	ɪkˈsʧeɪnʤəz
 exchanging	ɪkˈsʧeɪnʤɪŋ
 exchequer	ˈɛkˌsʧɛkɚ
@@ -36811,7 +36770,6 @@ feodor	ˈfiːədɚ
 feodora	fiːəˈdɔɹə
 feola	fiːˈɑlə
 fer	ˈfɝ
-fer	ˈfɝ
 fera	ˈfɝə
 feral	ˈfɝəl
 ferarro	fɛˈɹɑɹoʊ
@@ -36863,7 +36821,6 @@ fern	ˈfɝn
 fernald	fɚˈnɑld
 fernald	ˌfɝˈnɑld
 fernand	fɚˈnænd
-fernand	fɚˈnɑn
 fernand	fɚˈnɑnd
 fernanda	fɚˈnændə
 fernanda	fɚˈnɑndə
@@ -39383,7 +39340,6 @@ frates	ˈfɹeɪts
 fratricide	ˈfɹætɹəˌsaɪd
 fratricides	ˈfɹætɹəˌsaɪdz
 fratus	ˈfɹætəs
-fratzke	ˈfɹætsk
 fratzke	ˈfɹætskiː
 frau	ˈfɹaʊ
 fraud	ˈfɹɑd
@@ -41178,7 +41134,6 @@ gatwick	ˈɡeɪtˌwɪk
 gatx	ˈɡæˌtɛks
 gatz	ˈɡæts
 gatza	ˈɡɑtzə
-gatzke	ˈɡætsk
 gatzke	ˈɡætskiː
 gau	ˈɡoʊ
 gaub	ˈɡɑb
@@ -43642,7 +43597,6 @@ goutal	ˈɡuːtəl
 gouty	ˈɡaʊtiː
 gouvea	ɡuːˈveɪə
 gouveia	ɡuːˈveɪiːə
-gov	ˈɡʌv
 gov	ˈɡʌvɚnɚ
 govan	ˈɡoʊvən
 gove	ˈɡoʊv
@@ -44895,7 +44849,6 @@ guadagno	ɡɑˈdɑɡnoʊ
 guadalajara	ˌɡwɑˌdʌləˈhɑɹə
 guadalajara	ˌɡwɑdləˈhɑɹə
 guadalcanal	ˌɡwɑdəlkəˈnæl
-guadalupe	ˌɡwɑdəˈluːp
 guadalupe	ˌɡwɑdəˈluːpeɪ
 guadarrama	ɡuːɑdɑˈɹɑmə
 guadeloupe	ˌɡwɑdəˈluːp
@@ -45919,7 +45872,6 @@ hallas	ˈhæləz
 hallauer	ˈhælaʊɚ
 hallbauer	ˈhɑlˌbaʊɹ
 hallberg	ˈhɑlbɚɡ
-halle	ˈhæl
 halle	ˈhæliː
 halleck	ˈhælɪk
 hallelujah	ˌhæləˈluːjə
@@ -48085,7 +48037,6 @@ henman	ˈhɛnmən
 henn	ˈhɛn
 henna	ˈhɛnə
 hennan	ˈhɛnən
-henne	ˈhɛn
 henne	ˈhɛniː
 henneberger	ˈhɛnbɚɡɚ
 henneberry	ˈhɛnbɝiː
@@ -48241,7 +48192,6 @@ herda	ˈhɝdə
 herdal	ˈhɝdəl
 herded	ˈhɝdəd
 herder	ˈhɝdɚ
-herder	ˈhɝdɚ
 herders	ˈhɝdɚz
 herding	ˈhɝdɪŋ
 herdman	ˈhɝdmən
@@ -48346,7 +48296,6 @@ heros	ˈhɪɹoʊz
 heroux	hɚˈuː
 herpes	ˈhɝpiːz
 herr	ˈhɝ
-herre	ˈhɝ
 herre	ˈhɝiː
 herreid	ˈhɝaɪd
 herrell	ˈhɝəl
@@ -48411,12 +48360,10 @@ herting	ˈhɝtɪŋ
 hertlein	ˈhɝtlaɪn
 hertog	ˈhɝtɑɡ
 hertz	ˈhɝts
-hertz	ˈhɝts
 hertzberg	ˈhɝtsbɚɡ
 hertzenleben	ˈhɝtəˌnleɪbən
 hertzler	ˈhɝtzəlɚ
 hertzog	ˈhɝtzəɡ
-herve	ˈhɝv
 herve	ˈhɝveɪ
 hervey	hɚˈveɪ
 herwick	ˈhɝˌwɪk
@@ -48426,7 +48373,6 @@ heryana	hɚjˈjænə
 herz	ˈhɝz
 herzberg	ˈhɝzbɚɡ
 herzberger	ˈhɝzbɚɡɚ
-herzegovina	ˌhɝtsəɡoʊˈviːnə
 herzegovina	ˌhɝtsəɡoʊˈviːnə
 herzer	ˈhɝzɚ
 herzfeld	ˈhɝzfɛld
@@ -50785,7 +50731,6 @@ humanitarians	ˌjuːˌmænəˈtɝiːənz
 humanities	hjuːˈmænətiːz
 humanities	juːˈmænətiːz
 humanity	hjuːˈmænətiː
-humanity	juːˈmænətiː
 humanity	juːˈmænətiːz
 humanize	ˈhjuːməˌnaɪz
 humanized	ˈhjuːməˌnaɪzd
@@ -50999,7 +50944,6 @@ huron	ˈhjʊˌɹɑn
 hurrah	hʊˈɹɑ
 hurray	həˈɹeɪ
 hurrell	ˈhɔɹəl
-hurricane	ˈhɝəˌkeɪn
 hurricane	ˈhɝəˌkeɪnz
 hurricanes	ˈhɝəˌkeɪnz
 hurried	ˈhɝiːd
@@ -51648,7 +51592,6 @@ illicit	ˌɪˈlɪsət
 illicitly	ˌɪˈlɪsətliː
 illig	ˈɪlɪɡ
 illingworth	ˈɪlɪˌŋwɝθ
-illinois	ˌɪləˈnɔɪ
 illinois	ˌɪləˈnɔɪz
 illiquid	ˌɪˈlɪkwəd
 illiquidity	ˌɪlɪˈkwɪdətiː
@@ -54943,7 +54886,6 @@ jeez	ˈʤiːz
 jefcoat	ˈʤɛfˌkoʊt
 jeff	ˈʤɛf
 jeffcoat	ˈʤɛfkoʊt
-jeffe	ˈʤɛf
 jeffe	ˈʤɛfiː
 jeffer	ˈʤɛfɚ
 jefferey	ˈʤɛfɚiː
@@ -55570,7 +55512,6 @@ juan	ˈwɑn
 juan	ˈhwɑn
 juana	ˈwɑnə
 juana	ˈhwɑnə
-juanita	wɑˈniːtə
 juanita	wɑˈniːtə
 juarez	ˈwɑˌɹɛz
 juarez	ˈhwɑˌɹɛz
@@ -57169,7 +57110,6 @@ khasbulatov	ˌkɑsbəˈlɑtɑf
 khashoggi	kəˈʃɑʤiː
 khat	ˈkɑt
 khe	ˈkiː
-khe	ˈkeɪ
 khe	ˈkeɪˈɛʧiː
 kheel	ˈkiːl
 khem	ˈkɛm
@@ -58544,7 +58484,6 @@ kondracki	kənˈdɹɑtskiː
 kondrat	ˈkɑndɹət
 konecny	kəˈnɛkniː
 konen	ˈkɑnən
-kong	ˈkɑŋ
 kong	ˈkɑŋɡ
 kongsberg	ˈkɑŋzbɚɡ
 kongsberg	ˈkɑŋɡzbɚɡ
@@ -59717,7 +59656,6 @@ lablanc	ləˈblæŋk
 labo	ˈlɑboʊ
 laboda	lɑˈboʊdə
 labombard	ˈlæbəmbɚd
-labonte	ləˈbɑnt
 labonte	ləˈbɑntiː
 labor	ˈleɪbɚ
 laboratoires	ləˈbɔɹəˌtwɑz
@@ -67372,7 +67310,6 @@ mayhew	ˈmeɪhjuː
 mayhue	ˈmeɪhˌjuː
 mayhugh	ˈmeɪhə
 mayland	ˈmeɪlənd
-mayle	ˈmeɪl
 mayle	ˈmeɪliː
 mayme	ˈmeɪm
 maynard	ˈmeɪnɚd
@@ -68053,7 +67990,6 @@ mchale	məˈkeɪl
 mcham	məˈkæm
 mchan	məˈkæn
 mchaney	məˈkæniː
-mchargue	məˈkɑɹɡ
 mchargue	məˈkɑɹɡjuː
 mchatton	məˈkætən
 mchenry	məˈkɛnɹiː
@@ -69192,7 +69128,6 @@ meola	miːˈɑlə
 meow	miːˈaʊ
 meowing	ˈmiaʊwɪŋ
 mequon	ˈmɛkwən
-mer	ˈmɝ
 mer	ˈmɝ
 merabank	ˈmɝəˌbæŋk
 meranda	mɚˈɑndə
@@ -71283,7 +71218,6 @@ mohler	ˈmoʊlɚ
 mohlman	ˈmoʊlmən
 mohn	ˈmɑn
 mohney	ˈmɑniː
-mohnke	ˈmɑnk
 mohnke	ˈmɑnkiː
 mohnkern	ˈmɑnkɚn
 mohon	ˈmoʊhən
@@ -72947,7 +72881,6 @@ murphys	ˈmɝfiːz
 murr	ˈmɝ
 murrah	mɚˈɹɑ
 murray	ˈmɝiː
-murray	ˈmɝiː
 murree	ˈmɝiː
 murrelet	ˈmɝlɛt
 murrell	ˈmɔɹəl
@@ -74163,7 +74096,6 @@ nesting	ˈnɛstɪŋ
 nestle	ˈnɛsəl
 nestle	ˈnɛsˈliː
 nestled	ˈnɛsəld
-nestler	ˈnɛsəlɚ
 nestler	ˈnɛsəlɚ
 nestles	ˈnɛsəlz
 nestling	ˈnɛstlɪŋ
@@ -79259,7 +79191,6 @@ part	ˈpɑɹt
 partain	pɑɹˈteɪn
 partake	pɑɹˈteɪk
 partch	ˈpɑɹʧ
-parte	ˈpɑɹt
 parte	ˈpɑɹteɪ
 partecipazioni	ˌpɑɹˌtɛsəˌpæziːˈoʊniː
 parted	ˈpɑɹtəd
@@ -82266,7 +82197,6 @@ please	ˈpliːz
 pleased	ˈpliːzd
 pleaser	ˈpliːzɚ
 pleases	ˈpliːzəz
-pleasing	ˈpliːzɪŋ
 pleasing	ˈpliːzɪŋtən
 pleasingly	ˈpliːzɪŋliː
 pleasurable	ˈplɛʒɚəbəl
@@ -88691,7 +88621,6 @@ relate	ɹəˈleɪt
 relate	ɹiːˈleɪt
 related	ɹəˈleɪtəd
 related	ɹiːˈleɪtəd
-related	ɹiːˈleɪtəd
 relates	ɹəˈleɪts
 relates	ɹiːˈleɪts
 relating	ɹəˈleɪtɪŋ
@@ -90099,7 +90028,6 @@ reverser	ɹɪˈvɝsɚ
 reversers	ɹɪˈvɝsɚz
 reverses	ɹɪˈvɝsəz
 reverses	ɹiːˈvɝsəz
-reverses	ɹiːˈvɝsəz
 reversible	ɹɪˈvɝsəbəl
 reversible	ɹiːˈvɝsəbəl
 reversing	ɹɪˈvɝsɪŋ
@@ -90955,7 +90883,6 @@ ritzert	ˈɹɪtzɚt
 ritziest	ˈɹɪtsiːəst
 ritzman	ˈɹɪtsmən
 ritzy	ˈɹɪtsiː
-riunite	ɹiːuːˈnaɪt
 riunite	ɹiːuːˈnaɪtiː
 riva	ˈɹiːvə
 rival	ˈɹaɪvəl
@@ -91403,7 +91330,6 @@ rohan	ˈɹoʊən
 rohana	ɹəˈhænə
 rohatyn	ˈɹɑhətən
 rohatyn	ɹoʊˈhætən
-rohde	ˈɹoʊd
 rohde	ˈɹoʊdə
 rohe	ˈɹoʊ
 roher	ˈɹoʊɚ
@@ -92558,7 +92484,6 @@ rusnock	ˈɹʌsnək
 russ	ˈɹʌs
 russa	ˈɹuːsə
 russak	ˈɹʌsək
-russe	ˈɹʌs
 russe	ˈɹʌsəz
 russel	ˈɹʌsəl
 russell	ˈɹʌsəl
@@ -94411,7 +94336,6 @@ scherf	ˈʃɝf
 scherff	ˈʃɝf
 scherger	ˈʃɝɡɚ
 schering	ˈʃɝɪŋ
-schering	ˈʃɝɪŋ
 scherlis	ˈʃɝˌlɪs
 scherman	ˈʃɝmən
 schermer	ˈʃɝmɚ
@@ -96172,7 +96096,6 @@ semrad	ˈsɛmɹəd
 semrau	ˈsɛmɹaʊ
 semrow	ˈsɛmɹoʊ
 semtex	ˈsɛmtɛks
-sen	ˈsɛn
 sen	ˈsɛnətɚ
 sena	ˈsɛnə
 senate	ˈsɛnət
@@ -96401,7 +96324,6 @@ seres	ˈsiːɹz
 serex	ˈsɝəks
 serf	ˈsɝf
 serfass	ˈsɝˌfæs
-serfin	ˈsɝˌfɪn
 serfin	ˈsɝˌfɪn
 serfling	ˈsɝflɪŋ
 serfs	ˈsɝfs
@@ -100130,7 +100052,6 @@ somewhat	ˈsʌmˈwʌt
 somewhat	ˈsʌmˈhwʌt
 somewhere	ˈsʌmˌwɝ
 somewhere	ˈsʌmˌhwɝ
-somewheres	ˈsʌmˌwɝz
 somewheres	ˈsʌmˌwɝz
 somma	ˈsɑmə
 sommer	ˈsʌmɚ
@@ -104806,7 +104727,6 @@ swayed	ˈsweɪd
 swaying	ˈsweɪɪŋ
 swayne	ˈsweɪn
 sways	ˈsweɪz
-swayze	ˈsweɪz
 swayze	ˈsweɪziː
 swazi	ˈswɑziː
 swaziland	ˈswɑˌzɪlənd
@@ -105535,7 +105455,6 @@ talented	ˈtæləntəd
 talents	ˈtælənts
 talerico	tɑlɚˈiːkoʊ
 tales	ˈteɪlz
-talese	təˈliːz
 talese	təˈliːziː
 talford	ˈtælfɚd
 taliban	ˈtæləˌbæn
@@ -107606,7 +107525,6 @@ tietjen	ˈtiːtʤən
 tietmeyer	ˈtiːtˌmaɪɹ
 tietmeyer	ˈtaɪtˌmaɪɹ
 tietz	ˈtiːts
-tietze	ˈtiːtz
 tietze	ˈtiːtziː
 tieu	tiːˈuː
 tiff	ˈtɪf
@@ -112778,7 +112696,6 @@ vaxstation	ˌvækˈsteɪʃən
 vayda	ˈveɪdə
 vaz	ˈvæz
 vazquez	væsˈkɛz
-ve	ˈviː
 ve	ˈviːiː
 veach	ˈviːʧ
 veal	ˈviːl
@@ -113258,7 +113175,6 @@ vey	ˈveɪ
 veyne	ˈveɪn
 vezina	vɛˈziːnə
 vi	ˈvaɪ
-vi	ˈviː
 vi	ˈviːaɪ
 via	ˈvaɪə
 via	ˈviːə
@@ -114448,7 +114364,6 @@ walid	wɑˈliːd
 waligora	wɑlɪˈɡɔɹə
 walinsky	wəˈlɪnskiː
 walizer	ˈwɑlaɪzɚ
-walk	ˈwɑk
 walk	ˈwɑk
 walke	ˈwɑk
 walked	ˈwɑkt
@@ -118064,7 +117979,6 @@ wyche	ˈwaɪʧ
 wyckoff	ˈwɪkɑf
 wycliff	ˈwɪkˌlɪf
 wycoff	ˈwɪkɑf
-wyden	ˈwaɪd
 wyden	ˈwaɪdən
 wydra	ˈwaɪdɹə
 wye	ˈwaɪ
@@ -119232,7 +119146,6 @@ zepp	ˈzɛp
 zeppelin	ˈzɛpələn
 zeppenfeld	ˈzɛpəˌfɛld
 zera	ˈzɝə
-zerbe	ˈzɪɹb
 zerbe	ˈzɪɹbiː
 zerby	ˈzɪɹbiː
 zerilli	zɚˈiːliː
@@ -119290,7 +119203,6 @@ zia	ˈziːə
 ziad	ˈziːæd
 ziad	ˈziːˈaɪˈeɪdiː
 ziad	ˈzaɪæd
-ziahe	ˈziːɑ
 ziahe	ˈziːɑhiː
 ziashivaney	ˌziːɑʃɪˈveɪniː
 zibell	ˈzaɪbɛl

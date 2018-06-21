@@ -12409,7 +12409,6 @@ Basmati	basˈmaːtiː
 Basrelief	baʁeˈljɛf
 bass	bas
 Bass	bas
-Bass	bas
 Baß	bas
 baß	bas
 Bassa	basaː
@@ -12975,7 +12974,6 @@ beeinflussen	bəˈʔaɪnflʊsən
 beeinflussend	bəˈʔaɪnflʊsənt
 beeinflussest	bəˈʔaɪnflʊsəst
 beeinflusset	bəˈʔaɪnflʊsət
-beeinflusst	bəˈʔaɪnflʊst
 beeinflusst	bəˈʔaɪnflʊst
 beeinflußt	bəˈʔaɪnflʊst
 beeinflusste	bəˈʔaɪnflʊstə
@@ -17844,7 +17842,6 @@ Boson	boːzɔn
 Bosonen	boˈzoːnən
 bosporanisch	bɔspoˈʁaːnɪʃ
 Bosporus	bɔspoʁʊs
-Boss	bɔs
 Boss	bɔs
 Boß	bɔs
 Bosse	bɔsə
@@ -29437,7 +29434,6 @@ Entlarvung	ʔɛntˈlaɐvʊŋ
 Entlarvungen	ʔɛntˈlaɐvʊŋən
 Entlassfeier	ʔɛntˈlasˌfaɪɐ
 Entlaßfeier	ʔɛntˈlasˌfaɪɐ
-Entlaßfeier	ʔɛntˈlasˌfaɪɐ
 Entlassung	ʔɛntˈlasʊŋ
 Entlassungen	ʔɛntˈlasʊŋən
 Entlastung	ʔɛntˈlastʊŋ
@@ -31733,7 +31729,6 @@ Essayist	ʔɛseˈʔɪst
 Essayisten	ʔɛseˈʔɪstən
 Essays	ʔɛˈseːs
 essbar	ʔɛsbaːɐ
-essbar	ʔɛsbaːɐ
 eßbar	ʔɛsbaːɐ
 essbare	ʔɛsbaːʁə
 essbarem	ʔɛsbaːʁəm
@@ -33968,7 +33963,6 @@ fasle	faːzlə
 Fasnacht	fasnaxt
 fasrig	faːsʁɪç
 Fass	fas
-Fass	fas
 Faß	fas
 Fassade	faˈsaːdə
 Fassaden	faˈsaːdən
@@ -34002,9 +33996,7 @@ fassoniertest	fasoˈniːɐtəst
 fassoniertet	fasoˈniːɐtət
 Fassons	faˈsɔŋs
 fasst	fast
-fasst	fast
 faßt	fast
-fasste	fastə
 fasste	fastə
 faßte	fastə
 fassten	fastən
@@ -35646,7 +35638,6 @@ Fistel	fɪstəl
 Fisteln	fɪstəln
 fisteln	fɪstəln
 fit	fɪt
-Fitness	fɪtnɛs
 Fitness	fɪtnɛs
 Fitneß	fɪtnɛs
 Fitnesscenter	fɪtnɛsˌʦɛntɐ
@@ -39392,7 +39383,6 @@ Gebirgslage	ɡəˈbɪɐksˌlaːɡə
 Gebirgsluft	ɡəˈbɪɐksˌlʊft
 Gebirgsmassiv	ɡəˈbɪɐksmaˌsiːf
 Gebirgspass	ɡəˈbɪɐksˌpas
-Gebirgspass	ɡəˈbɪɐksˌpas
 Gebirgspaß	ɡəˈbɪɐksˌpas
 Gebirgsrücken	ɡəˈbɪɐksˌʁʏkən
 Gebirgsschlag	ɡəˈbɪɐksˌʃlaːk
@@ -40042,7 +40032,6 @@ gelandet	ɡəˈlandət
 gelangen	ɡəˈlaŋən
 gelappt	ɡəˈlapt
 Gelass	ɡəˈlas
-Gelass	ɡəˈlas
 Gelaß	ɡəˈlas
 gelassen	ɡəˈlasən
 Geläster	ɡəˈlɛstɐ
@@ -40320,7 +40309,6 @@ Genealogie	ɡeːnealoˈɡiː
 Genealogien	ɡeːnealoˈɡiːən
 genealogisch	ɡeːneaˈloːɡɪʃ
 Genée	ʒəˈneː
-Genée	ʒəˈneː
 genehm	ɡəˈneːm
 genehme	ɡəˈneːmə
 genehmem	ɡəˈneːməm
@@ -40549,7 +40537,6 @@ Genugtuung	ɡəˈnuːktuʊŋ
 Genugtuungen	ɡəˈnuːktuʊŋən
 genuin	ɡenuˈʔiːn
 Genus	ɡeːnʊs
-Genuss	ɡəˈnʊs
 Genuss	ɡəˈnʊs
 Genuß	ɡəˈnʊs
 Genusse	ɡeːnʊsə
@@ -41554,7 +41541,6 @@ Gewirrs	ɡəˈvɪɐs
 Gewisper	ɡəˈvɪspɐ
 Gewispers	ɡəˈvɪspɐs
 gewiss	ɡəˈvɪs
-gewiss	ɡəˈvɪs
 gewiß	ɡəˈvɪs
 gewisse	ɡəˈvɪsə
 gewissem	ɡəˈvɪsəm
@@ -42553,14 +42539,12 @@ Gose	ɡoːzə
 Goslar	ɡɔslaɐ
 Gospel	ɡɔspəl
 goss	ɡɔs
-goss	ɡɔs
 goß	ɡɔs
 Gosse	ɡɔsə
 Gössel	ɡœsəl
 gossen	ɡɔsən
 gossest	ɡɔsəst
 gosset	ɡɔsət
-gosst	ɡɔst
 gosst	ɡɔst
 goßt	ɡɔst
 Gote	ɡoːtə
@@ -44810,7 +44794,6 @@ haspeltest	haspəltəst
 haspeltet	haspəltət
 Haspen	haspən
 hasple	hasplə
-Hass	has
 Hass	has
 Haß	has
 Hassan	hasan
@@ -52853,7 +52836,6 @@ Jason	jaːzɔn
 Jaspers	jaspɐs
 Jaspis	jaspɪs
 Jass	jas
-Jass	jas
 Jaß	jas
 Jasse	jasə
 Jasses	jasəs
@@ -54926,7 +54908,6 @@ Kassior	kasjoˈdoːɐ
 Kassiten	kaˈsiːtən
 Kassiterit	kasiteˈʁɪt
 Kassler	kaslɐ
-Kassler	kaslɐ
 Kaßler	kaslɐ
 Kastagnette	kastanˈjɛtə
 Kastagnetten	kastanˈjɛtən
@@ -55357,7 +55338,6 @@ Kavitationen	kavitaˈʦjoːnən
 Kawa	kaːvaː
 Kawan	kaːvan
 Kawasaki	kavaˈzaːkiː
-Kawass	kaˈvas
 Kawass	kaˈvas
 Kawaß	kaˈvas
 Kawi	kaːviː
@@ -58642,12 +58622,10 @@ Komparativ	kɔmpaʁaˈtiːf
 Komparse	kɔmˈpaɐzə
 Komparserie	kɔmpaɐzəˈʁiː
 Kompass	kɔmpas
-Kompass	kɔmpas
 Kompaß	kɔmpas
 Kompasse	kɔmpasə
 Kompassen	kɔmpasən
 Kompasses	kɔmpasəs
-Kompassrose	kɔmpasˌʁoːzə
 Kompassrose	kɔmpasˌʁoːzə
 Kompaßrose	kɔmpasˌʁoːzə
 kompatibel	kɔmpaˈtiːbəl
@@ -66094,7 +66072,6 @@ linksufriger	lɪŋksˌʔuːfʁɪɡɐ
 linksufriges	lɪŋksˌʔuːfʁɪɡəs
 linksum	lɪŋksˈʔʊm
 Linné	lɪˈneː
-Linné	lɪˈneː
 Linnen	lɪnən
 linnen	lɪnən
 linnene	lɪnənə
@@ -70205,7 +70182,6 @@ Meßapparat	mɛsʔapaˌʁaːt
 Messband	mɛsˌbant
 Meßband	mɛsˌbant
 messbar	mɛsbaːɐ
-messbar	mɛsbaːɐ
 meßbar	mɛsbaːɐ
 messbare	mɛsbaːʁə
 messbarem	mɛsbaːʁəm
@@ -71475,7 +71451,6 @@ Missmanagement	mɪsˌmɛnɪʤmɛnt
 Mißmanagement	mɪsˌmɛnɪʤmɛnt
 missraten	mɪsˈʁaːtən
 mißraten	mɪsˈʁaːtən
-misst	mɪst
 misst	mɪst
 mißt	mɪst
 misste	mɪstə
@@ -73334,7 +73309,6 @@ Muslim	mʊslɪm
 Muslime	mʊsˈliːmə
 Muslimin	mʊsˈliːmɪn
 Muslims	mʊslɪms
-Muss	mʊs
 Muss	mʊs
 Muß	mʊs
 Musse	muːsə
@@ -75891,9 +75865,7 @@ Nordnordweste	ˌnɔɐtˌnɔɐtˈvɛstə
 Nordnordwesten	nɔɐtˈnɔɐtˈvɛstən
 Nordnordwesten	ˌnɔɐtˌnɔɐtˈvɛstən
 Nordost	nɔɐtˈʔɔst
-Nordost	nɔɐtˈʔɔst
 Nordosten	nɔɐtˈʔɔstən
-Nordostens	nɔɐtˈʔɔstəns
 Nordostens	nɔɐtˈʔɔstəns
 nordöstlich	nɔɐtˈʔœstlɪç
 Nords	nɔɐʦ
@@ -77285,7 +77257,6 @@ Oman	ʔoˈmaːn
 Omar	ʔoːmaɐ
 Omas	ʔoːmas
 Ombré	ʔɔ̃ˈbʁeː
-Ombré	ʔɔ̃ˈbʁeː
 ombriert	ʔɔ̃ˈbʁiːɐt
 ombrogen	ʔɔmbʁoˈɡeːn
 Ombrometer	ʔɔmbʁoˈmeːtɐ
@@ -78610,7 +78581,6 @@ Pamphylien	pamˈfyːljən
 pampig	pampɪç
 Pan	paːn
 Panaché	panaˈʃeː
-Panaché	panaˈʃeː
 Panade	paˈnaːdə
 Panaden	paˈnaːdən
 panafrikanisch	panʔafʁiˈkaːnɪʃ
@@ -79381,7 +79351,6 @@ Pasquinade	paskviˈnaːdə
 Pasquinaden	paskviˈnaːdən
 Pasquino	pasˈkviːnoː
 Pass	pas
-Pass	pas
 Paß	pas
 passabel	paˈsaːbəl
 passabelst	paˈsaːbəlst
@@ -79426,7 +79395,6 @@ Passats	paˈsaːʦ
 Passau	pasaʊ
 Passe	pasə
 passe	pasə
-passé	paˈseː
 passé	paˈseː
 Passen	pasən
 passend	pasənt
@@ -79636,7 +79604,6 @@ Paternosters	patɐˈnɔstɐs
 Paters	paːtɐs
 Pathergie	patɛɐˈɡiː
 Pathetik	paˈteːtɪk
-Pathétique	pateˈtiːk
 Pathétique	pateˈtiːk
 pathetisch	paˈteːtɪʃ
 pathetische	paˈteːtɪʃə
@@ -79942,7 +79909,6 @@ paustest	paʊztəst
 paustet	paʊztət
 Pavane	paˈvaːnə
 Pavarotti	pavaˈʁɔtiː
-Pavé	paˈveː
 Pavé	paˈveː
 Pavian	paːvjaːn
 Pavillon	paviˈljɔ̃ː
@@ -80527,7 +80493,6 @@ Periastra	peʁiˈʔastʁaː
 Periastren	peʁiˈʔastʁən
 Periastron	peʁiˈʔastʁɔn
 Periastrum	peʁiˈʔastʁʊm
-Périchole	peʁiˈʃɔl
 Périchole	peʁiˈʃɔl
 Periderm	peʁiˈdɛɐm
 Perigäum	peʁiˈɡɛːʊm
@@ -82130,7 +82095,6 @@ Piers	piːɐs
 piesacken	piːzakən
 Pieta	pieˈtaː
 Pieta	pjeˈta
-Pieta	pjeˈta
 Pietät	pieˈtɛːt
 Pietätlosigkeit	pieˈtɛːtˌloːzɪçkaɪt
 Pietismus	pieˈtɪsmʊs
@@ -82754,7 +82718,6 @@ plebejischer	pleˈbeːjɪʃɐ
 plebejisches	pleˈbeːjɪʃəs
 Plebiszit	plebɪsˈʦiːt
 Plebs	plɛps
-Pléiade	pleˈjaːt
 Pléiade	pleˈjaːt
 Pleinair	plɛˈnɛːɐ
 Pleinpouvoir	plɛ̃puˈvwaːɐ
@@ -84394,7 +84357,6 @@ Prälatur	pʁɛlaˈtuːɐ
 Präliminarien	pʁɛlimiˈnaːʁiən
 Praline	pʁaˈliːnə
 Praliné	pʁalineː
-Praliné	pʁalineː
 Pralinee	pʁalineː
 Pralinees	pʁalineːs
 Pralinen	pʁaˈliːnən
@@ -84432,7 +84394,6 @@ Prämie	pʁɛːmjə
 prämienbegünstigt	pʁɛːmjənbəˌɡʏnstɪçt
 Prämienvereinbarung	pʁɛːmjənfɛɐˌʔaɪnbaʁʊŋ
 prämieren	pʁɛˈmiːʁən
-Prämierung	pʁɛˈmiːʁʊŋ
 Prämierung	pʁɛˈmiːʁʊŋ
 prämiieren	pʁɛmiˈʔiːʁən
 Prämiierung	pʁɛmiˈʔiːʁʊŋ
@@ -84650,8 +84611,6 @@ prelltet	pʁɛltət
 Prellung	pʁɛlʊŋ
 Prellungen	pʁɛlʊŋən
 Prélude	pʁeˈlyːt
-Prélude	pʁeˈlyːt
-Préludes	pʁeˈlyːt
 Préludes	pʁeˈlyːt
 Premier	pʁeˈmjeː
 Premiere	pʁəˈmjeːʁə
@@ -85913,7 +85872,6 @@ Protaktinium	pʁotakˈtiːnjʊm
 Protamin	pʁotaˈmiːn
 Protasis	pʁoːtazɪs
 Protease	pʁoteˈaːzə
-Protegé	pʁoteˈʒeː
 Protegé	pʁoteˈʒeː
 protegiere	pʁoteˈʒiːʁə
 protegieren	pʁoteˈʒiːʁən
@@ -87195,7 +87153,6 @@ Quadrumane	kvadʁuˈmaːnə
 Quadrupede	kvadʁuˈpeːdə
 Quadrupeden	kvadʁuˈpeːdən
 Quadrupel	kvaˈdʁuːpəl
-Quadruplé	kadʁyˈpleː
 Quadruplé	kadʁyˈpleː
 Quai	kɛː
 Quais	kɛːs
@@ -88594,7 +88551,6 @@ Ratifizierungen	ʁatifiˈʦiːʁʊŋən
 Rätikon	ʁɛːtikɔn
 Ratin	ʁaˈtiːn
 Ratiné	ʁatiˈneː
-Ratiné	ʁatiˈneː
 Ratinee	ʁatiˈneː
 Rating	ʁɛɪtɪŋ
 Ratingen	ʁaːtɪŋən
@@ -89389,7 +89345,6 @@ reduziertet	ʁeduˈʦiːɐtət
 Reduzierung	ʁeduˈʦiːʁʊŋ
 Reduzierungen	ʁeduˈʦiːʁʊŋən
 Rée	ʁeː
-Rée	ʁeː
 Reede	ʁeːdə
 Reeden	ʁeːdən
 Reeder	ʁeːdɐ
@@ -89565,7 +89520,6 @@ Refrigerator	ʁefʁiɡeˈʁaːtoːɐ
 Refrigeratoren	ʁefʁiɡeʁaˈtoːʁən
 Refugialgebiet	ʁefuˈɡjaːlɡəˌbiːt
 Refugié	ʁefyˈʒjeː
-Refugié	ʁefyˈʒjeː
 Refugien	ʁeˈfuːɡjən
 Refugium	ʁeˈfuːɡjʊm
 Refugiums	ʁeˈfuːɡjʊms
@@ -89615,7 +89569,6 @@ Regelwidrigkeit	ʁeːɡəlviːdʁɪçkaɪt
 Regelwidrigkeiten	ʁeːɡəlviːdʁɪçkaɪtən
 Regen	ʁeːɡən
 regen	ʁeːɡən
-Régence	ʁeˈʒɑ̃ːs
 Régence	ʁeˈʒɑ̃ːs
 Regenerat	ʁeɡeneˈʁaːt
 Regenerate	ʁeɡeneˈʁaːtə
@@ -90211,8 +90164,6 @@ Reizungen	ʁaɪʦʊŋən
 Rejektion	ˌʁejɛkˈʦjoːn
 rejizieren	ˌʁejiˈʦiːʁən
 Réjouissance	ʁeʒɥiˈsɑ̃ːs
-Réjouissance	ʁeʒɥiˈsɑ̃ːs
-Réjouissancen	ʁeʒɥiˈsɑ̃ːsən
 Réjouissancen	ʁeʒɥiˈsɑ̃ːsən
 Rejuvenation	ʁeːjuvenaˈʦjoːn
 Rekaleszenz	ʁekalɛsˈʦɛnʦ
@@ -91252,7 +91203,6 @@ resigniertes	ʁezɪˈɡniːɐtəs
 resigniertest	ʁezɪˈɡniːɐtəst
 resigniertet	ʁezɪˈɡniːɐtət
 Resinate	ʁezɪˈnaːtə
-Résistance	ʁezisˈtɑ̃ːs
 Résistance	ʁezisˈtɑ̃ːs
 Resistanz	ʁezɪsˈtanʦ
 resistent	ʁezɪsˈtɛnt
@@ -93077,7 +93027,6 @@ Romeo	ʁoːmeoː
 Römertum	ʁøːmɐtuːm
 römischkatholisch	ʁøːmɪʃkaˌtoːlɪʃ
 Rommé	ʁɔmeː
-Rommé	ʁɔmeː
 Roms	ʁoːms
 Ronald	ʁoːnalt
 Ronaldo	ˌʁoˈnaldoː
@@ -93127,7 +93076,6 @@ rösch	ʁœʃ
 Roschana	ʁoˈʃaːnaː
 Röschen	ʁœʃən
 Rose	ʁoːzə
-rosé	ʁoˈzeː
 rosé	ʁoˈzeː
 Rosel	ʁoːzəl
 Roselith	ʁozeˈlɪt
@@ -95200,7 +95148,6 @@ Saus	zaʊs
 Sause	zaʊzə
 säuseln	zɔɪzəln
 Sauses	zaʊzəs
-sauté	soˈteː
 sauté	soˈteː
 Sauternes	soˈtɛɐn
 sautieren	zoˈtiːʁən
@@ -100682,7 +100629,6 @@ Scrummage	skʁamɪʧ
 Seal	ziːl
 Sealskin	ziːlskɪn
 Sean	siːn
-Séance	zeˈɑ̃ːs
 Séance	zeˈɑ̃ːs
 Seattle	sɪˈɛtəl
 Sebald	zeːbalt
@@ -110722,7 +110668,6 @@ Supers	zuːpɐs
 Süppchen	zʏpçən
 Suppe	zʊpə
 Suppé	zʊˈpeː
-Suppé	zʊˈpeː
 Suppen	zʊpən
 suppig	zʊpɪç
 suppige	zʊpɪɡə
@@ -115097,7 +115042,6 @@ Tourist	tuˈʁɪst
 Touristen	tuˈʁɪstən
 Touristik	tuˈʁɪstɪk
 Tourné	tuɐˈneː
-Tourné	tuɐˈneː
 Tournedos	tuɐnəˈdoː
 Tournee	tʊɐˈneː
 Tourneen	tʊɐˈneːən
@@ -116102,8 +116046,6 @@ Trauungen	tʁaʊʊŋən
 Trauzeuge	tʁaʊˌʦɔɪɡə
 Trauzeugen	tʁaʊˌʦɔɪɡən
 Travée	tʁaˈveː
-Travée	tʁaˈveː
-Travéen	tʁaˈveːən
 Travéen	tʁaˈveːən
 travel	tʁɛvəl
 Travellerscheck	tʁɛvəlɐˌʃɛk
@@ -118981,7 +118923,6 @@ umfassendster	ʔʊmˈfasənʦtɐ
 umfassendstes	ʔʊmˈfasənʦtəs
 umfassest	ʔʊmˈfasəst
 umfasset	ʔʊmˈfasət
-umfasst	ʔʊmˈfast
 umfasst	ʔʊmˈfast
 umfaßt	ʔʊmˈfast
 umfasste	ʔʊmˈfastə
@@ -127680,7 +127621,6 @@ Variator	vaˈʁjaːtoːɐ
 Variatoren	vaʁjaˈtoːʁən
 Varietät	vaʁjeˈtɛːt
 Varieté	vaʁjeˈteː
-Varieté	vaʁjeˈteː
 variiere	vaʁiˈʔiːʁə
 variieren	vaʁiˈʔiːʁən
 variierend	vaʁiˈʔiːʁənt
@@ -127889,7 +127829,6 @@ Velveton	vɛlvətɔn
 Velvets	vɛlvəʦ
 Venda	vɛndaː
 Vendeer	vɑ̃ˈdeːɐ
-Vendémiaire	vɑ̃deˈmjɛːɐ
 Vendémiaire	vɑ̃deˈmjɛːɐ
 Vendetta	vɛnˈdɛtaː
 Vendetten	vɛnˈdɛtən
@@ -128569,7 +128508,6 @@ verdrossenes	fɛɐˈdʁɔsənəs
 Verdrossenheit	fɛɐˈdʁɔsənhaɪt
 verdrossest	fɛɐˈdʁɔsəst
 verdrosset	fɛɐˈdʁɔsət
-verdrosst	fɛɐˈdʁɔst
 verdrosst	fɛɐˈdʁɔst
 verdroßt	fɛɐˈdʁɔst
 Verdruss	fɛɐˈdʁʊs
@@ -131909,7 +131847,6 @@ Visavis	viːzaːˈviː
 Viscera	vɪsʦeʁaː
 Vischer	fɪʃɐ
 Viscount	vaɪkaʊnt
-Visé	viˈzeː
 Visé	viˈzeː
 Visen	viːzən
 visibel	viˈziːbəl
@@ -136223,7 +136160,6 @@ wissentlicher	vɪsəntlɪçɐ
 wissentliches	vɪsəntlɪçəs
 wissest	vɪsəst
 wisset	vɪsət
-wisst	vɪst
 wisst	vɪst
 wißt	vɪst
 Wistaria	vɪsˈtaːʁiaː

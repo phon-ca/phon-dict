@@ -7959,7 +7959,6 @@ aryennes	aʁjɛn
 aryens	aʁjɛ̃
 arythmie	aʁitmi
 arzels	aʁzɛl
-as	a
 as	as
 as-rois	asʁwa
 asa	aza
@@ -10369,7 +10368,6 @@ azurés	azyʁe
 azurs	azyʁ
 azygos	aziɡɔs
 azyme	azim
-b	b
 b	be
 baba	baba
 baballe	babal
@@ -10715,10 +10713,8 @@ bâillaient	bajɛ
 baillais	bajɛ
 bâillais	bajɛ
 baillait	bajɛ
-baillait	bajɛ
 baillames	bajam
 bâillâmes	bajam
-baillant	bajɑ̃
 baillant	bajɑ̃
 baillante	bajɑ̃t
 bâillante	bajɑ̃t
@@ -10735,8 +10731,6 @@ bâillements	bajmɑ̃
 baillent	baj
 bâillent	baj
 bailler	baje
-bailler	baje
-bâiller	baje
 bâiller	baje
 baillera	bajʁa
 bâillera	bajʁa
@@ -16478,7 +16472,6 @@ byzantines	bizɑ̃tin
 byzantinisant	bizɑ̃tinizɑ̃
 byzantinisme	bizɑ̃tinizm
 byzantins	bizɑ̃tɛ̃
-c	s
 c	se
 c'est	sɛ
 c'est-à-dire	sɛtadiʁ
@@ -19397,7 +19390,6 @@ cervicaux	sɛʁviko
 cervidés	sɛʁvide
 ces	se
 ces	sɛ
-ces	sɛ
 césar	sezaʁ
 césarienne	sezaʁjɛn
 césariennes	sezaʁjɛn
@@ -20670,7 +20662,6 @@ chevillées	ʃəvije
 chevilles	ʃəvij
 chevillette	ʃəvijɛt
 cheviotte	ʃəvjɔt
-chevir	ʃəviʁ
 chevir	ʃəviʁ
 chèvre	ʃɛvʁ
 chèvre-pied	ʃɛvʁəpje
@@ -36221,7 +36212,6 @@ desquamation	dɛskwamasjɔ̃
 desquame	dɛskwam
 desquelles	dekɛl
 desquels	dekɛl
-desquels	dekɛl
 dessaisi	dɛsɛzi
 dessaisir	deseziʁ
 dessaisis	dɛsɛzi
@@ -46324,7 +46314,6 @@ entredéchire	ɑ̃tʁədeʃiʁ
 entredévorait	ɑ̃tʁədevoʁɛ
 entredévorer	ɑ̃tʁədevoʁe
 entrée	ɑ̃tʁe
-entrée	ɑ̃tʁe
 entrées	ɑ̃tʁe
 entrefaites	ɑ̃tʁəfɛt
 entreferma	ɑ̃tʁəfɛʁma
@@ -48287,7 +48276,6 @@ essuyés	esɥije
 essuyez	ɛsɥije
 essuyions	ɛsɥijɔ̃
 essuyons	ɛsɥijɔ̃
-est	ɛ
 est	ɛst
 est-allemand	ɛstalmɑ̃
 est-allemande	ɛstalmɑ̃d
@@ -52219,7 +52207,6 @@ fémur	femyʁ
 fémurs	femyʁ
 fenaison	fənɛzɔ̃
 fenaisons	fənɛzɔ̃
-fenasse	fənas
 fenasse	fənas
 fend	fɑ̃
 fendaient	fɑ̃dɛ
@@ -67455,7 +67442,6 @@ ivrognes	ivʁɔɲ
 ivrognesse	ivʁoɲɛs
 ixe	iks
 ixième	iksjɛm
-j	ʒ
 j	ʒi
 j'ai	ʒe
 jà	ʒa
@@ -68435,7 +68421,6 @@ juxtaposèrent	ʒykstapozɛʁ
 juxtaposés	ʒykstapoze
 juxtaposition	ʒykstapozisjɔ̃
 juxtapositions	ʒykstapozisjɔ̃
-k	k
 k	ka
 k-o	kao
 k-way	kawɛj
@@ -70863,7 +70848,6 @@ loisible	lwazibl
 loisir	lwaziʁ
 loisirs	lwaziʁ
 lokoum	lokum
-lolette	lɔlɛt
 lolette	lɔlɛt
 lolita	lolita
 lolitas	lolita
@@ -81522,8 +81506,6 @@ ottomanes	otoman
 ottomans	otomɑ̃
 ou	u
 où	u
-où	u
-ouaf	waf
 ouaf	waf
 ouaf-ouaf	wafwaf
 ouaille	waj
@@ -81862,7 +81844,6 @@ oyats	oja
 oyez	waje
 oyons	wajɔ̃
 ozone	ozon
-p	p
 p	pe
 pacage	pakaʒ
 pacages	pakaʒ
@@ -87732,7 +87713,6 @@ plurent	plyʁ
 pluriel	plyʁjɛl
 plurielle	plyʁjɛl
 pluriels	plyʁjɛl
-plus	ply
 plus	plys
 plus-que-parfait	plyskəpaʁfɛ
 plus-que-parfaits	plyskəpaʁfɛ
@@ -92499,7 +92479,6 @@ python	pitɔ̃
 pythonisse	pitonis
 pythons	pitɔ̃
 pyxides	piksid
-q	k
 q	ky
 qu'	k
 qu'il	kil
@@ -92762,7 +92741,6 @@ quelconque	kɛlkɔ̃k
 quelconques	kɛlkɔ̃k
 quelle	kɛl
 quelles	kɛl
-quelqu'un	kɛlkœ̃
 quelqu'un	kɛlkœ̃
 quelqu'une	kɛlkyn
 quelque	kɛlkə
@@ -111483,7 +111461,6 @@ suprêmement	sypʁɛmmɑ̃
 suprêmes	sypʁɛm
 sur	syʁ
 sûr	syʁ
-sûr	syʁ
 sur-le-champ	syʁlʃɑ̃
 sur-mesure	syʁməzyʁ
 sur-place	syʁplas
@@ -111579,7 +111556,6 @@ surdoué	syʁdwe
 surdouée	syʁdue
 surdoués	syʁdwe
 sure	syʁ
-sûre	syʁ
 sûre	syʁ
 sureau	syʁo
 sureaux	syʁo
@@ -112429,7 +112405,6 @@ systolique	sistolik
 systoliques	sistolik
 syzygie	siziʒi
 syzygies	siziʒi
-t	t
 t	te
 t-shirt	tiʃœʁt
 t-shirts	ʧœʁt
@@ -115652,7 +115627,6 @@ tourterelle	tuʁtəʁɛl
 tourterelles	tuʁtəʁɛl
 tourtes	tuʁt
 tourtières	tuʁtjɛʁ
-tous	tu
 tous	tus
 tous-terrains	tutɛʁɛ̃
 toussa	tusa
@@ -118614,7 +118588,6 @@ utopiques	ytopik
 utopiste	ytopist
 utopistes	ytopist
 uxorilocal	yksoʁilokal
-v	v
 v	ve
 va	va
 va-et-vient	vaevjɛ̃
@@ -121580,7 +121553,6 @@ yucca	juka
 yuccas	juka
 yuppie	jupi
 yuppies	jupi
-z	z
 z	zɛd
 zadé	zade
 zaibatsu	zajbatsu

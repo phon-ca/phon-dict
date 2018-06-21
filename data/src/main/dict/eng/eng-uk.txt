@@ -106,7 +106,6 @@
 -edged	ˈɛʤd
 -edly	ɪdli
 -ee	eɪ
--ee	i
 -ee	iː
 -ée	eɪ
 -een	ˈiːn
@@ -379,7 +378,6 @@
 -work	wɜːk
 -worth	wəθ
 -worthy	ˌwɜːði
--y	i
 -y	iə
 -y-	i
 -yl	əl
@@ -2342,7 +2340,6 @@ Agate	ˈæɡət
 Agatha	ˈæɡəθə
 agave	əˈɡeɪvi
 agaves	əˈɡeɪviz
-age	ˈeɪʤ
 age	ˈeɪʤd
 age-long	ˌeɪʤˈlɒŋ
 age-old	ˌeɪʤˈəʊld
@@ -7806,7 +7803,6 @@ b's	ˈbiːz
 BA	ˌbiːˈeɪ
 Ba'albek	ˈbɑːlbɛk
 Ba'ath	ˈbɑːθ
-baa	ˈbɑː
 baa	ˈbɑːz
 baa-lamb	ˈbɑːlæm
 baa-lambs	ˈbɑːlæmz
@@ -11926,7 +11922,6 @@ blesbok	ˈblɛsbɒk
 blesboks	ˈblɛsbɒks
 blesbuck	ˈblɛsbʌk
 blesbucks	ˈblɛsbʌks
-bless	ˈblɛs
 bless	ˈblɛst
 blessed	ˈblɛsɪd
 blessedly	ˈblɛsɪdli
@@ -13295,7 +13290,6 @@ boulder	ˈbəʊldə
 boulders	ˈbəʊldəz
 boule	ˈbuːleɪ
 boule	ˈbuːl
-boules	ˈbuːl
 boules	ˈbuːlz
 boulevard	ˈbuːləvɑːd
 boulevardier	ˌbuːlˈvɑːdieɪ
@@ -13950,7 +13944,6 @@ breathalysers	ˈbɹɛθəlaɪzəz
 breathalyses	ˈbɹɛθəlaɪzɪz
 breathalysing	ˈbɹɛθəlaɪzɪŋ
 breathalyze	ˈbɹɛθəlaɪz
-breathe	ˈbɹiːð
 breathe	ˈbɹiːðd
 breathed	ˈbɹɛθt
 breathed	ˈbɹiːðd
@@ -16297,7 +16290,6 @@ calumny	ˈkæləmni
 Calvados	ˈkælvədɒs
 Calvaries	ˈkælvəɹiz
 Calvary	ˈkælvəɹi
-calve	ˈkɑːv
 calve	ˈkɑːvz
 calved	ˈkɑːvd
 Calverley	ˈkɑːvəli
@@ -18971,7 +18963,6 @@ chasséd	ˈʃæseɪd
 chasséing	ˈʃæseɪɪŋ
 chassés	ˈʃæseɪz
 chasseur	ˌʃæˈsɜː
-chassis	ˈʃæsi
 chassis	ˈʃæsiz
 chaste	ˈʧeɪst
 chastely	ˈʧeɪstli
@@ -25054,7 +25045,6 @@ corporations	ˌkɔːpəˈɹeɪʃənz
 corporatism	ˈkɔːpəɹəˌtɪzəm
 corporeal	kɔːˈpɔːɹiəl
 corporeally	kɔːˈpɔːɹiəli
-corps	ˈkɔː
 corps	ˈkɔːz
 corpse	ˈkɔːps
 corpsed	ˈkɔːpst
@@ -25422,7 +25412,6 @@ couldn't	ˈkʊdənt
 couldst	ˈkʊdst
 coulee	ˈkuːli
 coulees	ˈkuːliz
-coulis	ˈkuːli
 coulis	ˈkuːliz
 coulomb	ˈkuːlɒm
 coulombs	ˈkuːlɒmz
@@ -25606,7 +25595,6 @@ coupes	ˈkuːpeɪz
 coupes	ˈkuːps
 coupés	ˈkuːpeɪz
 Coupland	ˈkuːplənd
-couple	ˈkʌpəl
 couple	ˈkʌpəlɪŋ
 coupled	ˈkʌpəld
 coupler	ˈkʌplə
@@ -27746,7 +27734,6 @@ D'Oyly	ˈdɔɪli
 D's	ˈdiːz
 d's	ˈdiːz
 d'you	ˈdjə
-d'you	ˈdju
 d'you	ˈdjuː
 DA	ˌdiːˈeɪ
 da	ˈdɑː
@@ -31461,7 +31448,6 @@ didst	ˈdɪdst
 didy	ˈdaɪdi
 didymous	ˈdɪdɪməs
 Didymus	ˈdɪdɪməs
-die	ˈdaɪ
 die	ˈdaɪz
 die-cast	ˈdaɪkɑːst
 die-casting	ˈdaɪkɑːstɪŋ
@@ -33512,7 +33498,6 @@ doff	ˈdɒf
 doffed	ˈdɒft
 doffing	ˈdɒfɪŋ
 doffs	ˈdɒfs
-dog	ˈdɒɡ
 dog	ˈdɒɡd
 dog-eared	ˈdɒɡɪəd
 dog-eat-dog	ˌdɒɡiːtˈdɒɡ
@@ -37971,7 +37956,6 @@ entrecotes	ˈɒntɹəkəʊts
 entree	ˈɒntɹeɪ
 entrée	ˈɒntɹeɪ
 entrees	ˈɒntɹeɪz
-entremets	ˈɒntɹəmeɪ
 entremets	ˈɒntɹəmeɪz
 entrench	ɪnˈtɹɛnʧ
 entrenched	ɪnˈtɹɛnʧt
@@ -38998,7 +38982,6 @@ etymologizing	ˌɛtɪˈmɒləʤaɪzɪŋ
 etymology	ˌɛtɪˈmɒləʤi
 etymon	ˈɛtɪmɒn
 EU	ˌiːˈjuː
-eu-	ˈju
 eu-	ˈjuː
 Euan	ˈjuːən
 Eubank	ˈjuːbæŋk
@@ -41271,7 +41254,6 @@ FAUX	ˈfəʊ
 Faux	ˈfɔːks
 faux ami	ˌfəʊzæˈmiː
 faux amis	ˌfəʊzæˈmiːz
-faux pas	ˌfəʊˈpɑː
 faux pas	ˌfəʊˈpɑːz
 faux-naif	ˌfəʊnaɪˈiːf
 faux-naïf	ˌfəʊnaɪˈiːf
@@ -44466,7 +44448,6 @@ Foyle's	ˈfɔɪəlz
 Foyles	ˈfɔɪəlz
 Fra	ˈfɹɑː
 frabjous	ˈfɹæbʤəs
-fracas	ˈfɹækɑː
 fracas	ˈfɹækɑːz
 fracases	ˈfɹækɑːzɪz
 fractal	ˈfɹæktəl
@@ -47405,7 +47386,6 @@ glaciations	ˌɡleɪsiˈeɪʃənz
 glacier	ˈɡlæsiə
 glaciers	ˈɡlæsiəz
 glaciology	ˌɡleɪsiˈɒləʤi
-glacis	ˈɡlæsi
 glacis	ˈɡlæsiz
 glad	ˈɡlæd
 glad-hand	ˌɡlædˈhænd
@@ -50243,7 +50223,6 @@ Hai Karate	ˌhaɪkəˈɹɑːti
 Haida	ˈhaɪdə
 Haifa	ˈhaɪfə
 Haig	ˈheɪɡ
-Haigh	ˈheɪ
 Haigh	ˈheɪɡ
 Haight	ˈhaɪt
 Haight-Ashbury	ˌheɪtˈæʃbəɹi
@@ -50535,7 +50514,6 @@ Halton	ˈhɔːltən
 halts	ˈhɔːlts
 halva	ˈhælvə
 halvah	ˈhælvə
-halve	ˈhɑːv
 halve	ˈhɑːvz
 halved	ˈhɑːvd
 halves	ˈhɑːvz
@@ -51300,7 +51278,6 @@ Hausa	ˈhaʊsə
 hausfrau	ˈhaʊsfɹaʊ
 hausfrauen	ˈhaʊsfɹaʊən
 hausfraus	ˈhaʊsfɹaʊz
-hautbois	ˈəʊbɔɪ
 hautbois	ˈəʊbɔɪz
 hautboy	ˈəʊbɔɪ
 hautboys	ˈəʊbɔɪz
@@ -52411,7 +52388,6 @@ hets	ˈhɛts
 Hettie	ˈhɛti
 Hetton-le-Hole	ˌhɛtənlɪˈhəʊl
 Hetty	ˈhɛti
-Heugh	ˈhjuː
 Heugh	ˈhjuːf
 Heulwen	ˈhaɪəlwɛn
 heuristic	hjuəˈɹɪstɪk
@@ -55252,7 +55228,6 @@ IKEA	aɪˈkiːə
 ikebana	ˌiːkeɪˈbɑːnə
 ikon	ˈaɪkɒn
 ikons	ˈaɪkɒnz
-il-	ˌɪ
 il-	ˌɪl
 Ilchester	ˈɪlʧɪstə
 Ile de France	ˌiːəldəˈfɹɒ̃s
@@ -55430,7 +55405,6 @@ imaginations	ɪˌmæʤɪˈneɪʃənz
 imaginative	ɪˈmæʤɪnətɪv
 imaginatively	ɪˈmæʤɪnətɪvli
 imaginativeness	ɪˈmæʤɪnətɪvnəs
-imagine	ɪˈmæʤɪn
 imagine	ɪˈmæʤɪnz
 imagined	ɪˈmæʤɪnd
 imagines	ɪˈmæʤɪnz
@@ -59033,7 +59007,6 @@ irony	ˈaɪəni
 irony	ˈaɪəɹəni
 Iroquoian	ˌɪɹəˈkwɔɪən
 Iroquoians	ˌɪɹəˈkwɔɪənz
-Iroquois	ˈɪɹəkwɔɪ
 Iroquois	ˈɪɹəkwɔɪz
 irradiate	ɪˈɹeɪdieɪt
 irradiated	ɪˈɹeɪdieɪtɪd
@@ -61254,7 +61227,6 @@ keystroke	ˈkiːstɹəʊk
 keystrokes	ˈkiːstɹəʊks
 keyword	ˈkiːwɜːd
 keywords	ˈkiːwɜːdz
-kg	ˈkɪləɡɹæm
 kg	ˈkɪləɡɹæmz
 Khachaturian	ˌkæʧəˈtʊəɹiən
 khaki	ˈkɑːki
@@ -64393,7 +64365,6 @@ Lidl	ˈlɪdəl
 lido	ˈliːdəʊ
 lidos	ˈliːdəʊz
 lids	ˈlɪdz
-lie	ˈlaɪ
 lie	ˈlaɪd
 lie-down	ˌlaɪˈdaʊn
 lie-downs	ˌlaɪˈdaʊnz
@@ -65061,7 +65032,6 @@ liturgy	ˈlɪtəʤi
 livability	ˌlɪvəˈbɪləti
 livable	ˈlɪvəbəl
 live	ˈlaɪv
-live	ˈlɪv
 live	ˈlɪvz
 live-in	ˌlɪvˈɪn
 liveability	ˌlɪvəˈbɪləti
@@ -66248,7 +66218,6 @@ lunes	ˈluːnz
 lunette	ˌluːˈnɛt
 lunettes	ˌluːˈnɛts
 lung	ˈlʌŋ
-lunge	ˈlʌnʤ
 lunge	ˈlʌnʤd
 lunged	ˈlʌnʤd
 lunged	ˈlʌŋd
@@ -69156,7 +69125,6 @@ meditatively	ˈmɛdɪtətɪvli
 meditativeness	ˈmɛdɪtətɪvnəs
 Mediterranean	ˌmɛdɪtəˈɹeɪniən
 Mediterraneans	ˌmɛdɪtəˈɹeɪniənz
-medium	ˈmiːdiə
 medium	ˈmiːdiəm
 medium-sized	ˌmiːdiəmˈsaɪzd
 medium-term	ˌmiːdiəmˈtɜːm
@@ -74585,7 +74553,6 @@ Nest	ˈnɛst
 Nesta	ˈnɛstə
 nested	ˈnɛstɪd
 nesting	ˈnɛstɪŋ
-nestle	ˈnɛsəl
 nestle	ˈnɛsəlɪŋ
 Nestlé	ˈnɛsleɪ
 nestled	ˈnɛsəld
@@ -75267,7 +75234,6 @@ Nizams	nɪˈzɑːmz
 Nizhni Novgorod	ˌnɪʒniˈnɒvɡəɹɒd
 Nkomo	ənˈkəʊməʊ
 Nkrumah	ənˈkɹuːmə
-no	ˈnəʊ
 no	ˈnəʊz
 no one's	ˈnəʊwʌnz
 no-account	ˌnəʊəˈkaʊnt
@@ -76998,7 +76964,6 @@ offprint	ˈɒfpɹɪnt
 offprints	ˈɒfpɹɪnts
 offscouring	ˈɒfskaʊəɹɪŋ
 offscourings	ˈɒfskaʊəɹɪŋz
-offset	ˈɒfsɛt
 offset	ˈɒfsɛtˌɒf
 offsets	ˈɒfsɛts
 offsetting	ˈɒfsɛtɪŋ
@@ -78521,7 +78486,6 @@ outlawing	ˈaʊtlɔːɪŋ
 outlawries	ˈaʊtlɔːɹiz
 outlawry	ˈaʊtlɔːɹi
 outlaws	ˈaʊtlɔːɪŋz
-outlay	ˈaʊtleɪ
 outlay	ˈaʊtleɪˌaʊt
 outlaying	ˈaʊtleɪɪŋ
 outlays	ˈaʊtleɪz
@@ -79055,7 +79019,6 @@ overlapped	ˌəʊvəˈlæpt
 overlapping	ˌəʊvəˈlæpɪŋ
 overlaps	ˈəʊvəlæps
 overlaps	ˌəʊvəˈlæps
-overlay	ˈəʊvəleɪ
 overlay	ˈəʊvəleɪˌəʊvə
 overlay	ˌəʊvəˈleɪ
 overlaying	ˈəʊvəleɪɪŋ
@@ -79847,7 +79810,6 @@ Palaeozoic	ˌpæliəʊˈzəʊɪk
 palaestra	pəˈlaɪstɹə
 palaestrae	pəˈlaɪstɹiː
 palaestras	pəˈlaɪstɹəz
-palais	ˈpæleɪ
 palais	ˈpæleɪz
 palankeen	ˌpælənˈkiːn
 palankeens	ˌpælənˈkiːnz
@@ -80991,7 +80953,6 @@ parvos	ˈpɑːvəʊz
 parvovirus	ˈpɑːvəʊˌvaɪəɹəs
 parvoviruses	ˈpɑːvəʊˌvaɪəɹəsɪz
 Parzival	ˈpɑːtsɪfɑːl
-pas	ˈpɑː
 pas	ˈpɑːz
 pas de basque	ˌpɑːdəˈbɑː
 pas de deux	ˌpɑːdəˈdɜː
@@ -81273,7 +81234,6 @@ patisseries	pəˈtiːsəɹiz
 Patmore	ˈpætmɔː
 Patmos	ˈpætmɒs
 Patna	ˈpætnə
-patois	ˈpætwɑː
 patois	ˈpætwɑːz
 Paton	ˈpeɪtən
 Patras	ˈpætɹæs
@@ -84099,7 +84059,6 @@ pinatas	piːnˈjɑːtəz
 Pinatubo	ˌpɪnəˈtuːbəʊ
 pinball	ˈpɪnbɔːl
 pinballs	ˈpɪnbɔːlz
-pince-nez	ˌpænsˈneɪ
 pince-nez	ˌpænsˈneɪz
 pincer	ˈpɪnsə
 pincerlike	ˈpɪnsəlaɪk
@@ -86807,7 +86766,6 @@ praying	ˈpɹeɪɪŋ
 prays	ˈpɹeɪz
 pre-	ˈpɹə
 pre-	ˈpɹɛ
-pre-	ˈpɹi
 pre-	ˈpɹiː
 pre-amp	ˈpɹiːæmp
 pre-amps	ˈpɹiːæmps
@@ -86922,7 +86880,6 @@ precipitations	pɹiˌsɪpɪˈteɪʃənz
 precipitous	pɹiˈsɪpɪtəs
 precipitously	pɹiˈsɪpɪtəsli
 precipitousness	pɹiˈsɪpɪtəsnəs
-precis	ˈpɹeɪsiː
 precis	ˈpɹeɪsiːz
 précis	ˈpɹeɪsiː
 precise	pɹiˈsaɪs
@@ -87426,7 +87383,6 @@ preseason	ˌpɹiːˈsiːzən
 preseasons	ˌpɹiːˈsiːzənz
 presence	ˈpɹɛzəns
 presences	ˈpɹɛzənsɪz
-present	ˈpɹɛzənt
 present	ˈpɹɛzəntpɹi
 present-day	ˌpɹɛzəntˈdeɪ
 presentable	pɹiˈzɛntəbəl
@@ -87997,7 +87953,6 @@ pro forma	ˌpɹəʊˈfɔːmə
 pro rata	ˌpɹəʊˈɹɑːtə
 pro tem	ˌpɹəʊˈtɛm
 pro-	ˈpɹɒ
-pro-	ˈpɹə
 pro-	ˈpɹəʊ
 pro-am	ˌpɹəʊˈæm
 pro-celebrity	ˌpɹəʊsɪˈlɛbɹəti
@@ -89108,7 +89063,6 @@ psittacosis	ˌsɪtəˈkəʊsɪs
 psoas	ˈsəʊæs
 psoriasis	səˈɹaɪəsɪs
 psoriatic	ˌsɔːɹiˈætɪk
-psst	ˈps
 psst	ˈpst
 psy ops	ˈsaɪɒps
 psych	ˈsaɪk
@@ -93450,7 +93404,6 @@ relaxations	ˌɹiːlækˈseɪʃənz
 relaxed	ɹiˈlækst
 relaxes	ɹiˈlæksɪz
 relaxing	ɹiˈlæksɪŋ
-relay	ˈɹiːleɪ
 relay	ˈɹiːleɪˌɹiː
 relayed	ˈɹiːleɪd
 relaying	ˈɹiːleɪɪŋ
@@ -93552,7 +93505,6 @@ remainders	ɹiˈmeɪndəz
 remained	ɹiˈmeɪnd
 remaining	ɹiˈmeɪnɪŋ
 remains	ɹiˈmeɪnz
-remake	ˈɹiːmeɪk
 remake	ˈɹiːmeɪkˌɹiː
 remakes	ˌɹiːˈmeɪks
 remakes	ˈɹiːmeɪks
@@ -93627,7 +93579,6 @@ remiss	ɹiˈmɪs
 remission	ɹiˈmɪʃən
 remissions	ɹiˈmɪʃənz
 remissness	ɹiˈmɪsnəs
-remit	ˈɹiːmɪt
 remit	ˈɹiːmɪtɹi
 remits	ˌɹiːˈmɪts
 remits	ˈɹiːmɪts
@@ -93696,7 +93647,6 @@ remoulded	ˌɹiːˈməʊldɪd
 remoulding	ˌɹiːˈməʊldɪŋ
 remoulds	ˈɹiːməʊldz
 remoulds	ˌɹiːˈməʊldz
-remount	ˈɹiːmaʊnt
 remount	ˈɹiːmaʊntˌɹiː
 remounted	ˈɹiːmaʊntɪd
 remounting	ˈɹiːmaʊntɪŋ
@@ -93747,7 +93697,6 @@ rendered	ˈɹɛndəd
 rendering	ˈɹɛndəɹɪŋ
 renderings	ˈɹɛndəɹɪŋz
 renders	ˈɹɛndəz
-rendezvous	ˈɹɒndɪvuː
 rendezvous	ˈɹɒndɪvuːz
 rendezvoused	ˈɹɒndɪvuːd
 rendezvousing	ˈɹɒndɪvuːɪŋ
@@ -94066,7 +94015,6 @@ reprimand	ˈɹɛpɹimɑːnd
 reprimanded	ˈɹɛpɹimɑːndɪd
 reprimanding	ˈɹɛpɹimɑːndɪŋ
 reprimands	ˈɹɛpɹimɑːndz
-reprint	ˈɹiːpɹɪnt
 reprint	ˈɹiːpɹɪntˌɹiː
 reprinted	ˈɹiːpɹɪntɪd
 reprinting	ˈɹiːpɹɪntɪŋ
@@ -94210,7 +94158,6 @@ reroute	ˌɹiːˈɹuːt
 rerouted	ˌɹiːˈɹuːtɪd
 rerouteing	ˌɹiːˈɹuːtɪŋ
 reroutes	ˌɹiːˈɹuːts
-rerun	ˈɹiːɹʌn
 rerun	ˈɹiːɹʌnˌɹiː
 rerunning	ˈɹiːɹʌnɪŋ
 reruns	ˈɹiːɹʌnz
@@ -94362,7 +94309,6 @@ resistivity	ˌɹiːzɪˈstɪvəti
 resistor	ɹiˈzɪstə
 resistors	ɹiˈzɪstəz
 resists	ɹiˈzɪsts
-resit	ˈɹiːsɪt
 resit	ˈɹiːsɪtˌɹiː
 resits	ˈɹiːsɪts
 resitting	ˈɹiːsɪtɪŋ
@@ -94605,7 +94551,6 @@ retainer	ɹiˈteɪnə
 retainers	ɹiˈteɪnəz
 retaining	ɹiˈteɪnɪŋ
 retains	ɹiˈteɪnz
-retake	ˈɹiːteɪk
 retake	ˈɹiːteɪkˌɹiː
 retaken	ˈɹiːteɪkən
 retakes	ˈɹiːteɪks
@@ -94644,7 +94589,6 @@ retentive	ɹiˈtɛntɪv
 retentively	ɹiˈtɛntɪvli
 retentiveness	ɹiˈtɛntɪvnəs
 Retford	ˈɹɛtfəd
-rethink	ˈɹiːθɪŋk
 rethink	ˈɹiːθɪŋkˌɹiː
 rethinking	ˈɹiːθɪŋkɪŋ
 rethinks	ˈɹiːθɪŋks
@@ -94915,7 +94859,6 @@ reveres	ɹiˈvɪəz
 reverie	ˈɹɛvəɹi
 reveries	ˈɹɛvəɹiz
 revering	ɹiˈvɪəɹɪŋ
-revers	ɹiˈvɪə
 revers	ɹiˈvɪəz
 reversal	ɹiˈvɜːsəl
 reversals	ɹiˈvɜːsəlz
@@ -95054,7 +94997,6 @@ reworking	ˌɹiːˈwɜːkɪŋ
 reworkings	ˌɹiːˈwɜːkɪŋz
 reworks	ˌɹiːˈwɜːks
 rewound	ˌɹiːˈwaʊnd
-rewrite	ˈɹiːɹaɪt
 rewrite	ˈɹiːɹaɪtˌɹiː
 rewrites	ˈɹiːɹaɪts
 rewritten	ˈɹiːɹɪtən
@@ -96674,7 +96616,6 @@ routing	ˈɹuːtɪŋ
 routings	ˈɹuːtɪŋz
 Routledge	ˈɹaʊtlɪʤ
 routs	ˈɹaʊts
-roux	ˈɹuː
 roux	ˈɹuːz
 rove	ˈɹəʊv
 Rove	ˈɹəʊv
@@ -103236,7 +103177,6 @@ Sion	siˈɒ̃
 Sion	ˈʃɔːn
 Siôn	ˈʃɔːn
 Siouan	ˈsuːən
-Sioux	ˈsuː
 Sioux	ˈsuːz
 Siouxsie	ˈsuːzi
 sip	ˈsɪp
@@ -103485,7 +103425,6 @@ skewers	ˈskjuːəɹɪŋz
 skewing	ˈskjuːɪŋ
 skewness	ˈskjuːnəs
 skews	ˈskjuːz
-ski	ˈskiː
 ski	ˈskiːd
 skibob	ˈskiːbɒb
 skibobber	ˈskiːbɒbə
@@ -103674,7 +103613,6 @@ skulls	ˈskʌlz
 skunk	ˈskʌŋk
 skunks	ˈskʌŋks
 skunkworks	ˈskʌŋkwɜːks
-sky	ˈskaɪ
 sky	ˈskaɪd
 sky-blue	ˌskaɪˈbluː
 sky-high	ˌskaɪˈhaɪ
@@ -110537,7 +110475,6 @@ supplant	səˈplɑːnt
 supplanted	səˈplɑːntɪd
 supplanting	səˈplɑːntɪŋ
 supplants	səˈplɑːnts
-supple	ˈsʌpəl
 supple	ˈsʌpəlli
 supplejack	ˈsʌpəlʤæk
 supplely	ˈsʌpəlli
@@ -110588,7 +110525,6 @@ supportive	səˈpɔːtɪv
 supportively	səˈpɔːtɪvli
 supportiveness	səˈpɔːtɪvnəs
 supports	səˈpɔːts
-suppose	səˈpəʊz
 suppose	səˈpəʊzd
 supposed	səˈpəʊst
 supposed	səˈpəʊzd
@@ -112088,7 +112024,6 @@ talcking	ˈtælkɪŋ
 Talcott	ˈtɔːlkət
 talcs	ˈtælks
 talcum	ˈtælkəm
-tale	ˈteɪəl
 tale	ˈteɪəlz
 talebearer	ˈteɪəlˌbɛəɹə
 talebearers	ˈteɪəlˌbɛəɹəz
@@ -112718,7 +112653,6 @@ taxemes	ˈtæksiːmz
 taxemic	tækˈsiːmɪk
 taxemics	tækˈsiːmɪks
 taxes	ˈtæksɪz
-taxi	ˈtæksi
 taxi	ˈtæksiz
 taxicab	ˈtæksikæb
 taxicabs	ˈtæksikæbz
@@ -113749,7 +113683,6 @@ Thabo	ˈtɑːbəʊ
 Thackeray	ˈθækəɹi
 Thad	ˈθæd
 Thaddeus	ˈθædiəs
-Thai	ˈtaɪ
 Thai	ˈtaɪz
 Thailand	ˈtaɪlænd
 Thais	ˈθeɪɪs
@@ -114923,7 +114856,6 @@ Ting	ˈtɪŋ
 ting	ˈtɪŋd
 tingaling	ˌtɪŋəˈlɪŋ
 tingalings	ˌtɪŋəˈlɪŋz
-tinge	ˈtɪnʤ
 tinge	ˈtɪnʤd
 tinged	ˈtɪnʤd
 tinged	ˈtɪŋd
@@ -116006,7 +115938,6 @@ touristy	ˈtʊəɹɪsti
 tourmaline	ˈtʊəməliːn
 tournament	ˈtʊənəmənt
 tournaments	ˈtʊənəmənts
-tournedos	ˈtʊənədəʊ
 tournedos	ˈtʊənədəʊz
 tourney	ˈtʊəni
 tourneyed	ˈtʊənid
@@ -116563,7 +116494,6 @@ transpire	tɹænˈspaɪə
 transpired	tɹænˈspaɪəd
 transpires	tɹænˈspaɪəz
 transpiring	tɹænˈspaɪəɹɪŋ
-transplant	ˈtɹænsplɑːnt
 transplant	ˈtɹænsplɑːntˌtɹæns
 transplantation	ˌtɹænsplɑːnˈteɪʃən
 transplantations	ˌtɹænsplɑːnˈteɪʃənz
@@ -116574,7 +116504,6 @@ transpolar	ˌtɹænzˈpəʊlə
 transponder	tɹænˈspɒndə
 transponders	tɹænˈspɒndəz
 transpontine	ˌtɹænzˈpɒntaɪn
-transport	ˈtɹænspɔːt
 transport	ˈtɹænspɔːttɹæns
 transportable	tɹænsˈpɔːtəbəl
 transportation	ˌtɹænspɔːˈteɪʃən
@@ -116724,7 +116653,6 @@ travesties	ˈtɹævəstiz
 travesty	ˈtɹævəsti
 Traviata	ˌtɹæviˈɑːtə
 Travis	ˈtɹævɪs
-travois	tɹəˈvɔɪ
 travois	tɹəˈvɔɪz
 travolator	ˈtɹævəleɪtə
 travolators	ˈtɹævəleɪtəz

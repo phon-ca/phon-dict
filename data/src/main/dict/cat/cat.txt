@@ -5436,7 +5436,6 @@ atzarosa	ədzəˈɾozə
 atzars	ədˈzas
 atzucac	ədzuˈkak
 .au	ˈaw
-au	ˈaw
 auca	ˈawkə
 audaç	əwˈðas
 audaces	əwˈðasəs
@@ -8843,7 +8842,6 @@ cck	ˈkiliŋ
 c	ˈse
 ç	ˈsetɾəŋˈkaðə
 c	ˈse
-cd	ˈkɔmpəkˈdis
 cd	ˈkɔmpəkˈdis
 cd-rom	ˈseðeˈrum
 ceba	ˈsɛβə
@@ -17848,7 +17846,6 @@ dutxes	ˈdutʃəs
 duu	ˈduw
 duus	ˈduws
 dvd	ˈdiʒitəlˈβiðewˈðis
-dvd	ˈdiʒitəlˈβiðewˈðis
 dza	əlˈʒɛɾiə
 dz	əlˈʒɛɾiə
 easy	ˈizi
@@ -17993,7 +17990,6 @@ eduquen	əˈðukən
 eduqui	əˈðuki
 eduquin	əˈðukin
 ee	əsˈtɔniə
-e	ˈɛ
 e	ˈɛ
 efecte	əˈfektə
 efectes	əˈfektəs
@@ -23974,7 +23970,6 @@ féu	ˈfew
 feu-ho	ˈfɛwu
 feus	ˈfɛws
 f	ˈefə
-f	ˈefə
 fiabilitat	fiəβiliˈtat
 fiable	fiˈabblə
 fiables	fiˈabbləs
@@ -26833,7 +26828,6 @@ heus	ˈɛws
 hexagonals	əɡzəɣuˈnals
 hexàgon	əɡˈzaɣun
 h	ˈak
-h	ˈak
 hibridació	iβɾiðəsiˈo
 híbrida	ˈiβɾiðə
 híbrides	ˈiβɾiðəs
@@ -27221,7 +27215,6 @@ ht	əjˈti
 hti	əjˈti
 .htm	ˈajpərˈteɡzˈmarkəbˈlaŋɡwəʧ
 .html	ˈajpərˈteɡzˈmarkəbˈlaŋɡwəʧ
-html	ˈajpərˈteɡzˈmarkəbˈlaŋɡwəʧ
 http	ˈajpərˈtekstɾənzˈmisjompɾutuˈkɔl
 hu	uŋˈɡɾia
 hui	ˈwi
@@ -30685,7 +30678,6 @@ jeu	ˈʒɛw
 jeure	ˈʒɛwɾə
 ji	ˈʒi
 j	ˈʒotə
-j	ˈʒotə
 jm	ʒəˈmajkə
 joc	ˈʒɔk
 jocs	ˈʒɔks
@@ -30946,7 +30938,6 @@ kilòmetre	kiˈlɔmətɾə
 kilòmetres	kiˈlɔmətɾəs
 kinètiques	kiˈnɛtikəs
 kir	kiɾiˈβati
-k	ˈka
 k	ˈka
 km	koˈmoɾos
 km.	kiˈlɔmətɾə
@@ -35852,7 +35843,6 @@ nivells	niˈβeʎs
 nld	pəˈizuzˈβaʃus
 nl	pəˈizuzˈβaʃus
 n	ˈenə
-n	ˈenə
 nobiliària	nuβiliˈaɾiə
 nobiliaris	nuβiliˈaɾis
 noble	ˈnobblə
@@ -36919,7 +36909,6 @@ onzens	unˈzɛns
 onzè	unˈzɛ
 onze	ˈonzə
 onzes	ˈonzəs
-o	ˈɔ
 o	ˈɔ
 opaca	uˈpakə
 opacitat	upəsiˈtat
@@ -43429,7 +43418,6 @@ rampa	ˈrampə
 rampell	rəmˈpeʎ
 rampells	rəmˈpeʎs
 rampes	ˈrampəs
-ram	ˈram
 ram	ˈram
 rams	ˈrams
 rància	ˈransiə
@@ -49970,7 +49958,6 @@ sra.	səˈɲoɾə
 sr.	səˈɲo
 sr	suɾiˈnam
 s	ˈesə
-s	ˈesə
 stamps	əsˈtams
 standard	əsˈtandə
 staroffice	əstəˈɾofis
@@ -53467,7 +53454,6 @@ tsarista	ʦəˈɾistə
 tsars	ˈʦars
 tsar	ˈʦar
 t	ˈte
-t	ˈte
 tto	tɾiniˈtatitoˈβaɣo
 tt	tɾiniˈtatitoˈβaɣo
 t'	t
@@ -53562,7 +53548,6 @@ tu	ˈtu
 tuv	tuˈβalu
 .tv	ˈtejβolˈβiw
 tv	tələβiziˈo
-tv	tələβiziˈo
 twn	tajˈwan
 tw	tajˈwan
 txa-txa-txa	ʧaʧaˈʧa
@@ -53575,7 +53560,6 @@ txetxenes	ʧətˈʃɛnəs
 txetxens	ʧətˈʃɛns
 txetxè	ʧətˈʃɛ
 .txt	ˈtekst
-txt	ˈtekst
 tza	tənˈzaniə
 tz	tənˈzaniə
 ua	uˈkɾaniə
@@ -55523,7 +55507,6 @@ vulneren	bulˈneɾən
 vulnerin	bulˈnɛɾin
 vulneri	bulˈnɛɾi
 v	ˈbeˈβaʃə
-v	ˈbeˈβaʃə
 .wab	ˈɡwap
 wagneriana	bəɡnəɾiˈanə
 wagnerianes	bəɡnəɾiˈanəs
@@ -55573,7 +55556,6 @@ would	ˈɡut
 wsm	saˈmoa
 ws	saˈmoa
 .ws	ˈɡworəsˈtaɾ
-w	ˈbeˈðoβlə
 w	ˈbeˈðoβlə
 www.	ˈɡwolˈɡwajðˈɡwɛp
 www	ˈɡwolˈɡwajðˈɡwɛp
@@ -55758,7 +55740,6 @@ xiuxiuejos	ʃiwʃiˈwɛʒus
 xivarri	ʃiˈβari
 .xls	ˈekseləsˈpɾidsit
 .xml	əkstənˈsiβləˈmarkəβˈlaŋɡwəʃ
-xml	əkstənˈsiβləˈmarkəβˈlaŋɡwəʃ
 xocants	ʃuˈkans
 xocant	ʃuˈkan
 xocar	ʃuˈka
@@ -56120,7 +56101,6 @@ aceros_llobregat	aˈθeɾozʎuβɾəˈɣat
 acers_banyoles	əˈserzβəˈɲɔləs
 acer	əˈser
 acesa	aˈθesa
-acesa	aˈθesa
 acesa_infraestructuras	aˈθesaimfɾastɾukˈtuɾas
 aceto_corporation	aˈθetokorpoˈɾejʃon
 aceto	əˈseto
@@ -56239,7 +56219,6 @@ adamira	əðəˈmiɾə
 adam	əˈðam
 adams	ˈaðəms
 adamus	əˈðamus
-adana	əˈðanə
 adana	əˈðanə
 adanalian	əðənəliˈan
 adan_obras_y_proyectos	ˈaðaˈnoβɾasipɾoˈjektos
@@ -60830,7 +60809,6 @@ autocars_suroeste	əuwtuˈkarsuɾoˈeste
 auto_castillo	ˈauwtokasˈtiʎo
 autocorb	əuwtuˈkorp
 autodesk	auwtoˈðesk
-autodesk	auwtoˈðesk
 auto_escuelas_batlle	ˈauwtosˈkwelazˈβaʎʎə
 automat_industrial	əuwtuˈmatindustɾiˈal
 automatismos_para_quemadores	auwtomaˈtizmosˈpaɾakemaˈðoɾes
@@ -62375,7 +62353,6 @@ bellindo	beˈʎindo
 bellino	beˈʎino
 belliure	bəˈʎiuwɾə
 bell-lloc	beʎˈʎɔk
-bell-lloc_d'urgell	beʎˈʎɔɡdurˈʒeʎ
 bell-lloc_d'urgell	beʎˈʎɔɡdurˈʒeʎ
 bell-lloc	beʎˈʎɔk
 bellmas	ˈbɛʎməs
@@ -66394,7 +66371,6 @@ cepolina	sepoˈlinə
 cepria	ˈsepɾjə
 ceprom	sepˈɾɔm
 cepsa	ˈθepsa
-cepsa	ˈθepsa
 cep	ˈsep
 cequier	səkiˈe
 ceradai	səɾəˈðaj
@@ -66657,7 +66633,6 @@ chazal	ʧəˈsal
 checas	ˈʧekəs
 checkers_drive-in_restaurants	ˈʧɛkerzˈðɾajfinˈrɛstəuwɾəns
 checkfree_corporation	ˈʧɛkfɾikorpoˈɾejʃon
-checkfree_corporation	ˈʧɛkfɾikorpoˈɾejʃon
 checkpoint_systems	ˈʧɛkpɔjnˈsistems
 cheesecake_factory	ʧisˈkɛjkˈfaktoɾi
 chefes	ˈʧefes
@@ -66855,7 +66830,6 @@ cidrera	siˈðɾeɾə
 cidres	ˈsiðɾes
 cielo	ˈsjelo
 cielos	ˈsjelos
-ciena_corporation	siˈɛnəkorpoˈɾejʃon
 ciena_corporation	siˈɛnəkorpoˈɾejʃon
 ciència	siˈɛnsiə
 ciències	siˈɛnsiəs
@@ -68744,7 +68718,6 @@ cor	ˈkoɾ
 corporació_alimentària_guissona	kurpuɾəsiˈoəlimənˈtaɾiəɣiˈsonə
 corporació_catalana_de_ràdio	kurpuɾəsiˈokətəˈlanəðəˈraðiu
 corporació_catalana_de_ràdio_i_televisió	kurpuɾəsiˈokətəˈlanəðəˈraðiujtələβiziˈo
-corporació_catalana_de_ràdio_i_televisió	kurpuɾəsiˈokətəˈlanəðəˈraðiujtələβiziˈo
 corporació_fp_petrolis	kurpuɾəsiˈoˈefəˈpepəˈtɾɔlis
 corporación_financiera_alba	korpoɾaˈθjomfinanˈθjeɾaˈalβa
 corporación_geo	korpoɾaˈθjonˈxeo
@@ -69266,7 +69239,6 @@ dames	ˈdaməs
 dameto	dəˈmeto
 damià_forment	dəmiˈafurˈmen
 damián	dəˈmjan
-damm	ˈdam
 damm	ˈdam
 damunt	dəˈmun
 dana_corporation	ˈdanəkorpoˈɾejʃon
@@ -70245,7 +70217,6 @@ du	ˈdu
 dupont_canada	duˈpoŋkənəˈða
 dupont_performance_coatings	duˈpompərˈfɔrmənsˈkɔuwtiŋs
 dupont_photomasks	duˈpomˈfotoˈmasks
-dupont_photomasks	duˈpomˈfotoˈmasks
 duque	ˈduke
 duquesa	duˈkesə
 duqueso	duˈkeso
@@ -70995,7 +70966,6 @@ engranajes_especiales	eŋɡɾaˈnaxesespeˈθjales
 engreñat	eŋɡɾeˈɲað
 engroñat	eŋɡɾoˈɲað
 enguiu	əŋˈɡiuw
-enher	ˈener
 enher	ˈener
 eni	ˈɛni
 enid	ˈɛnit
@@ -72572,7 +72542,6 @@ fgc	ˈefəˈʒeˈse
 fiab	fiˈap
 fia	ˈfiə
 fianarantsoa	fiənəɾənˈsoə
-fiatc	fiˈatk
 fiatc	fiˈatk
 fiat	ˈfiat
 fiba	ˈfiβə
@@ -74743,7 +74712,6 @@ gerardo_boiza_prieto	xeˈɾarðoˈβojθaˈpɾjeto
 gerardo	xeˈɾarðo
 gerard_piera	ʒəˈɾarpiˈeɾə
 gerblé	xerˈβle
-ger	ˈxer
 ger	ˈxer
 gerda	ˈʒɛrðə
 gerdau	ʒərˈðauw
@@ -77438,7 +77406,6 @@ identix	iˈðentiks
 idep	iˈðɛp
 ide	ˈiðe
 idescat	iðesˈkat
-idescat	iðesˈkat
 idex_corporation	ˈiðekskorpoˈɾejʃon
 idexx_laboratories_incorporated	iˈðeɡzlaβoɾəˈtɔɾiziŋkorpoˈɾejtət
 idiaco	iˈðjako
@@ -77768,7 +77735,6 @@ ine	ˈine
 inedit_studio	iˈneðitəsˈtuðio
 inefc	iˈnɛfk
 inem	iˈnɛm
-inem	iˈnɛm
 inerflexo	inerˈflekso
 ines_corporation	ˈineskorpoˈɾejʃon
 inesita	ineˈsitə
@@ -78059,7 +78025,6 @@ interchange_financial_services_corporation	intərˈʧejnsfiˈnaɲʃəlˈsɛrβis
 interchina_holdings_corporation	intərˈʧajnəˈxɔlðiŋskorpoˈɾejʃon
 inter_de_milà	ˈintərðəmiˈla
 interdigital_communications_corporation	intərˈðiʒitəlkomuniˈkejʃonskorpoˈɾejʃon
-interempresas	inteɾemˈpɾesas
 interempresas	inteɾemˈpɾesas
 interep_national_radio_sales	intəˈɾɛbˈnaʃonəlˈrejðioˈsɛjls
 interexport	intəɾəksˈpɔrt
@@ -81237,7 +81202,6 @@ lleona	ʎəˈonə
 lleopart	ʎəuˈpart
 lleó	ʎəˈo
 lleó_xiii	ʎəˈotɾədˈzɛ
-lleó_xiii	ʎəˈotɾədˈzɛ
 lleraria	ʎəɾəˈɾiə
 llerda	ˈʎerðə
 llerenas	ʎeˈɾenəs
@@ -82444,7 +82408,6 @@ maó	məˈo
 mapalo	məˈpalo
 ma	ˈma
 mapfre	ˈmapfɾe
-mapfre	ˈmapfɾe
 mapics_incorporated	ˈmapiɡziŋkorpoˈɾejtət
 mapilisan	məpiliˈzan
 maple_leaf_foods	ˈmapelˈlifˈfuʦ
@@ -83316,7 +83279,6 @@ medicina	məðiˈsinə
 medicis_pharmaceutical_corporation	mɛˈðisisfarmaˈsɛuwtikəlkorpoˈɾejʃon
 medico	meˈðiko
 mediguren	meðiˈɣuɾen
-medimmune	mɛðimˈmunə
 medimmune	mɛðimˈmunə
 medina	meˈðina
 mediña	meˈðiɲə
@@ -84598,14 +84560,11 @@ montplet	mumˈplɛt
 montraba	monˈtɾaβə
 montragull	muntɾəˈɣuʎ
 mont-ral	monˈral
-mont-ral	monˈral
-mont-ras	monˈras
 mont-ras	monˈras
 mont-real	montɾeˈal
 montreal	montɾeˈal
 mont-redon	monrəˈðon
 mont-roig	monˈrɔʧ
-mont-roig_del_camp	monˈrɔʤðəlˈkam
 mont-roig_del_camp	monˈrɔʤðəlˈkam
 montroig	munˈrɔʧ
 mont-roig	monˈrɔʧ
@@ -85384,7 +85343,6 @@ national_research_corporation	ˈnaʃonəlriˈsɛɾʧkorpoˈɾejʃon
 national_semiconductor_corporation	ˈnaʃonəlsɛmikonˈduktorkorpoˈɾejʃon
 nati	ˈnati
 natividad	nətiβiˈðað
-nato	ˈnato
 nato	ˈnato
 naturana	natuˈɾana
 natur_center_vilasar_de_mar	naˈturˈsentərβiləˈsaðəˈmar
@@ -89440,7 +89398,6 @@ prades	ˈpɾaðəs
 pradillas	pɾəˈðiʎəs
 prado	ˈpɾaðo
 praecis_pharmaceuticals	pɾaˈesisfarmaˈsɛuwtikəls
-praecis_pharmaceuticals	pɾaˈesisfarmaˈsɛuwtikəls
 praes	ˈpɾaes
 praga	ˈpɾaɣə
 prago	ˈpɾaɣo
@@ -90359,7 +90316,6 @@ radio_taxi	ˈraðiuˈtaksi
 radio_taxi_miramar	ˈraðiuˈtaksimiɾəˈmar
 radi	ˈraði
 radisys_corporation	ˈraðisiskorpoˈɾejʃon
-radisys_corporation	ˈraðisiskorpoˈɾejʃon
 rad	ˈrað
 radresa	rəˈðɾesə
 radrigales	rəðɾiˈɣales
@@ -91052,7 +91008,6 @@ rendón	renˈdon
 renée	reˈne
 renenga	rəˈnɛŋɡə
 rené	reˈne
-renfe	ˈremfe
 renfe	ˈremfe
 rengo_corporation	ˈreŋɡokorpoˈɾejʃon
 reniu	rəˈniuw
@@ -92558,7 +92513,6 @@ sáez	ˈsaes
 saez	səˈes
 safareigs	səfəˈɾɛʧ
 safeco_corporation	saˈfekokorpoˈɾejʃon
-safeco_corporation	saˈfekokorpoˈɾejʃon
 safeguard_scientifics	sejfˈɣwarsjenˈtifiks
 safenet	sejfˈnɛt
 safeway	sejvˈwej
@@ -93012,7 +92966,6 @@ sandibal	səndiˈβal
 san_diego	ˈsanˈdjeɣo
 sandig	sənˈdiɣ
 sandil	sənˈdil
-sandisk_corporation	ˈsandiskkorpoˈɾejʃon
 sandisk_corporation	ˈsandiskkorpoˈɾejʃon
 sandiu	sənˈdiuw
 sandival	səndiˈβal
@@ -95138,7 +95091,6 @@ skylark_corporation	əskiˈlarkkorpoˈɾejʃon
 sky_network_television	əsˈkiˈnɛdworkteleˈβizion
 sky_perfect_communications_incorporated	əsˈkipərˈfekomuniˈkejʃonziŋkorpoˈɾejtət
 skywest	əskiˈwest
-skywest	əskiˈwest
 skyworks_solutions	əskiˈworksoˈluʃons
 skyworth_digital_holdings	əskiˈworˈðiʒitəlˈxɔlðiŋs
 slender_you_entença	əzˈlɛndərˈjuənˈtɛnsə
@@ -95579,7 +95531,6 @@ southern_union_corporation	ˈsouwθernˈjunjoŋkorpoˈɾejʃon
 south_financial_group	ˈsouwθfiˈnanʃəlˈɣɾup
 southside_bancshares	ˈsouwθsajdˈβaŋʃɛɾs
 southtrust_corporation	ˈsouwθtɾuskorpoˈɾejʃon
-southtrust_corporation	ˈsouwθtɾuskorpoˈɾejʃon
 southwall_technologies	ˈsouwθwalteɡˈnoloʒis
 southwest_airlines_corporation	ˈsouwθwesˈtɛrlajnskorpoˈɾejʃon
 southwest_bancorp	ˈsouwθwezdˈbaŋkorp
@@ -95625,7 +95576,6 @@ speizman_industries	əsˈpejzməninˈdustɾis
 s&p_electrodomèstics	esəˈpeələktɾuðuˈmɛstiks
 spherion_corporation	əsˈpeɾioŋkorpoˈɾejʃon
 spherix	əsˈfɛɾiks
-spin	əsˈpin
 spin	əsˈpin
 spire_corporation	əsˈpajrkorpoˈɾejʃon
 spirent	əspiˈɾen
@@ -96253,7 +96203,6 @@ talbots	təlˈβɔʦ
 talecons	tələˈkons
 talen	ˈtalən
 talgo	ˈtalɣo
-talgo	ˈtalɣo
 talher	ˈtaler
 talhi	ˈtali
 taliani	təˈljani
@@ -96711,8 +96660,6 @@ telespectadors_associats_de_catalunya	tələspəktəˈðozəsusiˈaʣðəkətə�
 tele_sudeste_celular_participacoes	ˈtelesuˈðesteseluˈlarpartisipaˈsojs
 telesystem_international_wireless	teleˈsisteminterˈnaʃonəlˈswajrles
 teletech_holdings	teleˈtekˈxɔlðiŋs
-teletech_holdings	teleˈtekˈxɔlðiŋs
-televisió_de_catalunya	tələβiziˈoðəkətəˈluɲə
 televisió_de_catalunya	tələβiziˈoðəkətəˈluɲə
 television_broadcasts	teleˈβiziombɾotˈkasʦ
 televisión_española	ˈteleβisiˈonespaˈɲola
@@ -97834,7 +97781,6 @@ triquell	tɾiˈkeʎ
 triquel	tɾiˈkel
 triquero	tɾiˈkeɾo
 triquint_semiconductor	ˈtɾikinsɛmikonˈduktor
-triquint_semiconductor	ˈtɾikinsɛmikonˈduktor
 trirado	tɾiˈɾaðo
 trisach	tɾiˈzak
 trisal	tɾiˈzal
@@ -98319,7 +98265,6 @@ unciano	unˈsjano
 uncle_bens	ˈaŋkəlˈβɛns
 uned	uˈnɛt
 unesa	uˈnɛzə
-unesa	uˈnɛzə
 unesco	uˈnesko
 unespa	uˈnespa
 ungar	uŋˈɡa
@@ -98691,7 +98636,6 @@ us_oncology_incorporated	ˈjuˈɛsoŋkoˈloʒiiŋkorpoˈɾejtət
 uso	ˈuso
 us_physical_therapy_incorporated	ˈjuˈɛsˈfizikəlˈteɾapiiŋkorpoˈɾejtət
 us_postal	ˈjuˈɛsˈpostal
-us_postal	ˈjuˈɛsˈpostal
 uss_corporation_limitated	ˈjuˈɛˈsɛskorpoˈɾejʃonlimiˈtejtət
 us_search_incorporated	ˈjuˈɛsˈsɛrʧiŋkorpoˈɾejtət
 ustell	usˈteʎ
@@ -98717,7 +98661,6 @@ utrillo	uˈtɾiʎo
 utset	utˈsɛt
 utstarcom_incorporated	ˈuʦˈtarkomiŋkorpoˈɾejtət
 utu	ˈutu
-uva	ˈuˈβeˈa
 uva	ˈuˈβeˈa
 uveda	uˈβɛðə
 uverch	uˈβeɾʧ
@@ -99085,7 +99028,6 @@ vaz	ˈbas
 vazquero	bəsˈkeɾo
 vázquez_de_mella	ˈbaθkeθðeˈmeʎa
 vázquez	ˈbaskes
-vcampus_corporation	beˈkampuskorpoˈɾejʃon
 vcampus_corporation	beˈkampuskorpoˈɾejʃon
 vcf	ˈbeˈseˈefə
 vea	ˈbeə
@@ -100488,7 +100430,6 @@ workflow_management	ˈɡworkflouwˈmanəʤmən
 workstream	ˈɡworkəsˈtɾim
 world_airways	ˈɡwoˈlɛrɡwajs
 world_bowl	ˈɡwolˈβouwl
-worldcom	ˈɡwolkɔm
 worldcom	ˈɡwolkɔm
 world_corporation	ˈɡwolkorpoˈɾejʃon
 worldgate_communications	ˈɡwolɡejtkomuniˈkejʃons

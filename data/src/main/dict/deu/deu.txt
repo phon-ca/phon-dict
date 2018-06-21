@@ -32319,9 +32319,7 @@ Nordnordweste	ˌnɔʀtˌnɔʀtˈvɛstə
 Nordnordwesten	nɔʀtˈnɔʀtˈvɛstən
 Nordnordwesten	ˌnɔʀtˌnɔʀtˈvɛstən
 Nordost	nɔʀtˈʔɔst
-Nordost	nɔʀtˈʔɔst
 Nordosten	nɔʀtˈʔɔstən
-Nordostens	nɔʀtˈʔɔstəns
 Nordostens	nɔʀtˈʔɔstəns
 Nords	nɔʀʦ
 Nordsee	nɔʀtzeː
@@ -33506,7 +33504,6 @@ Pamphletist	pamfleˈtɪst
 Pamphlets	pamˈfleːʦ
 Pamphylien	pamˈfyːljən
 Pan	paːn
-Panaché	panaˈʃeː
 Panaché	panaˈʃeː
 Panade	paˈnaːdə
 Panaden	paˈnaːdən
@@ -36711,7 +36708,6 @@ Protamin	pʀotaˈmiːn
 Protasis	pʀoːtazɪs
 Protease	pʀoteˈaːzə
 Protegé	pʀoteˈʒeː
-Protegé	pʀoteˈʒeː
 Proteid	pʀoteˈʔiːt
 Protein	pʀoteˈʔiːn
 Proteinase	pʀoteiˈnaːzə
@@ -36875,7 +36871,6 @@ Präludien	pʀɛˈluːdjən
 Präludium	pʀɛˈluːdjʊm
 Prämie	pʀɛːmjə
 Prämienvereinbarung	pʀɛːmjənfɛʀˌʔaɪnbaʀʊŋ
-Prämierung	pʀɛˈmiːʀʊŋ
 Prämierung	pʀɛˈmiːʀʊŋ
 Prämiierung	pʀɛmiˈʔiːʀʊŋ
 Prämisse	pʀɛˈmɪsə
@@ -37344,7 +37339,6 @@ Quadrumane	kvadʀuˈmaːnə
 Quadrupede	kvadʀuˈpeːdə
 Quadrupeden	kvadʀuˈpeːdən
 Quadrupel	kvaˈdʀuːpəl
-Quadruplé	kadʀyˈpleː
 Quadruplé	kadʀyˈpleː
 Quai	kɛː
 Quais	kɛːs
@@ -39688,7 +39682,6 @@ Romanzen	ʀoˈmanʦən
 Romanzyklus	ʀoˈmaːnˌʦyːklʊs
 Rome	ʀoːmə
 Romeo	ʀoːmeoː
-Rommé	ʀɔmeː
 Rommé	ʀɔmeː
 Roms	ʀoːms
 Ronald	ʀoːnalt

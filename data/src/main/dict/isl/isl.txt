@@ -813,7 +813,6 @@ aleini	aːleinɪ
 aleinir	aːleinɪr
 aleinn	aːleitn̥
 Alexander	aːlɛksantɛr
-Alexander	aːlɛxsantɛr
 Alexander	aːlɛxsantɛr̥s
 Alexanders	aːlɛksanter̥s
 Alexanders	aːlɛxsantɛr̥s
@@ -1728,7 +1727,6 @@ atorku	aːtɔr̥kʏ
 atrennu	aːtrɛnʏ
 atriða	aːtrɪða
 atriði	aːtrɪðɪ
-atriðið	aːtrɪðɪð
 atriðið	aːtrɪðɪð
 atriðin	aːtrɪðɪn
 atriðinu	aːtrɪðɪnʏ
@@ -2812,9 +2810,7 @@ Aþenu	aːθɛnʏ
 Ármúlaskóla	aurmulaskouːla
 Árna	autna
 Árna	aurtna
-Árna	aurtna
 Árnadóttir	autnatouhtɪr
-Árnadóttir	aurtnatouhtɪr
 Árnadóttir	aurtnatouhtɪr
 Árnadóttir	aurtnatouhtʏr
 Árnadóttur	autnatouhtʏr
@@ -2833,7 +2829,6 @@ Aþenu	aːθɛnʏ
 Árnesinga	aurnɛsiŋka
 Árnessýslu	aurnɛsistlʏ
 Árni	autnɪ
-Árni	aurtnɪ
 Árni	aurtnɪ
 Árný	aurni
 áróðri	auːrouðrɪ
@@ -3828,7 +3823,6 @@ Bárðarson	paurðarsɔːn
 Bárðarson	paurðasɔːn
 Bárði	paurðɪ
 Bárður	paurðʏr
-Bárður	paurðʏr
 báru	pauːrʏ
 Bárugötu	pauːrʏkœːtʏ
 bárujárni	pauːrʏjautnɪ
@@ -4097,7 +4091,6 @@ Berlínarbúar	pɛrlinarpuːar
 Berlínarmúrinn	pɛrlinarmuːrɪn
 Berndsen	pɛrntsɛn
 Bernharð	pɛrnharð
-Bernharðsson	pɛrnharðsɔːn
 Bernharðsson	pɛrnharðsɔːnar
 Bernharður	pɛrnharðʏr
 Bernódusson	pɛrnoutʏsɔːn
@@ -5968,7 +5961,6 @@ brúnleitt	prunleiht
 brúnn	prutn̥
 brúnni	prutnɪ
 brúnni	prunɪ
-brúnni	prunɪ
 brúnt	prun̥t
 brúnt	prunt
 brúnu	pruːnʏ
@@ -6699,7 +6691,6 @@ börkur	pœr̥kʏr
 börmuðu	pœrmʏðʏ
 börmum	pœrmʏm
 börn	pœtn̥
-börn	pœtn̥
 börnin	pœtnɪn
 börnin	pœrtnɪn
 börnum	pœtnʏm
@@ -7161,7 +7152,6 @@ desert	tɛːsɛr̥t
 dett	tɛht
 detta	tɛhta
 detti	tɛhtɪ
-Dettifoss	tɛhtɪfɔs
 Dettifoss	tɛhtɪfɔsɪ
 Dettifossi	tɛhtɪfɔsɪ
 dettur	tɛhtʏr
@@ -8130,7 +8120,6 @@ Dönum	tœːnʏm
 döprum	tœːprʏm
 döpur	tœːpʏr
 dösuð	tœːsʏð
-dösuð	tœːsʏð
 E	ɛː
 EB	ɛː pjɛː
 Ebba	ɛpa
@@ -8769,7 +8758,6 @@ einkaframkvæmd	eiŋkaframkvaimt
 einkafyrirtæki	eiŋ̊kafɪːrɪrtaiːcɪ
 einkafyrirtæki	eiŋkafɪːrɪrtaiːcɪ
 einkafyrirtækja	eiŋ̊kafɪːrɪrtaiːca
-einkafyrirtækja	eiŋ̊kafɪːrɪrtaiːca
 einkafyrirtækja	eiŋkafɪːrɪrtaiːca
 einkafyrirtækjum	eiŋ̊kafɪːrɪrtaiːcʏm
 einkafyrirtækjum	eiŋkafɪːrɪrtaiːcʏm
@@ -9056,7 +9044,6 @@ eitruð	eiːtrʏð
 eitruðu	eiːtrʏðʏ
 eitrunarupplýsingastöð	eiːtrʏnarʏhplisiŋkastœːð
 eitt	eiht
-eitthvað	eihkvað
 eitthvað	eihkvað
 eitthvað	eihxvað
 eitthvert	eihkvɛr̥t
@@ -9976,7 +9963,6 @@ Eyþóri	eiːθourɪ
 Eyþórs	eiːθour̥s
 Eyþórsdóttir	eiːθour̥stouhtɪr
 Eyþórsson	eiːθour̥sɔːn
-Eyþórsson	eiːθour̥sɔːn
 Eþíópíu	ɛːθijoupijʏ
 é	jɛː
 ég	jɛːɣ
@@ -9987,7 +9973,6 @@ Eþíópíu	ɛːθijoupijʏ
 étið	jɛːtɪð
 étin	jɛːtɪn
 étinn	jɛːtɪn
-étur	jɛːtʏr
 étur	jɛːtʏr
 F	ɛf
 faðerni	faːðɛrtnɪ
@@ -10189,7 +10174,6 @@ Fannars	fanars
 Fannborg	fanpɔrk
 Fanney	fanei
 Fanneyju	faneijʏ
-fannst	fanst
 fannst	fanst
 fannstu	fanstʏ
 Fanný	fani
@@ -10454,7 +10438,6 @@ fáleikum	fauːleikʏm
 fálka	faul̥ka
 fálka	faulka
 Fálkagötu	faul̥kakœːtʏ
-Fálkagötu	faul̥kakœːtʏ
 fálkann	faul̥kan
 fálkann	faulkan
 fálki	faul̥cɪ
@@ -10495,7 +10478,6 @@ fáránlegum	fauːraunlɛɣʏm
 fáránlegur	fauːraunlɛɣʏr
 fáránleika	fauːraunleika
 fárra	faura
-fársjúk	faur̥sjuk
 fársjúk	faur̥sjuk
 fárveik	faurveik
 fárveikur	faurveikʏr
@@ -10624,7 +10606,6 @@ Felixson	fɛːliksɔn
 Felixson	fɛːlɪxsɔːn
 fell	fɛtl̥
 fella	fɛtla
-Fellabæ	fɛtlapai
 Fellabæ	fɛtlapaiː
 felld	fɛlt
 felldar	fɛltar
@@ -10647,7 +10628,6 @@ fellt	fɛl̥t
 fellur	fɛtlʏr
 felmtruð	fɛl̥m̥trʏð
 felmtruð	fɛlmtrʏð
-felst	fɛlst
 felst	fɛlst
 feluleik	fɛːlʏleiːk
 felum	fɛːlʏm
@@ -10745,7 +10725,6 @@ ferðaskrifstofunnar	fɛrðaskrɪfstɔvʏnar
 ferðaskrifstofunni	fɛrðaskrɪfstɔvʏnɪ
 ferðaskrifstofur	fɛrðaskrɪfstɔvʏr
 ferðast	fɛrðast
-ferðast	fɛrðast
 ferðataskan	fɛrðataskan
 ferðatösku	fɛrðatœskʏ
 ferðatöskuna	fɛrðatœskʏna
@@ -10756,7 +10735,6 @@ ferðaþjónustuna	fɛrðaθjouːnʏstʏna
 ferðaþjónustunnar	fɛrðaθjouːnʏstʏnar
 ferðaþjónustunni	fɛrðaθjouːnʏstʏnɪ
 ferðbúinn	fɛrðpuin
-ferðin	fɛrðɪn
 ferðin	fɛrðɪn
 ferðina	fɛrðɪna
 ferðinni	fɛrðɪnɪ
@@ -10813,7 +10791,6 @@ fermingarveislum	fɛrmiŋkarveistlʏm
 fermingin	fɛrmiɲcɪn
 fermingu	fɛrmiŋkʏ
 ferminguna	fɛrmiŋkʏna
-fern	fɛrtn
 fern	fɛrtn̥
 ferna	fɛrtna
 fernar	fɛrtnar
@@ -10835,7 +10812,6 @@ ferskt	fɛr̥st
 fersku	fɛr̥skʏ
 ferskum	fɛr̥skʏm
 ferskur	fɛr̥skʏr
-ferst	fɛr̥st
 ferst	fɛr̥st
 fertug	fɛr̥tʏɣ
 fertugasta	fɛr̥tʏɣasta
@@ -10878,7 +10854,6 @@ féð	fjɛːð
 fékk	fjɛhk
 fékkst	fjɛxst
 fékkstu	fjɛkstʏ
-fékkstu	fjɛxstʏ
 fékkstu	fjɛxstʏ
 Félag	fjɛːlaɣ
 Félaga	fjɛːlaɣa
@@ -10968,7 +10943,6 @@ félagsþjónustan	fjɛːlaxsθjouːnʏstan
 félagsþjónustu	fjɛːlaxsθjouːnʏstʏ
 félagsþjónustunnar	fjɛːlaxsθjouːnʏstʏnar
 félagsþjónustunni	fjɛːlaxsθjouːnʏstʏnɪ
-féll	fjɛtl
 féll	fjɛtl̥
 félli	fjɛtlɪ
 féllist	fjɛtlɪst
@@ -11005,7 +10979,6 @@ Filippseyjum	fɪːlɪpseiːjʏm
 Filippseyjum	fɪːlɪpseijʏm
 Filippseyjum	fɪːlɪhpseijʏm
 Filippusdóttur	fɪːlɪpʏstouhtʏr
-Filippusdóttur	fɪːlɪpʏstouhtʏr
 filma	fɪlma
 filman	fɪlma
 filmu	fɪlmʏ
@@ -11040,14 +11013,10 @@ fimmtándu	fɪmtauntʏ
 fimmti	fɪm̥tɪ
 fimmti	fɪmtɪ
 fimmtíu	fɪm̥tijʏ
-fimmtíu	fɪm̥tijʏ
-fimmtíu	fɪmtijʏ
 fimmtíu	fɪmtijʏ
 fimmtíukall	fɪm̥tijʏkatl̥
 fimmtíukall	fɪmtijʏkatl̥
 fimmtu	fɪm̥tʏ
-fimmtu	fɪmtʏ
-fimmtu	fɪmtʏ
 fimmtu	fɪmtʏ
 fimmtudag	fɪm̥tʏtaːɣ
 fimmtudag	fɪm̥tʏtaɣ
@@ -11258,7 +11227,6 @@ fídusar	fiːtʏsar
 fídusum	fiːtʏsʏm
 fífil	fiːvɪl
 fífill	fiːvɪtl̥
-fífl	fipl
 fífl	fipl̥
 fíflalæti	fiplalaiːtɪ
 fíflar	fiplar
@@ -11611,7 +11579,6 @@ fjórtándu	fjour̥tauntʏ
 fjórum	fjouːrʏm
 fjós	fjouːs
 fjósabuxur	fjouːsapʏksʏr
-fjósabuxur	fjouːsapʏksʏr
 fjósabuxur	fjouːsapʏxsʏr
 fjóshaugurinn	fjouːshœyɣʏrɪn
 fjósi	fjouːsɪ
@@ -11678,7 +11645,6 @@ fjölgunar	fjœlkʏnar
 fjölgunin	fjœlkʏnɪn
 fjölhæfur	fjœːlhaivʏr
 fjölina	fjœːlɪna
-fjöll	fjœtl
 fjöll	fjœtl̥
 fjöllin	fjœtlɪn
 fjölluðu	fjœtlʏðʏ
@@ -12224,7 +12190,6 @@ flutningsstyrk	flʏhtniŋstɪr̥k
 flutningum	flʏhtniŋkʏm
 flutningur	flʏhtniŋkʏr
 flutningurinn	flʏhtniŋkʏrɪn
-flutt	flʏht
 flutt	flʏht
 fluttar	flʏhtar
 flutti	flʏhtɪ
@@ -13042,7 +13007,6 @@ framsóknarmanna	framsouhknarmana
 framsóknarmenn	framsouhknarmɛn
 framstæðar	framstaiðar
 framstæðir	framstaiðɪr
-framstæðir	framstaiðɪr
 framsýni	framsinɪ
 framsýnn	framsitn̥
 framsækið	framsaicɪð
@@ -13168,7 +13132,6 @@ frátöldum	frauːtœltʏm
 frávik	frauːvɪk
 frávita	frauːvɪta
 freðnar	frɛðnar
-fregn	frɛkn
 fregn	frɛkn̥
 fregna	frɛkna
 fregnað	frɛknað
@@ -13371,7 +13334,6 @@ Friðrikssyni	frɪðrɪksɪːnɪ
 friðs	frɪðs
 friðsamlega	frɪðsamlɛɣa
 friðsamlegasta	frɪðsamlɛɣasta
-friðsamlegasta	frɪðsamlɛɣasta
 friðsamlegum	frɪðsamlɛɣʏm
 friðsamt	frɪðsam̥t
 friðsamt	frɪðsamt
@@ -13391,7 +13353,6 @@ Friðþjófi	frɪθjouvɪ
 Friðþjófsson	frɪθjoufsɔːn
 Friðþjófsstöðum	frɪθjoufstœːðʏm
 Friðþjófur	frɪθjouvʏr
-Frikka	frɪhka
 Frikka	frɪhka
 frillu	frɪtlʏ
 frí	friː
@@ -13682,7 +13643,6 @@ frönsku	frœnskʏ
 frönskum	frœnskʏm
 FSA	ɛf ɛs aː
 fuðraði	fʏðraðɪ
-fugl	fʏkl
 fugl	fʏkl̥
 fugla	fʏkla
 fuglalíf	fʏklaliːv
@@ -13701,7 +13661,6 @@ fuglinum	fʏklɪnʏm
 fuglum	fʏklʏm
 fuglunum	fʏklɔnʏm
 fuku	fʏːkʏ
-full	fʏtl
 full	fʏtl̥
 fulla	fʏtla
 fullan	fʏtlan
@@ -13795,7 +13754,6 @@ fullyrðingu	fʏtlɪrðiŋkʏ
 fullyrðingum	fʏtlɪrðiŋkʏm
 fullyrðir	fʏtlɪrðɪr
 fullyrt	fʏtlɪr̥t
-fullyrti	fʏtl̥ɪr̥tɪ
 fullyrti	fʏtl̥ɪr̥tɪ
 fullyrti	fʏtlɪr̥tɪ
 fullyrtu	fʏtlɪr̥tʏ
@@ -14341,7 +14299,6 @@ föggum	fœkʏm
 fögnin	fœknɪn
 fögnuð	fœknʏð
 fögnuði	fœknʏðɪ
-fögnuðu	fœknʏðʏ
 fögnuðu	fœknʏðʏr
 fögnuður	fœknʏðʏr
 fögnum	fœknʏm
@@ -14399,7 +14356,6 @@ förnum	fœrtnʏm
 förum	fœːrʏm
 föruneyti	fœːrʏneiːtɪ
 föst	fœst
-föst	fœst
 föstu	fœstʏ
 föstudag	fœstʏtaːɣ
 föstudag	fœstʏtaːx
@@ -14436,7 +14392,6 @@ fötuna	fœːtʏna
 fötunni	fœːtʏnɪ
 fötunum	fœːtɔnʏm
 fötur	fœːtʏr
-föturnar	fœːtʏtnar
 föturnar	fœːtʏtnar
 G	cɛː
 gabba	kapa
@@ -14592,7 +14547,6 @@ galtóm	kaltoum
 galtómur	kaltoumʏr
 gamaldags	kaːmaltaxs
 gamalkunna	kaːmalkʏna
-gamall	kaːmatl
 gamall	kaːmatl̥
 gamalla	kaːmatla
 gamallar	kaːmatlar
@@ -14890,7 +14844,6 @@ gefum	cɛːvʏm
 gefur	cɛːvʏr
 geggjaður	cɛcaðʏr
 geggjuð	cɛcʏð
-gegn	cɛkn
 gegn	cɛkn̥
 gegna	cɛkna
 gegndi	ceiŋtɪ
@@ -15049,7 +15002,6 @@ gerð	cɛrð
 gerða	cɛrða
 Gerðahreppi	cɛrðar̥ɛhpɪ
 Gerðahrepps	cɛrðar̥ɛhps
-Gerðahreppur	cɛrðar̥ɛhpʏr
 Gerðahreppur	cɛrðar̥ɛhpʏr
 gerðar	cɛrðar
 Gerðarsafn	cɛrðasapn̥
@@ -15728,7 +15680,6 @@ Gnoðarvogi	knɔːðavɔːjɪ
 Gnoðarvogi	knɔːðavɔiːjɪ
 gnótt	knouht
 Gnúpur	knuːpʏr
-Gnúpverjahreppi	knuːpvɛrjar̥ɛhp
 Gnúpverjahreppi	knuːpvɛrjar̥ɛhpɪ
 Gnúpverjahreppi	knupvɛrjar̥ɛhpɪ
 Gnúpverjahrepps	knuːpvɛrjar̥ɛhps
@@ -16956,7 +16907,6 @@ göfugu	kœːvʏɣʏ
 göfugum	kœːvʏɣʏm
 göfugur	kœːvʏɣʏr
 gögguðu	kœkʏðʏ
-gögn	kœkn
 gögn	kœkn̥
 gögnin	kœknɪn
 gögnum	kœknʏm
@@ -18538,7 +18488,6 @@ heimsóknar	heimsouhknar
 heimsóknarinnar	heimsouhknarɪnar
 heimsóknartímar	heimsouhknartiːmar
 heimsóknartími	heimsouhknartiːmɪ
-heimsóknin	heimsouhknɪn
 heimsóknin	heimsouhknɪn
 heimsóknina	heimsouhknɪna
 heimsókninni	heimsouhknɪnɪ
@@ -22300,7 +22249,6 @@ hött	hœht
 höttunum	hœhtɔnʏm
 höttur	hœhtʏr
 hötuðu	hœːtʏðʏ
-hötuðu	hœːtʏðʏ
 I	ɪː
 IBM	ɪː pjɛː ɛm
 Ibsen	ipsɛn
@@ -22848,7 +22796,6 @@ Istanbul	ɪstanpuːl
 ískalt	iːskal̥t
 ískeila	iːsceila
 ískorist	iːskɔrɪst
-ískorist	iːskɔrɪst
 ískrandi	iskrantɪ
 ískyggilega	iːscɪcɪlɛɣa
 ísköld	iːskœlt
@@ -23052,7 +22999,6 @@ Istanbul	ɪstanpuːl
 íþyngdi	iːθiŋtɪ
 íþyngja	iːθiɲca
 íþyngjandi	iːθiɲcantɪ
-Íþöku	iːθœkʏ
 Íþöku	iːθœkʏ
 J	jɔːð
 jaðar	jaːðar
@@ -23508,7 +23454,6 @@ Jörundur	jœːrʏntʏr
 jötu	jœːtʏ
 jötuna	jœːtʏna
 jötunni	jœːtʏnɪ
-jötunni	jœːtʏnɪ
 k	kauː
 Ka	kaː
 KA	kauː aː
@@ -23770,7 +23715,6 @@ karfan	karvan
 kari	kaːrɪ
 karið	kaːrɪð
 karítas	kaːritas
-karl	katl
 karl	katl̥
 Karl	kartl
 karl	kartl̥
@@ -23801,12 +23745,9 @@ karlfjandanum	kartlfjantanʏm
 karlgreyið	katl̥kreijɪð
 karlgreyið	kartl̥kreijɪð
 karli	katlɪ
-karli	katlɪ
 karli	kartlɪ
 Karli	kartlɪ
 karlinn	katlɪn
-karlinn	katlɪn
-karlinn	kartlɪn
 karlinn	kartlɪn
 karlinum	katlɪnʏm
 karlinum	kartlɪnʏm
@@ -23859,11 +23800,9 @@ karlmönnunum	kartl̥mœnɔnʏm
 Karls	kals
 Karls	kartl̥s
 Karlsdóttir	kalstouhtɪr
-Karlsdóttir	kalstouhtɪr
 Karlsdóttir	kartl̥stouhtɪr
 Karlsdóttir	kartlstouhtɪr
 Karlsdóttir	karlstouhtɪr
-Karlsdóttur	kalstouhtʏr
 Karlsdóttur	kalstouhtʏr
 Karlsdóttur	kartl̥stouhtʏr
 Karlsdóttur	kartlstouhtʏr
@@ -23871,16 +23810,13 @@ Karlsdóttur	karlstouhtʏr
 karlsins	kalsɪns
 karlsins	kartl̥sɪns
 Karlsson	kalsɔn
-Karlsson	kalsɔn
 Karlsson	kartl̥sɔn
 Karlsson	kartlsɔn
 Karlsson	karlsɔn
 Karlssonar	kalsɔnar
-Karlssonar	kalsɔnar
 Karlssonar	kartl̥sɔnar
 Karlssonar	kartlsɔnar
 Karlssonar	karlsɔnar
-Karlssyni	kalsɪnɪ
 Karlssyni	kalsɪnɪ
 Karlssyni	kartl̥sɪnɪ
 Karlssyni	kartlsɪnɪ
@@ -23988,7 +23924,6 @@ kaupmaðurinn	kœyhpmaðʏrɪn
 kaupmanna	kœyhpmana
 Kaupmannahafnar	kœyhpmanahapnar
 Kaupmannahafnarháskóla	kœyhpmanahapnarhauːskoula
-Kaupmannahöfn	kœyhpmanahœpn
 Kaupmannahöfn	kœyhpmanahœpn̥
 kaupmanni	kœyhpmanɪ
 kaupmanninum	kœyhpmanɪnʏm
@@ -24356,7 +24291,6 @@ keyptu	ceiftʏ
 keyptum	ceiftʏm
 keyptur	ceiftʏr
 keyra	ceiːra
-keyra	ceiːra
 keyrð	ceirð
 keyrði	ceirðɪ
 keyrðir	ceirðɪr
@@ -24401,7 +24335,6 @@ kinkar	ciŋkar
 kinkuðu	ciŋ̊kʏðʏ
 kinkuðu	ciŋkʏðʏ
 kinkuðum	ciŋ̊kʏðʏm
-kinkuðum	ciŋkʏðʏm
 kinkuðum	ciŋkʏðʏm
 kinn	cɪn
 kinnar	cɪnar
@@ -24810,7 +24743,6 @@ klefa	klɛːva
 klefann	klɛːvan
 klefinn	klɛːvɪn
 klefum	klɛːvʏm
-Kleifarvatn	kleiːvarvahtn
 Kleifarvatn	kleiːvarvahtn̥
 Kleifarvatni	kleiːvarvahtnɪ
 kleift	kleift
@@ -24924,7 +24856,6 @@ klukkuna	klʏhkʏna
 klukkunni	klʏhkʏnɪ
 klukkur	klʏhkʏr
 klukkurnar	klʏhkʏtnar
-klukkustund	klʏhkʏstʏnt
 klukkustund	klʏhkʏstʏnt
 klukkustunda	klʏhkʏstʏnta
 klukkustundar	klʏhkʏstʏntar
@@ -25233,9 +25164,7 @@ Konráðssonar	kɔnrauðsɔːnar
 konsert	kɔnsɛr̥t
 konsertinn	kɔnsɛr̥tɪn
 konsúllinn	kɔnsutl̥ɪn
-kontínental	kɔn̥tinɛn̥tal
 kontínental	kɔn̥tinɛn̥tal̥
-kontínental	kɔntinɛntal
 kontínental	kɔntinɛntal̥
 kontór	kɔn̥tour
 kontór	kɔntour
@@ -25364,7 +25293,6 @@ kotru	kɔːtrʏ
 kóda	kouːta
 kófið	kouːvɪð
 kófsveittur	kouːsveihtʏr
-kók	kouːk
 kók	kouːk
 kókaín	kouːka in
 kókaíni	kouːka inɪ
@@ -26588,7 +26516,6 @@ köttinn	kœhtɪn
 köttum	kœhtʏm
 köttur	kœhtʏr
 kötturinn	kœhtʏrɪn
-kötturinn	kœhtʏrɪn
 L	ɛtl̥
 la	laː
 labba	lapa
@@ -26964,7 +26891,6 @@ langan	laŋkan
 langan	lauŋkan
 Langanes	laŋkanɛːs
 Langanes	lauŋkanɛːs
-Langanesi	laŋkanɛːs
 Langanesi	laŋkanɛːsɪ
 Langanesi	lauŋkanɛːsɪ
 langanir	laŋkanɪr
@@ -27207,7 +27133,6 @@ Laugarnesvegi	lœyːɣanɛːsveiːjɪ
 Laugarnesvegi	lœyːɣanɛːsveijɪ
 laugarnesvegi	lœyːɣarnɛsveijɪ
 laugarvatn	lœyːɣarvahtn̥
-Laugarvatn	lœyːɣavahtn
 Laugarvatn	lœyːɣavahtn̥
 laugarvatni	lœyːɣarvahtnɪ
 Laugarvatni	lœyːɣavahtnɪ
@@ -27623,7 +27548,6 @@ leifturhraða	leiftʏr̥aːða
 leifturs	leiftʏr̥s
 leiftursmenn	leiftʏr̥smɛn
 leiftursnöggt	leiftʏrstnœxt
-leiftursókn	leiftʏrsouhkn
 leiftursókn	leiftʏrsouhkn̥
 leiftursýn	leiftʏrsiːn
 leifum	leiːvʏm
@@ -27991,7 +27915,6 @@ lestarinnar	lɛstarɪnar
 lestarklefa	lɛstarklɛːva
 lestarklefanum	lɛstarklɛːnanʏm
 lestarnar	lɛstartnar
-lestarpall	lɛstarpatl
 lestarpall	lɛstarpatl̥
 lestarstjórinn	lɛstarstjouːrɪn
 lestarstöð	lɛstarstœð
@@ -28321,7 +28244,6 @@ lista	lɪsta
 listafólk	lɪstafoul̥k
 listafólk	lɪstafoulk
 listafólki	lɪstafoul̥cɪ
-listafólki	lɪstafoul̥cɪ
 listafund	lɪstafʏnt
 listaháskóla	lɪstahauːskoula
 listaháskólann	lɪstahauːskoulan
@@ -28354,7 +28276,6 @@ listans	lɪstans
 listanum	lɪstanʏm
 listar	lɪstar
 listarinnar	lɪstarɪnar
-Listasafn	lɪstasapn
 Listasafn	lɪstasapn̥
 listasafni	lɪstasapnɪ
 listasafnið	lɪstasapnɪð
@@ -28629,7 +28550,6 @@ líkleg	liːklɛɣ
 líkleg	lihklɛɣ
 líklega	liːklɛɣa
 líklega	lihklɛɣa
-líklega	lihklɛɣa
 líklegan	liːklɛɣan
 líklegan	lihklɛɣan
 líklegar	liːklɛɣar
@@ -28708,7 +28628,6 @@ Lísu	liːsa
 líta	liːta
 lítið	liːtɪð
 lítil	liːtɪl
-lítill	liːtɪtl
 lítill	liːtɪtl̥
 lítilla	liːtɪtla
 lítillar	liːtɪtlar
@@ -28980,7 +28899,6 @@ Logason	lɔːɣasɔːn
 loggaði	lɔkaðɪ
 Logi	lɔijɪ
 logið	lɔknɪð
-logn	lɔkn
 logn	lɔkn̥
 lognaðist	lɔknaðɪst
 lognast	lɔknast
@@ -29114,10 +29032,8 @@ lófafylli	louːafɪtlɪ
 lófana	louːana
 lófann	louːan
 lófann	louːvan
-lófann	louːvan
 lófann	louan
 lófanum	louːanʏm
-lófanum	louːvanʏm
 lófanum	louːvanʏm
 lófanum	louanʏm
 lófarnir	louːatnɪr
@@ -29274,7 +29190,6 @@ lygin	liːjɪn
 lygina	liːjɪna
 lyginnar	liːjɪnar
 lyginni	liːjɪnɪ
-lygn	lɪkn
 lygn	lɪkn̥
 lygna	lɪkna
 lygnan	lɪknan
@@ -30184,7 +30099,6 @@ marsmánuði	mar̥smaunʏðɪ
 Marta	mar̥ta
 Martein	mar̥tein
 Marteini	mar̥teinɪ
-Marteinn	mar̥teitn
 Marteinn	mar̥teitn̥
 Marteins	mar̥teins
 Marteinsdóttir	mar̥teinstouhtɪr
@@ -31182,7 +31096,6 @@ mikið	mɪːcɪð
 mikil	mɪːkɪl
 mikil	mɪːcɪl
 mikilfenglegu	mɪːcɪlfeiŋklɛɣʏ
-mikill	mɪːkɪtl
 mikill	mɪːkɪtl̥
 mikill	mɪːcɪtl̥
 mikilla	mɪːkɪtla
@@ -31278,7 +31191,6 @@ milljónasti	mɪljounastɪ
 milljónir	mɪljounɪr
 milljónum	mɪljounʏm
 milljónustu	mɪljounʏstʏ
-milljörðum	mɪljœrðʏm
 milljörðum	mɪljœrðʏm
 millum	mɪtlʏm
 millum	mɪlʏm
@@ -32217,7 +32129,6 @@ mýrlendi	miːrlɛntɪ
 Mýrum	miːrʏm
 mýs	miːs
 mýsnar	mistnar
-Mývatn	miːvahtn
 Mývatn	miːvahtn̥
 Mývatni	miːvahtnɪ
 Mývatns	miːvas
@@ -32371,7 +32282,6 @@ naflann	naplan
 naflanum	naplanʏm
 naflaskoðun	naplaskɔːðʏn
 naflastrenginn	naplastreiɲcɪn
-nafn	napn
 nafn	napn̥
 nafna	napna
 nafnbót	napn̥pout
@@ -32977,7 +32887,6 @@ niðurstaða	nɪːðʏrstaːða
 niðurstaðan	nɪːðʏrstaːðan
 niðurstaðna	nɪːðʏrstaðna
 niðurstöðu	nɪːðʏrstœːðʏ
-niðurstöðu	nɪːðʏrstœːðʏ
 niðurstöðum	nɪːðʏrstœːðʏm
 niðurstöðuna	nɪːðʏrstœːðʏna
 niðurstöðunni	nɪːðʏrstœːðʏnɪ
@@ -33074,7 +32983,6 @@ nokkru	nɔhkrʏ
 nokkrum	nɔhkrʏm
 nokkuð	nɔhkʏð
 nokkur	nɔhkʏr
-nokkurn	nɔhkʏtn
 nokkurn	nɔhkʏtn̥
 nokkurn	nɔhkʏrtn̥
 nokkurra	nɔhkʏra
@@ -33473,7 +33381,6 @@ nýtingin	niːtiɲcɪn
 nýtingu	niːtiŋkʏ
 nýtir	nitɪr
 nýtist	niːtɪst
-nýtt	niːht
 nýtt	niːht
 nýtt	niht
 nýttar	nihtar
@@ -34517,7 +34424,6 @@ Oz	ɔːs
 ómegin	ouːmeijɪn
 ómeiddur	ouːmeitʏr
 ómennsku	ouːmɛnskʏ
-ómennsku	ouːmɛnskʏ
 ómenntaður	ouːmɛn̥taðʏr
 ómenntaður	ouːmɛntaðʏr
 ómerk	ouːmɛr̥k
@@ -35154,7 +35060,6 @@ Pála	pauːla
 Páli	pauːlɪ
 Pálína	pauːlina
 Pálínu	pauːlinʏ
-Páll	pautl
 Páll	pautl̥
 pálma	paulma
 Pálmadóttir	paulmatouhtɪr
@@ -35592,7 +35497,6 @@ pólitískrar	pouːlɪtiskrar
 pólitískri	pouːlɪtiskrɪ
 pólitísks	pouːlɪtisks
 pólitískt	pouːlɪtist
-pólitískt	pouːlɪtist
 pólitísku	pouːlɪtiskʏ
 pólitískum	pouːlɪtiskʏm
 pólitískur	pouːlɪtiskʏr
@@ -35807,7 +35711,6 @@ puða	pʏːða
 puðað	pʏːðað
 pukra	pʏːkra
 pukurástand	pʏːkʏraustant
-pukurástand	pʏːkʏraustant
 pukurfundur	pʏːkʏrfʏntʏr
 pulsa	pʏlsa
 pulsupakka	pʏlsʏpahka
@@ -35817,7 +35720,6 @@ pumpuna	pʏmpʏna
 pund	pʏnt
 punda	pʏnta
 pundin	pʏntɪn
-punduðu	pʏnt
 punduðu	pʏntʏðʏ
 pundum	pʏntʏm
 pundunum	pʏntɔnʏm
@@ -36014,7 +35916,6 @@ rakar	raːkar
 rakara	raːkara
 rakarinn	raːkarɪn
 Rakel	raːkɛl
-Rakel	raːkɛl
 Rakelar	raːkɛlar
 raki	raːcɪ
 rakið	raːcɪð
@@ -36188,7 +36089,6 @@ rauðar	rœyːðar
 Rauðarárstíg	rœyːðaraurstiːɣ
 rauðari	rœyːðarɪ
 Rauðasandi	rœyːðasantɪ
-Rauðavatn	rœyːðavahtn
 Rauðavatn	rœyːðavahtn̥
 rauðbirkinn	rœyðpɪr̥cɪn
 rauðbirknum	rœyːðpɪr̥knʏm
@@ -36224,7 +36124,6 @@ rauðvíni	rœyðvinɪ
 rauðvínsflösku	rœyðvinsflœskʏ
 rauf	rœyːv
 Raufarhafnar	rœyːvarhapnar
-Raufarhöfn	rœyːvarhœpn
 Raufarhöfn	rœyːvarhœpn̥
 Raufarsel	rœyːvarsɛːl
 raufina	rœyːvɪna
@@ -36442,7 +36341,6 @@ refsinga	rɛfsiŋka
 refsingar	rɛfsiŋkar
 refsingarskyni	rɛfsiŋkarscɪːnɪ
 refsingin	rɛfsiɲcɪn
-refsingu	rɛfsɪnk
 refsingu	rɛfsɪnkʏ
 refsingum	rɛfsiŋkʏm
 refsivert	rɛfsɪvɛr̥t
@@ -37067,7 +36965,6 @@ risastóra	rɪːsastouːra
 risastóran	rɪːsastouːran
 risastórar	rɪːsastouːrar
 risastórir	rɪːsastouːrɪr
-risastórir	rɪːsastouːrɪr
 risastórt	rɪːsastour̥t
 risastóru	rɪːsastouːrʏ
 risastórum	rɪːsastouːrʏm
@@ -37496,7 +37393,6 @@ rótuðu	rouːtʏðʏ
 rótum	rouːtʏm
 ruddalega	rʏtalɛɣa
 ruddalegustu	rʏtalɛɣʏstʏ
-ruddalegustu	rʏtalɛɣʏstʏ
 ruddi	rʏtɪ
 ruddu	rʏtʏ
 ruðst	rʏðst
@@ -37915,7 +37811,6 @@ röskun	rœskʏn
 Röskva	rœskva
 Röskvu	rœskvʏ
 rötuðu	rœːtʏðʏ
-rötuðu	rœːtʏðʏ
 S	ɛs
 Saba	saːpa
 Sabína	saːpina
@@ -37926,7 +37821,6 @@ Safamýri	saːvamiːrɪ
 safi	saːvɪ
 safn	sapn̥
 safna	sapna
-safnað	sapnað
 safnað	sapnaðɪ
 safnaðarheimili	sapnaðarheiːmɪlɪ
 safnaðarheimilið	sapnaðarheiːmɪlɪð
@@ -38154,7 +38048,6 @@ sameiginlegt	saːmeijɪnlɛxt
 sameiginlegu	saːmeijɪnlɛɣʏ
 sameiginlegum	saːmeijɪnlɛɣʏm
 sameiginlegur	saːmeijɪnlɛɣʏr
-sameign	saːmeikn
 sameign	saːmeikn̥
 sameina	saːmeina
 sameinað	saːmeinað
@@ -38686,8 +38579,6 @@ sast	sast
 sat	saːt
 Satan	saːtan
 satt	saht
-satt	saht
-satúrnusarhring	saːturnʏsar̥iŋk
 satúrnusarhring	saːturnʏsar̥iŋk
 sauð	sœyːð
 sauðahjörð	sœyːðaçœrð
@@ -38706,7 +38597,6 @@ sauðfjárbændur	sœyðfjaurpaintʏr
 sauðfjárrækt	sœyðfjauraixt
 sauðir	sœyːðɪr
 sauðkindin	sœyðcɪntɪn
-Sauðlauksdal	sœyðlœykstal
 Sauðlauksdal	sœyðlœykstal
 Sauðlauksdal	sœyðlœyxstal
 sauður	sœyːðʏr
@@ -39142,7 +39032,6 @@ senur	sɛːnʏr
 Seoul	sɛːul
 Seoul	souːl
 september	sɛftɛmpɛr
-september	sɛftɛmpɛr
 Serba	sɛrpa
 Serbar	sɛrpar
 Serbíu	sɛrpijʏ
@@ -39527,17 +39416,13 @@ Sigurbjörns	sɪːɣʏrpjœr̥s
 Sigurbjörnsdóttir	sɪːɣʏrpjœr̥stouhtɪr
 Sigurbjörnsdóttir	sɪːɣʏrpjœrstouhtɪr
 Sigurbjörnsdóttir	sɪːɣʏrpjœstouhtɪr
-Sigurbjörnsdóttir	sɪːɣʏrpjœstouhtɪr
 Sigurbjörnsson	sɪːɣʏrpjœr̥sɔːn
 Sigurbjörnsson	sɪːɣʏrpjœrsɔːn
-Sigurbjörnsson	sɪːɣʏrpjœsɔːn
 Sigurbjörnsson	sɪːɣʏrpjœsɔːn
 Sigurbjörnssonar	sɪːɣʏrpjœr̥sɔːnar
 Sigurbjörnssonar	sɪːɣʏrpjœrsɔːnar
 Sigurbjörnssonar	sɪːɣʏrpjœsɔːnar
-Sigurbjörnssonar	sɪːɣʏrpjœsɔːnar
 Sigurbjörnssyni	sɪːɣʏrpjœrsɪːnɪ
-Sigurbjörnssyni	sɪːɣʏrpjœsɪːnɪ
 Sigurbjörnssyni	sɪːɣʏrpjœsɪːnɪ
 Sigurborg	sɪːɣʏrpɔrk
 Sigurð	sɪːɣʏrð
@@ -40421,7 +40306,6 @@ skallaði	skatlaðɪ
 Skallagrími	skatlakriːmɪ
 Skallagríms	skatlakrims
 Skallagrímsson	skatlakrimsɔːn
-Skallagrímssonar	skatlakrimsɔːn
 Skallagrímssonar	skatlakrimsɔːnar
 Skallagrímur	skatlakriːmʏr
 skallann	skatlan
@@ -40490,7 +40374,6 @@ skaparans	skaːparans
 skaparinn	skaːparɪn
 skapast	skaːpast
 skapgerð	skaːpcɛrð
-skaphöfn	skaːphœpn
 skaphöfn	skaːphœpn̥
 skapi	skaːpɪ
 skapið	skaːpɪð
@@ -40748,7 +40631,6 @@ skella	scɛtla
 skellast	scɛtlast
 skelli	scɛtlɪ
 skellihlátur	scɛtlɪl̥auːtʏr
-skellihló	scɛtlɪl̥ou
 skellihló	scɛtlɪl̥ouː
 skellihlógu	scɛtlɪl̥ouːʏ
 skellihlær	scɛtlɪl̥aiːr
@@ -41468,7 +41350,6 @@ skógana	skouːana
 skóganna	skouːana
 skógar	skouːar
 skógarbjörn	skouːarpjœrtn̥
-Skógarbæ	skouːarpai
 Skógarbæ	skouːarpaiː
 Skógargerði	skouːarkɛrðɪ
 Skógargerði	skouːarcɛrðɪ
@@ -41558,7 +41439,6 @@ skólastjórans	skouːlastjouːrans
 skólastjórar	skouːlastjouːrar
 skólastjóri	skouːlastjouːrɪ
 skólastjórinn	skouːlastjouːrɪn
-skólastjórn	skouːlastjoutn
 skólastjórn	skouːlastjoutn̥
 skólastjórnenda	skouːlastjourtnɛnta
 skólastjórnendur	skouːlastjourtnɛntʏr
@@ -42473,7 +42353,6 @@ smáspöl	smauːspœl
 smástelpa	smauːstɛl̥pa
 smástelpa	smauːstɛlpa
 smástund	smauːstʏnt
-smástund	smauːstʏnt
 smásögu	smauːsœɣʏ
 smásögur	smauːsœɣʏr
 smásölu	smauːsœlʏ
@@ -42804,7 +42683,6 @@ snæðingi	stnaiːðiɲcɪ
 Snæfell	stnaiːfɛtl̥
 Snæfelli	stnaiːfɛtlɪ
 Snæfells	stnaiːfɛls
-Snæfellsbæ	stnaiːfɛlspai
 Snæfellsbæ	stnaiːfɛlspaiː
 Snæfellsbæjar	stnaiːfɛlspaiːjar
 Snæfellsbæjar	stnaiːfɛlspaijar
@@ -43523,10 +43401,8 @@ spyrð	spɪrð
 spyrði	spɪrðɪ
 spyrðist	spɪrðɪst
 spyrja	spɪrja
-spyrja	spɪrja
 spyrja	spʏrja
 spyrjandi	spɪrjantɪ
-spyrjast	spɪrjast
 spyrjast	spɪrjast
 spyrjast	spʏrjast
 spyrji	spɪrjɪ
@@ -44138,7 +44014,6 @@ stigagangi	stɪːɣakauɲcɪ
 stigaganginn	stɪːɣakauɲcɪn
 stigaganginum	stɪːɣakauɲcɪnʏm
 stigagangurinn	stɪːɣakauŋkʏrɪn
-Stigahlíð	stɪːɣal̥iːð
 Stigahlíð	stɪːɣal̥iːð
 stigahúsinu	stɪːɣahuːsɪnʏ
 stigahæsti	stɪːɣahaistɪ
@@ -45227,11 +45102,9 @@ stærra	staira
 stærri	stairɪ
 stærst	stair̥st
 stærsta	stair̥sta
-stærsta	stair̥sta
 stærsta	staista
 stærstan	stair̥stan
 stærsti	stair̥stɪ
-stærstu	stair̥stʏ
 stærstu	stair̥stʏ
 stærstu	staistʏ
 stærstum	stair̥stʏm
@@ -45469,7 +45342,6 @@ sumu	sʏːmʏ
 sumum	sʏːmʏm
 sumur	sʏːmʏr
 sund	sʏnt
-Sundahöfn	sʏntahœpn
 Sundahöfn	sʏntahœpn̥
 sundblöðkurnar	sʏntplœðkʏtnar
 sundblöðkurnar	sʏntplœθkʏtnar
@@ -45769,7 +45641,6 @@ Sveinbjarnardóttur	sveimpjatnartouhtʏr
 Sveinbjarnarson	sveimpjatnarsɔːn
 Sveinbjarnarson	sveimpjartnarsɔːn
 Sveinbjörg	sveimpjœrk
-Sveinbjörn	sveimpjœtn
 Sveinbjörn	sveimpjœtn̥
 Sveinbjörn	sveimpjœrtn̥
 Sveinbjörns	sveimpjœr̥s
@@ -45787,7 +45658,6 @@ Sveinbjörnssonar	sveimpjœsɔːnar
 Sveinborg	sveimpɔrk
 Sveini	sveiːnɪ
 sveininn	sveiːnɪn
-Sveinn	sveitn
 Sveinn	sveitn̥
 Sveins	sveins
 Sveinsdóttir	sveinstouhtɪr
@@ -46085,7 +45955,6 @@ svonefnt	svɔːnɛmt
 svosem	svɔːsɛm
 svosem	svɔsɛm
 svotil	svɔːtɪl
-svotil	svɔːtɪl
 svotil	svɔtɪl
 SVR	ɛs vaf ɛr
 SVT	ɛs vaf tjɛː
@@ -46336,7 +46205,6 @@ sæli	saiːlɪ
 Sælingsdal	saiːliŋstal
 Sælingsdal	sailiŋkstal
 sælir	saiːlɪr
-sæll	saitl
 sæll	saitl̥
 sælt	sail̥t
 sælu	saiːlʏ
@@ -46679,7 +46547,6 @@ Taílands	taiːlants
 Taívan	taiːvan
 Taívans	taiːvans
 tak	taːk
-taka	taːka
 taka	taːka\	\
 takandi	taːkantɪ
 takast	taːkast
@@ -46730,11 +46597,8 @@ taktu	taxtʏ
 taktur	taxtʏr
 takturinn	taxtʏrɪn
 tal	taːl
-tala	taːla
 tala	taːla\	\
-talað	taːlað
 talað	taːlað\	\
-talaði	taːlaðɪ
 talaði	taːlaðɪ\	\
 talaðir	taːlaðɪr
 talaðu	taːlaðʏ
@@ -46772,7 +46636,6 @@ talsmanni	talsmanɪ
 talsmanns	talsmans
 talsmáta	talsmauta
 talsmenn	talsmɛn
-talsmönnum	talsmœnʏm
 talsmönnum	talsmœnʏm\
 talstöðina	talstœðɪna
 talsverð	talsvɛrð
@@ -46814,9 +46677,7 @@ tanks	tauŋks
 tankurinn	taŋ̊kʏrɪn
 tankurinn	tauŋ̊kʏrɪn
 tankurinn	tauŋkʏrɪn
-tanna	tana
 tanna	tana\	\
-tannanna	tanana
 tannanna	tanana\
 tannbursta	tanpʏr̥sta
 tannhjól	tançoul
@@ -46845,7 +46706,6 @@ tapast	taːpast
 tapi	taːpɪ
 tapið	taːpɪð
 tappa	tahpa
-tappann	tahpan
 tappann	tahpan\
 taprekstur	taːprɛkstʏr
 taprekstur	taːprɛxstʏr
@@ -46858,7 +46718,6 @@ tau	tœyː
 taug	tœyːɣ
 taugaáfall	tœyːɣaauːfatl̥
 taugakerfið	tœyːɣacɛrvɪð
-taugar	tœyːɣar
 taugar	tœyːɣar\	\
 taugarnar	tœyːɣatnar
 taugaspennt	tœyːɣaspɛn̥t
@@ -46881,7 +46740,6 @@ taumlaus	tœymlœys
 taumlausri	tœymlœysrɪ
 taumnum	tœymnʏm
 taumum	tœyːmʏm
-tautaði	tœyːtaðɪ
 tautaði	tœyːtaðɪ\	\
 tautandi	tœyːtantɪ
 tautar	tœyːtar
@@ -46934,12 +46792,10 @@ tána	tauna
 táneglur	tauːnɛklʏr
 tánni	taunɪ
 tánum	taunʏm
-tár	tauːr
 tár	tauːr\	\
 táragasi	tauːrakaːsɪ
 tárast	tauːrast
 tárið	tauːrɪð
-tárin	tauːrɪn
 tárin	tauːrɪn\	\
 tárum	tauːrʏm
 tárvot	taurvɔt
@@ -46958,7 +46814,6 @@ tefldist	tɛltɪst
 tefldu	tɛltʏ
 teflir	tɛplɪr
 teflt	tɛl̥t
-tegund	tɛːɣʏnt
 tegund	tɛːɣʏnt\	\
 tegunda	tɛːɣʏnta
 tegundar	tɛːɣʏntar
@@ -47000,17 +46855,13 @@ teini	teiːnɪ
 teinrétt	teinrjɛht
 teinunum	teiːnɔnʏm
 Teits	teits
-Teitsson	teitsɔn
 Teitsson	teitsɔn\
 Teitur	teiːtʏr
-tek	tɛːk
 tek	tɛːk\	\
 teketill	tɛːcɛtɪtl̥
-tekið	tɛːcɪð
 tekið	tɛːcɪð\
 tekin	tɛːcɪn
 tekinn	tɛːcɪn
-tekist	tɛːcɪst
 tekist	tɛːcɪst\	\
 tekju	tɛːcʏ
 tekjulind	tɛːcʏlɪnt
@@ -47035,8 +46886,6 @@ teknir	tɛhknɪr
 teknu	tɛhknʏ
 tekst	tɛkst
 tekst	tɛxst
-tekst	tɛxst
-tekur	tɛːkʏr
 tekur	tɛːkʏr\	\
 tekurðu	tɛːkʏrʏ
 tel	tɛːl
@@ -47074,7 +46923,6 @@ tengdabörnum	teiŋtapœrtnʏm
 tengdadóttir	teiŋtatouhtɪr
 tengdadóttur	teiŋtatouhtʏr
 tengdafaðir	teiŋtafaːðɪr
-tengdaforeldra	teiŋtafɔːrɛltra
 tengdaforeldra	teiŋtafɔːrɛltra\
 tengdaforeldrar	teiŋtafɔːrɛltrar
 tengdaforeldrum	teiŋtafɔːrɛltrʏm
@@ -47100,7 +46948,6 @@ tengdum	teiŋtʏm
 tengdumst	teiŋtʏmst
 tengdur	teiŋtʏr
 tengdust	teiŋtʏst
-tengi	teiɲcɪ
 tengi	teiɲcɪ\	\
 tengiliður	teiɲcɪlɪːðʏr
 tenging	teiɲciŋk
@@ -47108,7 +46955,6 @@ tengingar	teiɲciŋkar
 tengingu	teiɲciŋkʏ
 tengingum	teiɲciŋkʏm
 tengir	teiɲcɪr
-tengist	teiɲcɪst
 tengist	teiɲcɪst\	\
 tengja	teiɲca
 tengjast	teiɲcast
@@ -47133,7 +46979,6 @@ teppum	tɛhpʏm
 teppunum	tɛhpɔnʏm
 Tera	tɛːra
 Teresa	tɛːrɛsa
-Teresu	tɛːrɛsʏ
 Teresu	tɛːrɛsʏ\	\
 terpentínu	tɛr̥pɛn̥tinʏ
 tertufatið	tɛr̥tʏfaːtɪð\
@@ -47187,7 +47032,6 @@ teyga	teiːɣa
 teygaði	teiːɣaðɪ
 teygar	teiːɣar
 teygða	teiɣða
-teygði	teiɣðɪ
 teygði	teiɣðɪ\	\
 teygðist	teiɣðɪst
 teygðust	teiɣðʏst
@@ -47208,9 +47052,7 @@ tékka	tjɛhka
 tékkað	tjɛhkað
 tékkaði	tjɛhkaðɪ
 tékkar	tjɛhkar
-Tékkland	tjɛhklant
 Tékkland	tjɛhklant\
-Tékklandi	tjɛhklantɪ
 Tékklandi	tjɛhklantɪ\
 Tékklands	tjɛhklants
 Tékklands	tjɛhklans\
@@ -47221,14 +47063,12 @@ tékkneskur	tjɛhknɛskʏr
 Tékkóslóvakíu	tjɛhkoustlouːvacijʏ
 tékkum	tjɛhkʏm
 tfraflautunni	tœvraflœyːtʏnɪ
-Thelma	tɛlma
 Thelma	tɛlma\	\
 Thelmu	tɛlmʏ\	\
 Theodór	tɛoutour
 Theodórs	tɛoutour̥s
 Theódórsdóttir	tɛːoutour̥stouhtɪr\
 Theódórsson	tɛːoutour̥sɔːn\
-Thomsen	tɔmsɛn
 Thomsen	tɔmsɛn\	\
 Thor	touːr
 Thorarensen	touːrarɛnsɛn
@@ -47239,7 +47079,6 @@ Thoroddsens	touːrɔtsɛns
 Thors	tour̥s
 Thorsson	tor̥sɔn\
 Thorsson	tour̥sɔːn
-Thorsteinsson	tɔr̥steinsɔːn
 Thorsteinsson	tɔr̥steinsɔːn\
 Thorsveg	tour̥svɛːɣ
 tifaði	tɪːvaðɪ
@@ -47280,7 +47119,6 @@ tilburðir	tɪlpʏrðɪr
 tilburðum	tɪlpʏrðʏm
 tilbúið	tɪlpuɪð
 tilbúin	tɪlpuɪn
-tilbúinn	tɪlpuɪn
 tilbúinn	tɪlpuɪn\
 tilbúna	tɪlpuna
 tilbúnar	tɪlpunar
@@ -47307,7 +47145,6 @@ tilfallandi	tɪlfatlantɪ
 tilfella	tɪlfɛtla
 tilfelli	tɪlfɛtlɪ
 tilfellið	tɪlfɛtlɪð
-tilfellum	tɪlfɛtlʏm
 tilfellum	tɪlfɛtlʏm\
 tilfinnanlega	tɪlfɪnanlɛɣa
 tilfinning	tɪlfɪniŋk
@@ -47324,7 +47161,6 @@ tilfinningasemi	tɪlfɪniŋkasɛːmɪ
 tilfinningin	tɪlfɪniɲcɪn
 tilfinningu	tɪlfɪniŋkʏ
 tilfinningum	tɪlfɪniŋkʏm
-tilfinninguna	tɪlfɪniŋkʏna
 tilfinninguna	tɪlfɪniŋkʏna\
 tilfinningunni	tɪlfɪniŋkʏnɪ
 tilfinningunum	tɪlfɪniŋkɔnʏm
@@ -47362,11 +47198,9 @@ tilgreint	tɪlkrein̥t
 tilgreint	tɪlkreint
 tilheyra	tɪːlheira
 tilheyrandi	tɪːlheirantɪ
-tilheyrði	tɪːlheirðɪ
 tilheyrði	tɪːlheirðɪ\
 tilheyrðu	tɪːlheirðʏ
 tilheyri	tɪːlheirɪ
-tilheyrir	tɪːlheirɪr
 tilheyrir	tɪːlheirɪr\
 tilheyrt	tɪːlheir̥t
 tilhlaup	tɪll̥œyp
@@ -47414,7 +47248,6 @@ tillagnanna	tɪlaknana
 tillann	tɪlan
 tilleiðast	tɪleiðast
 tillit	tɪlɪt
-tilliti	tɪlɪtɪ
 tilliti	tɪlɪtɪ\	\
 tillits	tɪlɪts
 tillitsleysi	tɪlɪtstleiːsɪ
@@ -47466,14 +47299,12 @@ tilskipanir	tɪlscɪpanɪr
 tilskipun	tɪlscɪpʏn
 tilskipunum	tɪlscɪpʏnʏm
 tilslakanir	tɪlstlakanɪr
-tilstilli	tɪlstɪtlɪ
 tilstilli	tɪlstɪtlɪ\
 tilstuðlan	tɪlstʏðlan
 tilstyrk	tɪlstɪr̥k
 tilsvör	tɪlsvœr
 tilsvörum	tɪlsvœrʏm
 tilsögn	tɪlsœkn̥
-tiltakanlega	tɪltakanlɛɣa
 tiltakanlega	tɪltakanlɛɣa\
 tiltekið	tɪltɛcɪð
 tiltekin	tɪltɛcɪn
@@ -47571,7 +47402,6 @@ titlinum	tɪhtlɪnʏm
 titlum	tɪhtlʏm
 titra	tɪːtra
 titraði	tɪːtraðɪ
-titrandi	tɪːtrantɪ
 titrandi	tɪːtrantɪ\
 titringi	tɪːtriɲcɪ
 titringurinn	tɪːtriŋkʏrɪn
@@ -47589,7 +47419,6 @@ tíðin	tiːðɪn
 tíðina	tiːðɪna
 tíðinda	tiːðɪnta
 tíðindalaust	tiːðɪntalœyst
-tíðindi	tiːðɪntɪ
 tíðindi	tiːðɪntɪ\	\
 tíðindin	tiːðɪntɪn
 tíðindum	tiːðɪntʏm
@@ -47609,7 +47438,6 @@ tíkall	tiːkatl̥
 Tíkin	tiːcɪn
 tíkinni	tiːcɪnɪ
 tíkurinnar	tiːkʏrɪnar
-tíma	tiːma
 tíma	tiːma\	\
 tímaáætlun	tiːmaauːaihtlʏn
 tímabil	tiːmapɪːl
@@ -47637,12 +47465,9 @@ tímamótum	tiːmamouːtʏm
 tímamörk	tiːmamœr̥k
 tímana	tiːmana
 tímanlega	tiːmanlɛɣa
-tímann	tiːman
 tímann	tiːman\	\
 tímanna	tiːmana
-tímans	tiːmans
 tímans	tiːmans\	\
-tímanum	tiːmanʏm
 tímanum	tiːmanʏm\	\
 tímapantanir	tiːmapan̥tanɪr
 tímapantanir	tiːmapantanɪr
@@ -47694,12 +47519,9 @@ tískusýningu	tiskʏsiːniŋkʏ
 tíst	tist
 títan	tiːtan
 tító	tiːtou
-títt	tiht
 títt	tiht\	\
-tíu	tiːjʏ
 tíu	tiːjʏ\	\
 tíufréttir	tiːjʏfrjɛhtɪr
-tíuleytið	tiːjʏleiːtɪð
 tíuleytið	tiːjʏleiːtɪð\
 tíund	tiːjʏnt
 tíunda	tiːjʏnta
@@ -47716,7 +47538,6 @@ tjaldbúðirnar	tjaltpuðɪtnar
 tjaldbúðum	tjaltpuðʏm
 tjaldbúðunum	tjaltpuðɔnʏm
 tjaldi	tjaltɪ
-tjaldið	tjaltɪð
 tjaldið	tjaltɪð\	\
 tjaldinu	tjaltɪnʏ
 tjaldsins	tjaltsɪns
@@ -47731,11 +47552,9 @@ Tjarnarborg	tjartnarpɔrk
 Tjarnarbúð	tjartnarpuːð
 Tjarnargötu	tjatnarkœːtʏ
 Tjarnargötu	tjartnarkœːtʏ
-Tjarnargötu	tjartnarkœːtʏ
 tjarnarinnar	tjartnarɪnar
 tjarnir	tjartnɪr
 tjá	tjauː
-tjáð	tjauːð
 tjáð	tjauːð\	\
 tjáði	tjauːðɪ
 tjáðu	tjauːðʏ
@@ -47753,7 +47572,6 @@ tjóns	tjouns
 tjónum	tjouːnʏm
 tjónvaldur	tjounvaltʏr
 tjöld	tjœlt
-tjöldin	tjœltɪn
 tjöldin	tjœltɪn\	\
 tjöldum	tjœltʏm
 tjöldunum	tjœltɔnʏm
@@ -47771,7 +47589,6 @@ Tobba	tɔpa
 tog	tɔːɣ
 toga	tɔːɣa
 togað	tɔːɣað
-togaði	tɔːɣaðɪ
 togaði	tɔːɣaðɪ\	\
 togar	tɔːɣar
 togara	tɔːɣara
@@ -47818,12 +47635,9 @@ toppsætinu	tɔhpsaitɪnʏ
 toppurinn	tɔhpʏrɪn
 torf	tɔrv
 torfa	tɔrva
-Torfadóttir	tɔrvatouhtɪr
 Torfadóttir	tɔrvatouhtɪr\
 Torfadóttur	tɔrvatouhtʏr\
-Torfason	tɔrvasɔːn
 Torfason	tɔrvasɔːn\
-Torfasonar	tɔrvasɔːnar
 Torfasonar	tɔrvasɔːnar\
 Torfastöðum	tɔrvastœːðʏm
 torfbæ	tɔrvpai
@@ -47837,7 +47651,6 @@ torfæru	tɔfairʏ
 torg	tɔrk
 torgi	tɔrcɪ
 torgið	tɔrcɪð
-torginu	tɔrcɪnʏ
 torginu	tɔrcɪnʏ\	\
 torgsins	tɔrksɪns
 torgum	tɔrkʏm
@@ -47864,7 +47677,6 @@ tóbaki	touːpacɪ
 tóbakið	touːpacɪð
 tóbaks	touːpaks
 tóbaksgulra	touːpakskʏlra\
-tóbaksreyk	touːpaksreiːk
 tóbaksreyk	touːpaksreiːk\
 tóbaksvarnir	touːpaksvartnɪr
 tóbaksverslun	touːpaksvɛslʏn\
@@ -47876,23 +47688,19 @@ tófuna	touːʏna
 tófunni	touːʏnɪ
 tófur	touːʏr
 tófurnar	touːʏtnar
-tók	touːk
 tók	touːk\	\
 Tókíó	touːcijou
 tókst	toukst
 tókst	touxst
 tókstu	toukstʏ
 tókstu	touxstʏ
-tóku	touːkʏ
 tóku	touːkʏ\	\
 tókuð	touːkʏð
-tókum	touːkʏm
 tókum	touːkʏm\	\
 tókumst	touːkʏmst
 tókust	touːkʏst
 Tókýó	touːcijou
 tól	touːl
-tólf	toulv
 tólf	toulv\	\
 tólfta	toul̥ta
 tólfti	toul̥tɪ
@@ -47906,24 +47714,15 @@ tóma	touːma
 tóman	touːman
 tómar	touːmar
 tómarúm	touːmaruːm
-Tómas	touːmas
 Tómas	touːmas\	\
 Tómasar	touːmasar
-Tómasar	touːmasar
-Tómasdóttir	touːmastouhtɪr
 Tómasdóttir	touːmastouhtɪr\
-Tómasdóttur	touːmastouhtʏr
 Tómasdóttur	touːmastouhtʏr\
-Tómasi	touːmasɪ
 Tómasi	touːmasɪ\	\
-Tómasson	touːmasɔːn
 Tómasson	touːmasɔːn\
-Tómassonar	touːmasɔːnar
 Tómassonar	touːmasɔːnar\
-Tómassyni	touːmasɪːnɪ
 Tómassyni	touːmasɪːnɪ\
 tómata	touːmata
-tómatar	touːmatar
 tómatar	touːmatar\	\
 tómatsósu	touːmatsouːsʏ
 tómhentir	touːmhɛn̥tɪr
@@ -47982,7 +47781,6 @@ tónleikaröðinni	tounleikarœːðɪnɪ
 tónleikasal	tounleikasaːl
 tónleikaskrá	tounleikaskrauː
 tónleikum	tounleikʏm
-tónleikunum	tounleikɔnʏm
 tónleikunum	tounleikɔnʏm\
 tónlist	tounlɪst
 tónlistar	tounlɪstar
@@ -48074,7 +47872,6 @@ trans	trans
 trauðla	trœyðla
 traust	trœyst
 Trausta	trœysta
-Traustadóttir	trœystatouhtɪr
 Traustadóttir	trœystatouhtɪr\
 traustan	trœystan
 traustar	trœystar
@@ -48110,17 +47907,14 @@ treyju	treijʏ
 treyjuna	treijʏna
 treyjunni	treijʏnɪ
 treyst	treist
-treysta	treista
 treysta	treista\	\
 treystandi	treistantɪ
-treysti	treistɪ
 treysti	treistɪ\	\
 treystir	treistɪr
 treystirðu	treistɪrʏ
 treystist	treistɪst
 treystu	treistʏ
 treystum	treistʏm
-tré	trjɛː
 tré	trjɛː\	\
 trébekk	trjɛːpɛhk
 trébrú	trjɛːpru
@@ -48129,9 +47923,7 @@ tréð	trjɛːð
 trégólfinu	trjɛːkoulvɪnʏ
 trégrind	trjɛːkrɪnt
 trékallana	trjɛːkatlana
-Trékyllisvík	trjɛːcɪtlɪsviːk
 Trékyllisvík	trjɛːcɪtlɪsviːk\
-trén	trjɛːn
 trén	trjɛːn\	\
 trénu	trjɛːnʏ
 trés	trjɛːs
@@ -48192,7 +47984,6 @@ trompet	trɔm̥pɛt
 trompet	trɔmpɛt
 trompetinn	trɔm̥pɛtɪn
 trompetinn	trɔmpɛtɪn
-tróð	trouːð
 tróð	trouːð\	\
 tróðst	trouðst
 tróðu	trouːðʏ
@@ -48200,15 +47991,12 @@ tróðust	trouːðʏst
 Tróju	trouːjʏ
 trónir	trouːnɪr
 trónuðu	trouːnʏðʏ
-trufla	trʏpla
 trufla	trʏpla\	\
-truflað	trʏplað
 truflað	trʏplað\	\
 truflaði	trʏplaðɪ
 truflaður	trʏplaðʏr
 truflandi	trʏplantɪ
 truflanir	trʏplanɪr
-truflar	trʏplar
 truflar	trʏplar\	\
 trufli	trʏplɪ
 trufluð	trʏplʏð
@@ -48216,7 +48004,6 @@ truflun	trʏplʏn
 truflunum	trʏplʏnʏm
 trukk	trʏhk
 trú	truː
-trúa	truːa
 trúa	truːa\	\
 trúað	truːað
 trúaður	truːaðʏr
@@ -48236,14 +48023,12 @@ trúboða	truːpɔða
 trúboðarnir	truːpɔðatnɪr
 trúboði	truːpɔðɪ
 trúboðinn	truːpɔðɪn
-trúðar	truːðar
 trúðar	truːðar\	\
 trúði	truːðɪ
 trúðu	truːðʏ
 trúðum	truːðʏm
 trúður	truːðʏr
 trúfélaga	truːfjɛlaɣa
-trúi	truːɪ
 trúi	truːɪ\	\
 trúið	truːɪð
 trúin	truːɪn
@@ -48275,7 +48060,6 @@ trúnaði	truːnaðɪ
 trúnaður	truːnaðʏr
 trúnni	trunɪ
 trúr	truːr
-trútt	truht
 trútt	truht\	\
 trúuð	truːʏð
 trúuðu	truːʏðʏ
@@ -48322,17 +48106,11 @@ trygglyndi	trɪklɪntɪ
 tryggt	trɪxt
 Tryggur	trɪkʏr
 Tryggva	trɪkva
-Tryggvadóttir	trɪkvatouhtɪr
 Tryggvadóttir	trɪkvatouhtɪr\
-Tryggvadóttur	trɪkvatouhtʏr
 Tryggvadóttur	trɪkvatouhtʏr\
-Tryggvagata	trɪkvakaːta
 Tryggvagata	trɪkvakaːta\
-Tryggvagötu	trɪkvakœːtʏ
 Tryggvagötu	trɪkvakœːtʏ\
-Tryggvason	trɪkvasɔːn
 Tryggvason	trɪkvasɔːn\
-Tryggvasonar	trɪkvasɔːnar
 Tryggvasonar	trɪkvasɔːnar\
 Tryggvasyni	trɪkvasɪːnɪ\
 Tryggvi	trɪkvɪ
@@ -48353,15 +48131,11 @@ tröllatrú	trœtlatruː
 tröllaukna	trœtlœyhkna
 tröllin	trœtlɪn
 tröppu	trœhpʏ
-tröppum	trœhpʏm
 tröppum	trœhpʏm\	\
 tröppuna	trœhpʏna
 tröppunni	trœhpʏnɪ
-tröppunum	trœhpɔnʏm
 tröppunum	trœhpɔnʏm\
-tröppur	trœhpʏr
 tröppur	trœhpʏr\	\
-tröppurnar	trœhpʏtnar
 tröppurnar	trœhpʏtnar\
 tuða	tʏːða
 tuðaði	tʏːðaðɪ
@@ -48409,7 +48183,6 @@ tungumál	tuŋkʏmauːl
 tungumála	tuŋkʏmauːla
 tungumálakennslu	tuŋkʏmaulacɛnstlʏ
 tungumálakunnáttu	tuŋkʏmaulakʏnauhtʏ
-tungumáli	tuŋkʏmauːlɪ
 tungumáli	tuŋkʏmauːlɪ\
 tungumálið	tuŋkʏmauːlɪð
 tungumálinu	tuŋkʏmauːlɪnʏ
@@ -48444,7 +48217,6 @@ tuskurnar	tʏskʏtnar
 tussa	tʏsa
 tuttugasta	tʏhtʏɣasta
 tuttugasti	tʏhtʏɣastɪ
-tuttugu	tʏhtʏɣʏ
 tuttugu	tʏhtʏɣʏ\	\
 tuttugustu	tʏhtʏɣʏstʏ
 túkall	tuːkatl̥
@@ -48472,11 +48244,9 @@ túlkurinn	tul̥kʏrɪn
 túlkurinn	tulkʏrɪn
 tún	tuːn
 túngarðinum	tunkarðɪnʏm
-Túngötu	tunkœtʏ
 Túngötu	tunkœtʏ\	\
 túni	tuːnɪ
 túnið	tuːnɪð
-túnin	tuːnɪn
 túnin	tuːnɪn\	\
 túninu	tuːnɪnʏ
 Túnis	tuːnɪs
@@ -48491,21 +48261,15 @@ túrnum	turtnʏm
 tútna	tuhtna
 tútnaði	tuhtnaðɪ
 túttu	tuhtʏ\	\
-tveggja	tvɛca
 tveggja	tvɛca\	\
 tveim	tvɛːm
 tveim	tveiːm
 tveimur	tvɛːmʏr
-tveimur	tvɛːmʏr
 tveimur	tveiːmʏr
-tveir	tveiːr
 tveir	tveiːr\	\
-tvenn	tvɛn
 tvenn	tvɛn\	\
 tvenna	tvɛna
-tvennar	tvɛnar
 tvennar	tvɛnar\	\
-tvennir	tvɛnɪr
 tvennir	tvɛnɪr\	\
 tvenns	tvɛns
 tvennt	tvɛn̥t
@@ -48514,7 +48278,6 @@ tvennu	tvɛnʏ
 tvennum	tvɛnʏm
 tvinna	tvɪna
 tvist	tvɪst
-tvisvar	tvɪːsvar
 tvisvar	tvɪːsvar\	\
 tvíbreitt	tviːpreiht
 tvíbura	tviːpʏra
@@ -48568,11 +48331,8 @@ tvítugur	tviːtʏɣʏr
 tvívegis	tviːveijɪs
 tvíverknað	tviːvɛr̥knað
 tvíþætt	tviːθaiht
-tvo	tvɔː
 tvo	tvɔː\	\
-tvær	tvaiːr
 tvær	tvaiːr\	\
-tvö	tvœː
 tvö	tvœː\	\
 tvöfalda	tvœːfalta
 tvöfaldaðist	tvœːfaltaðɪst
@@ -48590,7 +48350,6 @@ tyggigúmmí	tɪcɪkumɪ
 tyggigúmmíið	tɪcɪkumijɪð\
 tyggigúmmíinu	tɪcɪkumijɪnʏ\
 tyggja	tɪca
-tyggjóið	tɪcouɪð
 tyggjóið	tɪcouɪð\
 tyggjóinu	tɪcouɪnʏ\
 tyggur	tɪkʏr
@@ -48609,9 +48368,7 @@ Tyrki	tɪr̥cɪ
 Tyrkir	tɪr̥cɪr
 Tyrkja	tɪr̥ca
 Tyrkjum	tɪr̥cʏm
-Tyrkland	tɪr̥klant
 Tyrkland	tɪr̥klant\
-Tyrklandi	tɪr̥klantɪ
 Tyrklandi	tɪr̥klantɪ\
 Tyrklands	tɪr̥klants
 Tyrklands	tɪr̥klans\
@@ -48644,7 +48401,6 @@ tækifærið	taiːcɪfaiːrɪð
 tækifærin	taiːcɪfaiːrɪn
 tækifærissinni	taiːcɪfairɪsɪnɪ
 tækifærum	taiːcɪfaiːrʏm
-tækin	taiːcɪn
 tækin	taiːcɪn\	\
 tækinu	taiːcɪnʏ
 tækir	taiːcɪr
@@ -48696,7 +48452,6 @@ tæmast	taiːmast
 tæmi	taiːmɪ
 tæp	taiːp
 tæpa	taiːpa
-tæpan	taiːpan
 tæpan	taiːpan\	\
 tæpar	taiːpar
 tæpara	taiːpara
@@ -48751,12 +48506,10 @@ tökin	tœːcɪn
 tökkum	tœhkʏm
 töku	tœːkʏ
 tökubarn	tœːkʏpatn̥
-tökum	tœːkʏm
 tökum	tœːkʏm\	\
 tökur	tœːkʏr
 tökurnar	tœːkʏtnar
 tökustað	tœːkʏstaːð
-töldu	tœltʏ
 töldu	tœltʏ\	\
 töldum	tœltʏm
 töldust	tœltʏst
@@ -48835,13 +48588,11 @@ tönnlaðist	tœnlaðɪst
 tönnlast	tœnlast
 tönnum	tœnʏm
 tönnunum	tœnɔnʏm\
-töpuð	tœːpʏð
 töpuð	tœːpʏð\	\
 töpuðu	tœːpʏðʏ
 töpuðum	tœːpʏðʏm
 töpuðust	tœːpʏðʏst
 töpum	tœːpʏm
-tösku	tœskʏ
 tösku	tœskʏ
 töskuna	tœskʏna
 töskunni	tœskʏnɪ
@@ -53376,7 +53127,6 @@ vöxturinn	vœxstʏrɪn
 Waage	voːɣɛ
 Y	ɪː
 yðar	ɪːðar
-yðar	ɪːðar
 yður	ɪːðʏr
 yfir	ɪːvɪr
 yfirboðara	ɪːvɪrpɔːðara
@@ -53654,10 +53404,8 @@ yxi	ɪːxsɪ
 ýtrustu	iːtrʏstʏ
 ýtt	iht
 ýtti	ihtɪ
-ýtti	ihtɪ
 ýttu	ihtʏ
 ýttum	ihtʏm
-ýtum	iːtʏm
 ýtum	iːtʏm
 það	θaːð
 þaðan	θaːðan
@@ -55176,7 +54924,6 @@ yxi	ɪːxsɪ
 þörf	θœrv
 þörfin	θœrvɪn
 þörfina	θœrvɪna
-þörfina	θœrvɪna
 þörfinni	θœrvɪnɪ
 þörfnuðust	θœrtnʏðʏst
 þörfum	θœrvʏm
@@ -55461,7 +55208,6 @@ yxi	ɪːxsɪ
 æxli	aikstlɪ
 æxli	aixstlɪ
 æxlið	aikstlɪð
-æxlið	aixstlɪð
 æxlið	aixstlɪð
 Öddi	œtɪ
 Öddu	œtʏ
