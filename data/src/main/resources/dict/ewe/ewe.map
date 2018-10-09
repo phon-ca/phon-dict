@@ -1,7 +1,7 @@
 #name Ewe
 #lang ewe
-#phonexfind ({v, -toneextrahigh, -tonehigh, -tonemid, -tonelow, -toneextralow, -tonefalling, -tonerising, -tonelowrising, -tonerisingfalling, -tonefallingrising })
-#phonexreplace $1\u0300
+#phonexfind ({v, -toneextrahigh, -tonehigh, -tonemid, -tonelow, -toneextralow, -tonefalling, -tonerising, -tonerisingfalling, -tonefallingrising })
+#phonexreplace $1̀
 b	b
 d	d
 D	ɖ
