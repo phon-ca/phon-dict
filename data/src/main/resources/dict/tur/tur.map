@@ -1,5 +1,13 @@
 #name Turkish
 #lang tur
+#phonexfind (k{v,front})
+#phonexreplace c
+#phonexfind (ɡ{v,front})
+#phonexreplace ɟ
+#phonexfind (l[{v,central}{v,back}])
+#phonexreplace ɫ
+#phonexfind (hi)
+#phonexreplace ç
 a	ʌ
 â	a
 b	b
