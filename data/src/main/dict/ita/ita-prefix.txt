@@ -1,5 +1,5 @@
 #name Italian
 #lang ita
 #ctr split:"'" lhs.regex:"[Ll]" rhs.regex:".*" expr:"l+${rhs.ipa}"
-#ctr split:"'" lhs.regex:"[Cc]" rhs.regex:"{v, front}" expr:"ʧ+${rhs.ipa}"
-#ctr split:"'" lhs.phonex:"(cos)" rhs.regex:".*" expr:"kɔz+${rhs.ipa}"
+#ctr split:"'" lhs.regex:"[Cc]" rhs.phonex:"{v, front}.*" expr:"ʧ+${rhs.ipa}"
+#ctr split:"'" lhs.regex:"cos" rhs.regex:".*" expr:"kɔz+${rhs.ipa}"
