@@ -5,7 +5,7 @@
 	<parent>
 		<groupId>ca.phon</groupId>
 		<artifactId>phon-dict</artifactId>
-		<version>18</version>
+		<version>19</version>
 		<relativePath>..</relativePath>
 	</parent>
 
