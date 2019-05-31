@@ -1,0 +1,2 @@
+#name Cantonese
+#lang yue
