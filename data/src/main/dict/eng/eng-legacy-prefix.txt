@@ -1,0 +1,5 @@
+#name English (legacy)
+#lang eng-legacy
+#ctr split:"'" lhs.ipa.phonex:".+{-Strident,Voiceless}" rhs:"s" expr:"${lhs.ipa}+s"	
+#ctr split:"'" lhs.ipa.phonex:".+{-Strident,Voiced}" rhs:"s" expr:"${lhs.ipa}+z"	
+#ctr split:"'" lhs.ipa.phonex:".+{Strident}" rhs:"s" expr:"${lhs.ipa}+əz"
