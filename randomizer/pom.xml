@@ -5,7 +5,7 @@
   <parent>
 	<groupId>ca.phon</groupId>
 	<artifactId>phon-dict</artifactId>
-	<version>23</version>
+	<version>24</version>
 	<relativePath>..</relativePath>
   </parent>
 
@@ -41,18 +41,10 @@
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-plugin-plugin</artifactId>
-        <version>3.5</version>
+	<version>3.6.0</version>
         <configuration>
           <goalPrefix>phon-dict-randomizer</goalPrefix>
         </configuration>
-        <executions>
-          <execution>
-            <id>generated-helpmojo</id>
-            <goals>
-              <goal>helpmojo</goal>
-            </goals>
-          </execution>
-        </executions>
       </plugin>
     </plugins>
     <pluginManagement>
@@ -60,10 +52,10 @@
     		<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-compiler-plugin</artifactId>
+				<version>3.8.1</version>
 				<configuration>
-					<source>1.8</source>
-					<target>1.8</target>
-					<sourceEncoding>UTF-8</sourceEncoding>
+					<source>11</source>
+					<target>11</target>
 				</configuration>
 			</plugin>
 			
