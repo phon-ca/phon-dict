@@ -1,5 +1,5 @@
-#lang cmn
-#name Mandarin Chinese
+#lang cmn-pinyin
+#name Mandarin Chinese (Pinyin)
 a	a
 ai	a͡ɪ
 an	an
