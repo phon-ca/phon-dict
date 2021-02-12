@@ -1,2 +1,2 @@
 #name Mandarin Chinese (traditional)
-#lang cmn-traditional
+#lang cmn-trad
