@@ -1,2 +1,15 @@
 #name Mandarin Chinese (simplified)
 #lang cmn
+#other 214 Rules
+#phonexfind (S1=σ:tn("214"))(S2=σ:tn("214"))
+#phonexreplace \{S1}³⁵\{S2}
+#phonexfind (S1=σ:tn("214"))(S2=σ:tn("not 214"))
+#phonexreplace \{S1}²¹\{S2}
+#other one sandhi
+#phonexfind (S1=\Si:tn("55"))(S2=σ:tn("51"))
+#phonexreplace \{S1}³⁵\{S2}
+#phonexfind (S1=\Si:tn("55"))(R=\S.+)
+#phonexreplace \{S1}⁵¹\{R}
+#other bu sandhi
+#phonexfind (S1=\Spu:tn("51"))(S2=σ:tn("51"))
+#phonexreplace \{S1}³⁵\{S2}
