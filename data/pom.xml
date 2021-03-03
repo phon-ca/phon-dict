@@ -5,7 +5,7 @@
 	<parent>
 		<groupId>ca.phon</groupId>
 		<artifactId>phon-dict</artifactId>
-		<version>32</version>
+		<version>33-SNAPSHOT</version>
 		<relativePath>..</relativePath>
 	</parent>
 
@@ -36,15 +36,8 @@
 
 	</developers>
 
-	<licenses>
-		<license>
-			<name>GNU GPL v3.0+</name>
-			<distribution>repo</distribution>
-			<url>http://www.gnu.org/copyleft/gpl.html</url>
-		</license>
-	</licenses>
-
 	<properties>
+		<ca.phon.version>3.3.0-SNAPSHOT</ca.phon.version>
 	</properties>
 
 	<dependencies>
@@ -52,7 +45,7 @@
 		<dependency>
 			<groupId>ca.phon</groupId>
 			<artifactId>phon-ipadictionary</artifactId>
-			<version>3.1.4-SNAPSHOT</version>
+			<version>${ca.phon.version}</version>
 		</dependency>
 		
 		<dependency>

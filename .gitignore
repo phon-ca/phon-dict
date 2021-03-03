@@ -6,3 +6,5 @@ derby.log
 .project
 .settings/
 .DS_Store
+.idea/
+*.iml
