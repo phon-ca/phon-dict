@@ -1,16 +1,3 @@
 #name Mandarin Chinese (simplified)
 #lang cmn
 #syllabifier cmn
-#other 214 sandhi
-#phonexfind (σ:tn("214"))(?>σ:tn("214"))
-#phonexreplace \1³⁵
-#phonexfind (σ:tn("214"))(?>σ:tn("not 214"))
-#phonexreplace \1²¹
-#other one sandhi
-#phonexfind (\Si:tn("55"))(?>σ:tn("51"))
-#phonexreplace \1³⁵
-#phonexfind (\Si:tn("55"))(?>\S.+)
-#phonexreplace \1⁵¹
-#other bu sandhi
-#phonexfind (\Spu:tn("51"))(?>σ:tn("51"))
-#phonexreplace \1³⁵

@@ -44,7 +44,7 @@
 
 		<dependency>
 			<groupId>ca.phon</groupId>
-			<artifactId>phon-ipadictionary</artifactId>
+			<artifactId>phon-app</artifactId>
 			<version>${ca.phon.version}</version>
 		</dependency>
 		
