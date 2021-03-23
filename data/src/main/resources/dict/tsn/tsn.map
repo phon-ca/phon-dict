@@ -1,10 +1,10 @@
 #lang tsn
 #name Tswana
-nkghw	ŋ̩kχʰʷ
+nkghw	ɴ̩qʰʷ
 ntlhw	n̩t͡ɬʰʷ
 ntshw	n̩ʦʰʷ
 ntShw	ɲ̩ʧʰʷ
-kghw	kχʰʷ
+kghw	qʰʷ
 mphw	m̩pʰʷ
 nkhw	ŋ̩kʰʷ
 nngw	ŋ̩ŋʷ
@@ -24,7 +24,7 @@ xxx	*
 yyy	*
 INT	*
 nnn	*
-kgw	kχʷ
+kgw	qʰʷ
 khw	kʰʷ
 mbw	m̩bʷ
 mfw	m̩fʷ
@@ -37,7 +37,7 @@ ndw	n̩dʷ
 ngw	ŋ̩ʷ
 nhw	n̩hʷ
 njw	ɲ̩ʤʷ
-nkg	ŋ̩kχʰ
+nkg	ɴ̩qʰ
 nkh	ŋ̩kʰ
 nkw	ŋ̩kʷ
 nlw	n̩lʷ
