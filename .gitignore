@@ -8,3 +8,5 @@ derby.log
 .DS_Store
 .idea/
 *.iml
+*.iml
+.idea/

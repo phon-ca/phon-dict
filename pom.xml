@@ -30,19 +30,11 @@
 
 	</developers>
 
-	<licenses>
-		<license>
-			<name>GNU GPL v3.0+</name>
-			<distribution>repo</distribution>
-			<url>http://www.gnu.org/copyleft/gpl.html</url>
-		</license>
-	</licenses>
-
 	<distributionManagement>
 		<repository>
                         <id>github</id>
                         <name>GitHub phon-ca Apache Maven Packages</name>
-                        <url>https://maven.pkg.github.com/phon-ca/phon</url>
+                        <url>https://maven.pkg.github.com/phon-ca/phon-dict</url>
                 </repository>
 	</distributionManagement>
 
