@@ -4090,6 +4090,7 @@ allitération	aliteʁasjɔ̃
 allitérations	aliteʁasjɔ̃
 allium	aljɔm
 allo	alo
+allô	alo
 allobroges	alobʁɔʒ
 allocataires	alokatɛʁ
 allocation	alokasjɔ̃
@@ -21369,6 +21370,7 @@ chuchotants	ʃyʃotɑ̃
 chuchotât	ʃyʃota
 chuchoté	ʃyʃote
 chuchote	ʃyʃɔt
+chuchotes	ʃyʃɔt
 chuchotée	ʃyʃote
 chuchotées	ʃyʃote
 chuchotement	ʃyʃɔtmɑ̃
@@ -29946,6 +29948,7 @@ dadaïsme	dadaizm
 dadaïste	dadaist
 dadaïstes	dadaist
 dadas	dada
+Dagobert	daɡobɛʁ
 dague	daɡ
 dagué	daɡe
 daguerréotype	daɡɛʁeotip
@@ -30089,6 +30092,7 @@ dangereuses	dɑ̃ʒʁøz
 dangereux	dɑ̃ʒʁø
 dangerosité	dɑ̃ʒʁozite
 dangers	dɑ̃ʒe
+Daniel	danjɛl
 dano	dano
 danois	danwa
 danoise	danwaz
@@ -39926,6 +39930,7 @@ duit	dɥi
 dulcifiant	dylsifjɑ̃
 dulcinée	dylsine
 dum-dum	dumdum
+dû	dy
 dûment	dymɑ̃
 dûmes	dym
 dumper	dœmpœʁ
@@ -42305,6 +42310,7 @@ elliptiques	eliptik
 élogieuse	eloʒjøz
 élogieuses	eloʒjøz
 élogieux	eloʒjø
+Éloi	elwa
 éloigna	elwaɲa
 éloignai	elwaɲɛ
 éloignaient	elwaɲɛ
@@ -48276,6 +48282,8 @@ essuyés	esɥije
 essuyez	ɛsɥije
 essuyions	ɛsɥijɔ̃
 essuyons	ɛsɥijɔ̃
+est	ɛ
+est	e
 est	ɛst
 est-allemand	ɛstalmɑ̃
 est-allemande	ɛstalmɑ̃d
@@ -59860,6 +59868,7 @@ guichetier	ɡiʃtje
 guichetière	ɡiʃtjɛʁ
 guichetiers	ɡiʃtje
 guichets	ɡiʃɛ
+Guichou	giʃu
 guida	ɡida
 guidage	ɡidaʒ
 guidai	ɡidɛ
@@ -59905,6 +59914,7 @@ guignols	ɡiɲɔl
 guignon	ɡiɲɔ̃
 guilde	ɡild
 guildes	ɡild
+guili	ɡili
 guili-guili	ɡiliɡili
 guillaume	ɡijom
 guillaumes	ɡijom
@@ -59916,6 +59926,7 @@ guilleret	ɡijʁɛ
 guillerets	ɡijʁɛ
 guillerette	ɡijʁɛt
 guillerettes	ɡijʁɛt
+Guilleri	ɡijʁi
 guilloché	ɡijoʃe
 guillochée	ɡijoʃe
 guillochées	ɡijoʃe
@@ -75381,6 +75392,7 @@ micacées	mikase
 micas	mika
 miche	miʃ
 miché	miʃe
+Michel	miʃɛl
 micheline	miʃlin
 miches	miʃ
 michés	miʃe
@@ -76731,6 +76743,7 @@ montrassent	mɔ̃tʁas
 montrât	mɔ̃tʁa
 montre	mɔ̃tʁ
 montré	mɔ̃tʁe
+Montréal	monʁeal
 montre-bracelet	mɔ̃tʁəbʁaslɛ
 montre-la-moi	mɔ̃tʁəlamwa
 montrée	mɔ̃tʁe
@@ -85821,6 +85834,7 @@ philatélistes	filatelist
 philharmonique	filaʁmonik
 philhellène	filɛlɛn
 philhellènes	filɛlɛn
+Philippe	filip
 philippin	filipɛ̃
 philippine	filipin
 philippines	filipin
@@ -100622,6 +100636,7 @@ répression	ʁepʁesjɔ̃
 répressions	ʁepʁesjɔ̃
 répressive	ʁepʁesiv
 répressives	ʁepʁesiv
+reprête	ʁepʁɛt
 réprima	ʁepʁima
 réprimai	ʁepʁimɛ
 réprimaient	ʁepʁimɛ
@@ -103859,7 +103874,7 @@ rouget	ʁuʒɛ
 rougets	ʁuʒɛ
 rougeur	ʁuʒœʁ
 rougeurs	ʁuʒœʁ
-rough	ʁuf
+rough	ʁɔf
 rougi	ʁuʒi
 rougie	ʁuʒi
 rougies	ʁuʒi
@@ -103997,6 +104012,7 @@ rouscaillant	ʁuskajɑ̃
 rouscaille	ʁuskaj
 rouscaillent	ʁuskaj
 rouscailler	ʁuskaje
+Rouselle	rusɛl
 rouspéta	ʁuspeta
 rouspétaient	ʁuspetɛ
 rouspétais	ʁuspɛtɛ
@@ -107601,6 +107617,7 @@ silvaner	silvanɛʁ
 simagrée	simaɡʁe
 simagrées	simaɡʁe
 simarre	simaʁ
+Simba	simba
 simien	simjɛ̃
 simienne	simjɛn
 simiens	simjɛ̃
@@ -121453,8 +121470,10 @@ wisigothique	viziɡotik
 wisigothiques	viziɡotik
 wisigoths	viziɡo
 wombat	wɔmbat
+woof	wuf
 woofers	vufœʁ
 world_music	wœʁldmjuzik
+wow	waow
 wurtembergeois	vuʁtɛmbɛʁʒwa
 wurtembergeoise	vuʁtɛmbɛʁʒwaz
 x	gz
