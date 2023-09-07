@@ -1,66 +1,79 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
-	<modelVersion>4.0.0</modelVersion>
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
 
-	<groupId>ca.phon</groupId>
-	<artifactId>phon-dict</artifactId>
-	<version>49</version>
-	<packaging>pom</packaging>
+    <groupId>ca.phon</groupId>
+    <artifactId>phon-dict</artifactId>
+    <version>50</version>
+    <packaging>pom</packaging>
 
-	<name>Phon Dictionary</name>
-	<url>https://www.phon.ca</url>
-	<description>Phon is a software program that greatly facilitates a number of tasks related
-    to the analysis of phonological data. Built to support research in phonological development
-    (including babbling), second language acquisition, and phonological disorders, Phon can 
-    also be used to investigate virtually all types of phonological investigations (e.g. 
-    loanword phonology, fieldwork in phonology).</description>
+    <name>Phon Dictionary</name>
+    <url>https://www.phon.ca</url>
+    <description>Phon is a software program that greatly facilitates a number of tasks related
+        to the analysis of phonological data. Built to support research in phonological development
+        (including babbling), second language acquisition, and phonological disorders, Phon can
+        also be used to investigate virtually all types of phonological investigations (e.g.
+        loanword phonology, fieldwork in phonology).
+    </description>
 
-	<organization>
-		<name>Department of Linguistics, Memorial University of Newfoundland</name>
-		<url>https://www.mun.ca</url>
-	</organization>
+    <organization>
+        <name>Department of Linguistics, Memorial University of Newfoundland</name>
+        <url>https://www.mun.ca</url>
+    </organization>
 
-	<developers>
-		<developer>
-			<id>ghedlund</id>
-			<name>Greg Hedlund</name>
-			<email>ghedlund@mun.ca</email>
-			<timezone>-3.5</timezone>
-		</developer>
+    <developers>
+        <developer>
+            <id>ghedlund</id>
+            <name>Greg Hedlund</name>
+            <email>ghedlund@mun.ca</email>
+            <timezone>-3.5</timezone>
+        </developer>
 
-	</developers>
+    </developers>
 
-	<distributionManagement>
-		<repository>
-                        <id>github</id>
-                        <name>GitHub phon-ca Apache Maven Packages</name>
-                        <url>https://maven.pkg.github.com/phon-ca/phon-dict</url>
-                </repository>
-	</distributionManagement>
+    <distributionManagement>
+        <repository>
+            <id>github</id>
+            <name>GitHub phon-ca Apache Maven Packages</name>
+            <url>https://maven.pkg.github.com/phon-ca/phon-dict</url>
+        </repository>
+    </distributionManagement>
 
-	<properties>
-	</properties>
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <project.build.sourceVersion>17</project.build.sourceVersion>
+        <project.build.targetVersion>17</project.build.targetVersion>
+    </properties>
 
-	<modules>
-		<module>randomizer</module>
-		<module>data</module>
-	</modules>
+    <modules>
+        <module>randomizer</module>
+        <module>data</module>
+    </modules>
 
-	<build>
-		<plugins>
-			<plugin>
-				<groupId>org.apache.maven.plugins</groupId>
-				<artifactId>maven-source-plugin</artifactId>
-				<executions>
-					<execution>
-						<id>attach-sources</id>
-						<goals>
-							<goal>jar</goal>
-						</goals>
-					</execution>
-				</executions>
-			</plugin>
-		</plugins>
-	</build>
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <configuration>
+                    <source>${project.build.sourceVersion}</source>
+                    <target>${project.build.targetVersion}</target>
+                    <release>${project.build.targetVersion}</release>
+                </configuration>
+            </plugin>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-source-plugin</artifactId>
+                <executions>
+                    <execution>
+                        <id>attach-sources</id>
+                        <goals>
+                            <goal>jar</goal>
+                        </goals>
+                    </execution>
+                </executions>
+            </plugin>
+        </plugins>
+    </build>
 
 </project>
