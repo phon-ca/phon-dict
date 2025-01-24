@@ -1,7 +1,7 @@
 package ca.phon.dict.cmn;
 
 import ca.phon.app.log.LogUtil;
-import ca.phon.app.session.editor.view.ipa_lookup.IPALookupPostProcessor;
+import ca.phon.app.session.editor.view.ipaDictionary.IPALookupPostProcessor;
 import ca.phon.ipa.IPATranscript;
 import ca.phon.ipa.IPATranscriptBuilder;
 import ca.phon.ipadictionary.IPADictionary;
