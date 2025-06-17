@@ -4,7 +4,7 @@
 
     <groupId>ca.phon</groupId>
     <artifactId>phon-dict</artifactId>
-    <version>54</version>
+    <version>55</version>
     <packaging>pom</packaging>
 
     <name>Phon Dictionary</name>
