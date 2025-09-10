@@ -4,12 +4,12 @@ import ca.phon.app.log.LogUtil;
 import ca.phon.app.session.editor.view.ipaDictionary.IPALookupPostProcessor;
 import ca.phon.ipa.IPATranscript;
 import ca.phon.ipa.IPATranscriptBuilder;
+import ca.phon.ipa.SyllableInfo;
 import ca.phon.ipadictionary.IPADictionary;
 import ca.phon.phonex.PhonexMatcher;
 import ca.phon.phonex.PhonexPattern;
 import ca.phon.plugin.IPluginExtensionFactory;
 import ca.phon.plugin.IPluginExtensionPoint;
-import ca.phon.syllable.SyllabificationInfo;
 
 import java.text.ParseException;
 
@@ -70,25 +70,25 @@ public class ToneFixes implements IPALookupPostProcessor, IPluginExtensionPoint<
 	private final static String CMN_LANG = "cmn";
 
 	private final static String[] TONE_214_PHONEX = {
-			"(σ:tn(\"214\"))(?>σ:tn(\"214\"))", "(σ:tn(\"214\"))\\b(?>σ:tn(\"214\"))", "(σ:tn(\"214\"))(?>.+)"
+			"((σ/S..R/:tn(\"214\"))\\t)(?>σ:tn(\"214\"))", "((σ/S..R/:tn(\"214\"))\\t)\\b(?>σ:tn(\"214\"))", "((σ/S..R/:tn(\"214\"))\\t)(?>.+)"
 
 	};
 	private final static String[] TONE_214_REPLACE = {
-			"\\1³⁵", "\\1³⁵ ", "\\1²¹"
+			"\\2³⁵", "\\2³⁵ ", "\\2²¹"
 	};
 
 	private final static String[] I_55_PHONEX = {
-			"(\\Si:tn(\"55\"))(?>σ:tn(\"51\"))", "(\\Si:tn(\"55\"))(?>\\S.+)"
+			"((\\Si)\\t:tn(\"55\"))(?>σ:tn(\"51\"))", "((\\Si)\\t:tn(\"55\"))(?>\\S.+)"
 	};
 	private final static String[] I_55_REPLACE = {
-			"\\1³⁵", "\\1⁵¹"
+			"\\2³⁵", "\\2⁵¹"
 	};
 
 	private final static String[] PU_51_PHONEX = {
-			"(\\Spu:tn(\"51\"))(?>σ:tn(\"51\"))"
+			"((\\Spu)\\t:tn(\"51\"))(?>σ:tn(\"51\"))"
 	};
 	private final static String[] PU_51_REPLACE = {
-			"\\1³⁵"
+			"\\2³⁵"
 	};
 
 	@Override
@@ -223,11 +223,11 @@ public class ToneFixes implements IPALookupPostProcessor, IPluginExtensionPoint<
 							}
 							IPATranscript nextSyll = ipa.syllables().get(syllIdx);
 
-							SyllabificationInfo scInfo = nextSyll.elementAt(nextSyll.length() - 1).getExtension(SyllabificationInfo.class);
-							if (scInfo.getToneNumber().equals("51"))
-								builder.append("i³⁵:N");
+							SyllableInfo scInfo = nextSyll.elementAt(nextSyll.length() - 1).syllableInfo();
+							if (scInfo.tone() != null && scInfo.tone().getText().equals("⁵¹"))
+								builder.append("i:N³⁵");
 							else
-								builder.append("i⁵¹:N");
+								builder.append("i:N⁵¹");
 						}
 						while (syllIdx < ipa.syllables().size()) builder.append(ipa.syllables().get(syllIdx++));
 					} else {
@@ -251,8 +251,8 @@ public class ToneFixes implements IPALookupPostProcessor, IPluginExtensionPoint<
 	 *   </li>
 	 * </ul>
 	 *
-	 * @param orthography
-	 * @param ipa
+	 * @param fullOrtho
+	 * @param fullIpa
 	 * @return
 	 */
 	public IPATranscript pu51Sandhi(String fullOrtho, IPATranscript fullIpa) {
@@ -294,9 +294,9 @@ public class ToneFixes implements IPALookupPostProcessor, IPluginExtensionPoint<
 
 							IPATranscript nextSyll = ipa.syllables().get(syllIdx);
 
-							SyllabificationInfo scInfo = nextSyll.elementAt(nextSyll.length() - 1).getExtension(SyllabificationInfo.class);
-							if (scInfo.getToneNumber().equals("51"))
-								builder.append("p:Ou³⁵:N");
+							SyllableInfo scInfo = nextSyll.elementAt(nextSyll.length() - 1).syllableInfo();
+							if (scInfo.tone() != null && scInfo.tone().getText().equals("⁵¹"))
+								builder.append("p:Ou:N³⁵");
 							else
 								builder.append(iSyll);
 						}
